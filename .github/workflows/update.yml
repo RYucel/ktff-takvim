@@ -1,0 +1,62 @@
+name: Takvimleri güncelle
+
+on:
+  # cron-job.org bu olayı API ile tetikler (kuyruk gecikmesi yok)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "quick = güncel haftalar, full = tüm sezon"
+        type: choice
+        options: [quick, full]
+        default: quick
+  # Yedek: dış tetikleyici çalışmazsa bile günde bir tam tarama
+  schedule:
+    - cron: "17 2 * * *"
+  push:
+    branches: [main]
+    paths: ["ktff_cal/**", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ktff-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scrape + ICS + Google Calendar
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+          CAL_OWNER_EMAIL: ${{ secrets.CAL_OWNER_EMAIL }}
+          SITE_URL_OVERRIDE: ${{ vars.SITE_URL }}
+          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'full' }}
+        run: |
+          owner="$(echo '${{ github.repository_owner }}' | tr '[:upper:]' '[:lower:]')"
+          export SITE_URL="${SITE_URL_OVERRIDE:-https://${owner}.github.io/${{ github.event.repository.name }}}"
+          python -m ktff_cal --mode "$MODE"
+
+      - name: Değişiklik varsa commit
+        run: |
+          git config user.name "ktff-takvim-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data docs
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+          else
+            git commit -m "Fikstür güncellendi ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git pull --rebase --autostash
+            git push
+          fi
