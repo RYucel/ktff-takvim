@@ -241,22 +241,23 @@ def parse_venue(html: str) -> str | None:
     return None
 
 
+try:
+    from curl_cffi import requests as c_requests
+    HAS_CURL_CFFI = True
+except ImportError:
+    HAS_CURL_CFFI = False
+
+
 class Client:
     def __init__(self, delay: float = config.REQUEST_DELAY_S):
-        self.s = requests.Session()
-        self.s.headers.update({
-            "User-Agent": config.USER_AGENT,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-            "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
-            "Sec-Ch-Ua": '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
-            "Sec-Ch-Ua-Mobile": "?0",
-            "Sec-Ch-Ua-Platform": '"Windows"',
-            "Sec-Fetch-Dest": "document",
-            "Sec-Fetch-Mode": "navigate",
-            "Sec-Fetch-Site": "none",
-            "Sec-Fetch-User": "?1",
-            "Upgrade-Insecure-Requests": "1",
-        })
+        if HAS_CURL_CFFI:
+            self.s = c_requests.Session(impersonate="chrome124")
+        else:
+            self.s = requests.Session()
+            self.s.headers.update({
+                "User-Agent": config.USER_AGENT,
+                "Accept-Language": "tr-TR,tr;q=0.9",
+            })
         self.delay = delay
         self._last = 0.0
 
@@ -267,12 +268,13 @@ class Client:
                 time.sleep(wait)
             self._last = time.monotonic()
             try:
-                r = self.s.get(url, params=params, timeout=20)
+                r = self.s.get(url, params=params, timeout=25)
                 if r.status_code in (429, 500, 502, 503, 504):
-                    raise requests.HTTPError(f"HTTP {r.status_code}")
-                r.raise_for_status()
+                    raise RuntimeError(f"HTTP {r.status_code}")
+                if r.status_code != 200:
+                    r.raise_for_status()
                 return r.text
-            except requests.RequestException as e:
+            except Exception as e:
                 if attempt == 3:
                     raise
                 log.warning("Tekrar deneniyor (%s): %s", e, url)
