@@ -77,28 +77,28 @@ TEMPLATE = r"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>KKTC Futbol Takvimi</title>
-<meta name="description" content="KKTC Süper Lig ve 1. Lig fikstürlerini Google Takvim, Apple Takvim ve Outlook'a ücretsiz ekle. Logolar, saatler ve skorlar anında güncellenir.">
+<meta name="description" content="KKTC Süper Lig ve 1. Lig fikstürlerini Google Takvim, Apple Takvim ve Outlook'a tek tıkla ekle. Takımını seç, maç saatleri ve ertelemeler cebine gelsin.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg: #0f1115;
-  --surface: #181a20;
-  --surface-hover: #22252d;
-  --surface-active: #2a2e38;
-  --card: #14161b;
-  --card-border: #262933;
-  --ink: #f3f4f6;
-  --ink-secondary: #9ca3af;
-  --mute: #6b7280;
+  --bg: #0c0e12;
+  --surface: #151820;
+  --surface-hover: #1e222d;
+  --card: #13151c;
+  --card-border: #232733;
+  --ink: #f8fafc;
+  --ink-secondary: #94a3b8;
+  --mute: #64748b;
   --acc: #e11d48;
-  --acc-glow: rgba(225, 29, 72, 0.25);
+  --acc-glow: rgba(225, 29, 72, 0.3);
   --acc-ink: #ffffff;
-  --chip: #1e2129;
+  --chip: #191c26;
   --google: #4285f4;
   --apple: #9ca3af;
   --outlook: #0078d4;
+  --radius-xl: 24px;
   --radius-lg: 18px;
   --radius-md: 12px;
   --radius-sm: 8px;
@@ -108,7 +108,6 @@ TEMPLATE = r"""<!doctype html>
     --bg: #f8fafc;
     --surface: #ffffff;
     --surface-hover: #f1f5f9;
-    --surface-active: #e2e8f0;
     --card: #ffffff;
     --card-border: #e2e8f0;
     --ink: #0f172a;
@@ -133,32 +132,33 @@ body {
   min-height: 100vh;
 }
 .wrap {
-  max-width: 920px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 40px 20px 80px;
 }
 header {
+  text-align: center;
   margin-bottom: 32px;
 }
 .badge-hero {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 6px 14px;
+  padding: 6px 16px;
   background: var(--surface);
   border: 1px solid var(--card-border);
   border-radius: 999px;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--acc);
   margin-bottom: 16px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 header h1 {
-  font-size: clamp(32px, 6vw, 48px);
+  font-size: clamp(34px, 6.5vw, 54px);
   font-weight: 800;
   line-height: 1.1;
-  margin: 0 0 12px;
+  margin: 0 0 16px;
   letter-spacing: -0.03em;
 }
 header h1 span {
@@ -167,12 +167,114 @@ header h1 span {
   -webkit-text-fill-color: transparent;
 }
 header p {
-  margin: 0;
+  margin: 0 auto;
   color: var(--ink-secondary);
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.6;
-  max-width: 60ch;
+  max-width: 58ch;
 }
+
+/* Feature Showcase Box: Sevdiğin Takıma Abone Ol */
+.fav-box {
+  background: linear-gradient(135deg, rgba(225, 29, 72, 0.08) 0%, rgba(21, 24, 32, 0.95) 100%);
+  border: 1px solid rgba(225, 29, 72, 0.25);
+  border-radius: var(--radius-xl);
+  padding: 24px 28px;
+  margin: 32px 0 36px;
+  box-shadow: 0 12px 32px rgba(0,0,0,0.25);
+}
+.fav-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.fav-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 19px;
+  font-weight: 800;
+  color: var(--ink);
+}
+.fav-subtitle {
+  color: var(--ink-secondary);
+  font-size: 13px;
+  margin-top: 4px;
+}
+.fav-badge {
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+/* Horizontal / Grid Logo Selector */
+.team-logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(78px, 1fr));
+  gap: 10px;
+  max-height: 230px;
+  overflow-y: auto;
+  padding: 4px;
+  border-radius: var(--radius-md);
+}
+.team-logo-grid::-webkit-scrollbar {
+  width: 6px;
+}
+.team-logo-grid::-webkit-scrollbar-thumb {
+  background: var(--card-border);
+  border-radius: 999px;
+}
+.team-logo-btn {
+  background: var(--surface);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-md);
+  padding: 8px 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  color: var(--ink);
+  text-align: center;
+}
+.team-logo-btn:hover {
+  background: var(--surface-hover);
+  border-color: var(--acc);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+.team-logo-btn[aria-selected="true"] {
+  background: var(--surface-hover);
+  border-color: var(--acc);
+  box-shadow: 0 0 0 2px var(--acc);
+}
+.team-logo-btn img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  background: #ffffff;
+  border-radius: var(--radius-sm);
+  padding: 2px;
+}
+.team-logo-btn span {
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 70px;
+}
+
+/* Control filter bar */
 .controls {
   display: flex;
   flex-direction: column;
@@ -220,8 +322,8 @@ header p {
 }
 .select-wrapper {
   position: relative;
-  flex: 1 1 260px;
-  max-width: 380px;
+  flex: 1 1 240px;
+  max-width: 340px;
 }
 .team-select {
   width: 100%;
@@ -287,6 +389,10 @@ header p {
   transform: translateY(-2px);
   border-color: rgba(225, 29, 72, 0.4);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+.card.featured {
+  border-color: var(--acc);
+  box-shadow: 0 0 0 2px var(--acc-glow), 0 12px 28px rgba(0,0,0,0.2);
 }
 .card.league {
   grid-column: 1 / -1;
@@ -463,8 +569,20 @@ footer a:hover {
   <header>
     <div class="badge-hero">⚽ KKTC Resmi Fikstür Takvimi</div>
     <h1>KKTC futbolu <span>takviminde.</span></h1>
-    <p>Takımını seç, tek tıkla takvimine abone ol. Karşılaşma saatleri, stadyumlar, ertelemeler ve skorlar otomatik güncellenir.</p>
+    <p>Takımına bir kez abone ol; tüm sezonun maç saatleri, ertelemeler ve stadyum detayları telefon takvimine otomatik işlensin.</p>
   </header>
+
+  <!-- Sevdiğin Takıma Abone Ol (Quick Logo Showcase) -->
+  <div class="fav-box">
+    <div class="fav-header">
+      <div>
+        <div class="fav-title">❤️ Sevdiğin Takıma Abone Ol</div>
+        <div class="fav-subtitle">Aşağıdan takımının logosuna tıkla, doğrudan takvimine ekle:</div>
+      </div>
+      <span class="fav-badge">Tek Tıkla Abone Ol</span>
+    </div>
+    <div class="team-logo-grid" id="teamLogoGrid"></div>
+  </div>
 
   <div class="controls">
     <div class="filters-row">
@@ -481,7 +599,7 @@ footer a:hover {
   <div id="out"></div>
 
   <footer>
-    <p><b>Google Takvim</b> butonu doğrudan güncellenen bir Google takvimine abone yapar. <b>Apple / Outlook</b> butonu ICS aboneliğidir; uygulamanın yenileme aralığına göre otomatik güncellenir. Android kullanıcıları için Google Takvim önerilir.</p>
+    <p><b>Google Takvim</b> butonu doğrudan güncellenen bir Google takvimine abone yapar. <b>Apple / Outlook</b> butonu ICS canlı yayın aboneliğidir; uygulamanız yeni maç saatlerini kendiliğinden çeker. Android kullanıcıları için Google Takvim önerilir.</p>
     <p>Veriler <a href="https://ktff.org" target="_blank" rel="noopener">ktff.org</a> üzerinden otomatik senkronize edilir. Bu proje bağımsız bir açık kaynak hizmetidir; resmi bildirimler için federasyon duyurularını takip ediniz.</p>
   </footer>
 </div>
@@ -506,6 +624,35 @@ let selectedTeamKey = "all";
 
 const leagueChips = document.getElementById("leagueChips");
 const teamSelect = document.getElementById("teamSelect");
+const teamLogoGrid = document.getElementById("teamLogoGrid");
+
+function renderLogoGrid() {
+  const teams = D.items.filter(i => i.type === "team" && (currentLeague === "all" || i.league === currentLeague));
+  teams.sort((a, b) => a.name.localeCompare(b.name, "tr"));
+
+  teamLogoGrid.innerHTML = "";
+  teams.forEach(t => {
+    const btn = document.createElement("button");
+    btn.className = "team-logo-btn";
+    btn.setAttribute("aria-selected", t.key === selectedTeamKey);
+    btn.title = t.name;
+    const logoSrc = t.logo || "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><text y='18' font-size='18'>⚽</text></svg>";
+    btn.innerHTML = `
+      <img src="${esc(logoSrc)}" alt="${esc(t.name)}" loading="lazy">
+      <span>${esc(t.name)}</span>
+    `;
+    btn.onclick = () => {
+      selectedTeamKey = (selectedTeamKey === t.key) ? "all" : t.key;
+      teamSelect.value = selectedTeamKey;
+      renderLogoGrid();
+      render();
+      if (selectedTeamKey !== "all") {
+        document.getElementById("out").scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    };
+    teamLogoGrid.appendChild(btn);
+  });
+}
 
 function populateTeamSelect() {
   const teams = D.items.filter(i => i.type === "team" && (currentLeague === "all" || i.league === currentLeague));
@@ -531,6 +678,7 @@ function mkLeagueBtn(key, label) {
     selectedTeamKey = "all";
     leagueChips.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x.dataset.key === key));
     populateTeamSelect();
+    renderLogoGrid();
     render();
   };
   leagueChips.appendChild(b);
@@ -539,9 +687,11 @@ function mkLeagueBtn(key, label) {
 mkLeagueBtn("all", "Tümü");
 D.leagues.forEach(l => mkLeagueBtn(l.key, l.name.replace("AKSA ", "")));
 populateTeamSelect();
+renderLogoGrid();
 
 teamSelect.onchange = () => {
   selectedTeamKey = teamSelect.value;
+  renderLogoGrid();
   render();
 };
 
@@ -570,8 +720,10 @@ function card(i) {
     ? i.google 
     : `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(webcal(url))}`;
 
+  const isSelected = selectedTeamKey === i.key;
+
   return `
-    <div class="card ${i.type}">
+    <div class="card ${i.type} ${isSelected ? 'featured' : ''}" id="card-${esc(i.key.replace('/', '-'))}">
       <div class="top">
         ${logoHtml}
         <div class="card-header-text">
@@ -582,7 +734,7 @@ function card(i) {
       ${nextHtml}
       <div class="acts">
         <a class="pri" href="${esc(googleUrl)}" target="_blank" rel="noopener">
-          📅 Google Takvim
+          📅 Google Takvim'e Abone Ol
         </a>
         <a href="${esc(webcal(url))}">
           🍎 Apple Takvim
