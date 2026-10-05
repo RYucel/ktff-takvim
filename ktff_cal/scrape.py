@@ -252,11 +252,21 @@ class Client:
     def __init__(self, delay: float = config.REQUEST_DELAY_S):
         if HAS_CURL_CFFI:
             self.s = c_requests.Session(impersonate="chrome124")
+            self.s.headers.update({
+                "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Referer": "https://ktff.org/",
+            })
+            try:
+                # Cloudflare oturum çerezini almak için önce ana sayfaya nazik bir istek
+                self.s.get("https://ktff.org", timeout=15)
+            except Exception:
+                pass
         else:
             self.s = requests.Session()
             self.s.headers.update({
                 "User-Agent": config.USER_AGENT,
-                "Accept-Language": "tr-TR,tr;q=0.9",
+                "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Referer": "https://ktff.org/",
             })
         self.delay = delay
         self._last = 0.0
