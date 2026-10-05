@@ -21,4 +21,4 @@ LEAGUES = [
 
 REQUEST_DELAY_S = 0.6  # KTFF sunucusuna nazik davran
 MAX_WEEKS = 60
-USER_AGENT = "ktff-takvim/1.0 (fikstur -> takvim; iletisim icin repo sayfasina bakin)"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"

@@ -244,7 +244,19 @@ def parse_venue(html: str) -> str | None:
 class Client:
     def __init__(self, delay: float = config.REQUEST_DELAY_S):
         self.s = requests.Session()
-        self.s.headers.update({"User-Agent": config.USER_AGENT, "Accept-Language": "tr"})
+        self.s.headers.update({
+            "User-Agent": config.USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Sec-Ch-Ua": '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
+            "Sec-Ch-Ua-Mobile": "?0",
+            "Sec-Ch-Ua-Platform": '"Windows"',
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1",
+            "Upgrade-Insecure-Requests": "1",
+        })
         self.delay = delay
         self._last = 0.0
 
