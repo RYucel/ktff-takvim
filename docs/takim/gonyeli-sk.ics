@@ -21,6 +21,18 @@ URL:https://ktff.org/maclar/25437
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 2–0 Yeniboğaziçi D
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 2–0 Yenib
+ oğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25445@ktff-takvim
@@ -35,6 +47,18 @@ URL:https://ktff.org/maclar/25445
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK 3–1 Gönyeli 
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK 3–
+ 1 Gönyeli SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25453@ktff-takvim
@@ -49,6 +73,17 @@ URL:https://ktff.org/maclar/25453
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 2–3 Maraş GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 2–3 Mara
+ ş GSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25461@ktff-takvim
@@ -63,6 +98,18 @@ URL:https://ktff.org/maclar/25461
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Gönye
+ li SK (Tatil Edildi)
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Gönyeli SK (Tatil Edildi)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25469@ktff-takvim
@@ -77,5 +124,17 @@ URL:https://ktff.org/maclar/25469
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Çello Dikmen Güc
+ ü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Çello 
+ Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -21,6 +21,18 @@ URL:https://ktff.org/maclar/25434
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 3–0 Akd
+ oğan SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
+ K 3–0 Akdoğan SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25442@ktff-takvim
@@ -35,6 +47,18 @@ URL:https://ktff.org/maclar/25442
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Çatalköy Nihat Bağcıer Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK 0–1 Türk Ocağı 
+ Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK 0–1 Tü
+ rk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25450@ktff-takvim
@@ -49,6 +73,18 @@ URL:https://ktff.org/maclar/25450
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 2–1 M. 
+ Hacıali Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
+ K 2–1 M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25458@ktff-takvim
@@ -63,6 +99,18 @@ URL:https://ktff.org/maclar/25458
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK 1–3 Türk Oca
+ ğı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK 1–
+ 3 Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25466@ktff-takvim
@@ -77,5 +125,17 @@ URL:https://ktff.org/maclar/25466
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Karao
+ ğlanoğlu SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
+ K – Karaoğlanoğlu SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR

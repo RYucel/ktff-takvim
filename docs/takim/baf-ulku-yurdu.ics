@@ -21,6 +21,18 @@ URL:https://ktff.org/maclar/25327
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 0–5 Değirmenli
+ k SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu 0–5 
+ Değirmenlik SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25335@ktff-takvim
@@ -35,6 +47,18 @@ URL:https://ktff.org/maclar/25335
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK 5–1 Baf Ülkü Yu
+ rdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK 5–1 Ba
+ f Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25342@ktff-takvim
@@ -49,6 +73,17 @@ URL:https://ktff.org/maclar/25342
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 5–0 Mesarya SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu 5–0 
+ Mesarya SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25349@ktff-takvim
@@ -63,6 +98,18 @@ URL:https://ktff.org/maclar/25349
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK 2–2 Baf Ülkü Yur
+ du
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK 2–2 Baf
+  Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25356@ktff-takvim
@@ -77,5 +124,17 @@ URL:https://ktff.org/maclar/25356
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Mağusa Türk
+  Gücü
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ma
+ ğusa Türk Gücü
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR

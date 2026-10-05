@@ -60,6 +60,19 @@ def build(spec: CalendarSpec, stamp: datetime | None = None) -> str:
         ]
         if ev.location:
             lines.append(f"LOCATION:{_esc(ev.location)}")
+        # Bildirim alarmları: Maçtan 2 saat önce ve 15 dakika önce
+        lines += [
+            "BEGIN:VALARM",
+            "ACTION:DISPLAY",
+            f"DESCRIPTION:⚽ Maç Hatırlatması: {_esc(ev.summary)}",
+            "TRIGGER:-PT2H",
+            "END:VALARM",
+            "BEGIN:VALARM",
+            "ACTION:DISPLAY",
+            f"DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! {_esc(ev.summary)}",
+            "TRIGGER:-PT15M",
+            "END:VALARM",
+        ]
         lines.append("END:VEVENT")
     lines.append("END:VCALENDAR")
     return "\r\n".join(_fold(l) for l in lines) + "\r\n"

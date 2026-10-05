@@ -21,6 +21,18 @@ URL:https://ktff.org/maclar/25437
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 2–0 Yeniboğaziçi D
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 2–0 Yenib
+ oğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25451@ktff-takvim
@@ -35,6 +47,18 @@ URL:https://ktff.org/maclar/25451
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Mormenekşe Cemal Balses Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK 1–2 Yeniboğazi
+ çi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK 1–2 
+ Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25458@ktff-takvim
@@ -49,6 +73,18 @@ URL:https://ktff.org/maclar/25458
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK 1–3 Türk Oca
+ ğı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK 1–
+ 3 Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25465@ktff-takvim
@@ -63,5 +99,17 @@ URL:https://ktff.org/maclar/25465
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Göçmenköy Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Yeniboğazi
+ çi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
+ Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR

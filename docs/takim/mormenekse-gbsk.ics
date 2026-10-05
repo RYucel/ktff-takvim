@@ -21,6 +21,18 @@ URL:https://ktff.org/maclar/25435
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Mormenekşe Cemal Balses Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK 3–1 Düzkaya KO
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK 3–1 
+ Düzkaya KOSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25443@ktff-takvim
@@ -35,6 +47,18 @@ URL:https://ktff.org/maclar/25443
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK 2–1 M
+ ormenekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK 2–1 Mormenekşe GBSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25451@ktff-takvim
@@ -49,6 +73,18 @@ URL:https://ktff.org/maclar/25451
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Mormenekşe Cemal Balses Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK 1–2 Yeniboğazi
+ çi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK 1–2 
+ Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25459@ktff-takvim
@@ -63,6 +99,18 @@ URL:https://ktff.org/maclar/25459
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK 2–0 Mormenek
+ şe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK 2–
+ 0 Mormenekşe GBSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25467@ktff-takvim
@@ -77,5 +125,16 @@ URL:https://ktff.org/maclar/25467
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Mormenekşe Cemal Balses Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK – Maraş GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK – Ma
+ raş GSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR

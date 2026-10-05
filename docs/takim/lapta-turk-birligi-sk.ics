@@ -21,6 +21,18 @@ URL:https://ktff.org/maclar/25439
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK 5–0 Mara
+ ş GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  5–0 Maraş GSK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25447@ktff-takvim
@@ -35,6 +47,18 @@ URL:https://ktff.org/maclar/25447
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK 1–0 
+ Lapta Türk Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK 1–0 Lapta Türk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25454@ktff-takvim
@@ -49,6 +73,18 @@ URL:https://ktff.org/maclar/25454
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK 0–0 Lapt
+ a Türk Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  0–0 Lapta Türk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25461@ktff-takvim
@@ -63,5 +99,17 @@ URL:https://ktff.org/maclar/25461
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Gönye
+ li SK (Tatil Edildi)
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Gönyeli SK (Tatil Edildi)
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR
