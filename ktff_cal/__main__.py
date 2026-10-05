@@ -80,7 +80,9 @@ def main(argv: list[str] | None = None) -> int:
             gcal.save_state(state)
     n = site.build(specs, state, team_logos=team_logos)
     log.info("%d takvim, %d maç; %d dosya değişti.", len(specs), len(matches), n)
-    return 2 if failures and failures == sum(l["enabled"] for l in config.LEAGUES) else 0
+    if failures:
+        log.warning("%d lig taranamadı, mevcut takvim ve maç verileri aynen korundu.", failures)
+    return 0
 
 
 if __name__ == "__main__":
