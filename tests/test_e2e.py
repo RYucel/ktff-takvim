@@ -23,7 +23,7 @@ def test_run(tmp_path, monkeypatch):
     monkeypatch.setattr(store, "PATH", tmp_path / "data/matches.json")
     monkeypatch.setattr(gcal, "STATE_PATH", tmp_path / "data/gcal_state.json")
     monkeypatch.setattr(config, "SITE_DIR", tmp_path / "docs")
-    monkeypatch.setattr(site.build, "__defaults__", (tmp_path / "docs",))
+    monkeypatch.setattr(site.build, "__defaults__", (None, tmp_path / "docs"))
     monkeypatch.setattr(store.load, "__defaults__", (tmp_path / "data/matches.json",))
     monkeypatch.setattr(store.save, "__defaults__", (tmp_path / "data/matches.json",))
     monkeypatch.setattr(gcal.load_state, "__defaults__", (tmp_path / "data/gcal_state.json",))

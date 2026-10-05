@@ -37,16 +37,18 @@ class EventView:
 def event_for(m: Match) -> EventView:
     lig = LEAGUE_NAMES.get(m.league, m.league)
     if m.played:
-        summary = f"{m.home} {m.home_score}–{m.away_score} {m.away}"
+        summary = f"⚽ {m.home} {m.home_score}–{m.away_score} {m.away}"
     else:
-        summary = f"{m.home} – {m.away}"
+        summary = f"⚽ {m.home} – {m.away}"
     if m.status:
         summary += f" ({m.status})"
 
-    lines = [f"{lig} · {m.week}. Hafta", f"Maç No: {m.match_no}"]
+    lines = [f"🏆 {lig} · {m.week}. Hafta", f"🔢 Maç No: {m.match_no}"]
+    if m.venue:
+        lines.append(f"📍 {m.venue}")
     if not m.time:
-        lines.append("Saat henüz açıklanmadı.")
-    lines.append(m.url)
+        lines.append("⏰ Saat henüz açıklanmadı.")
+    lines.append(f"🔗 {m.url}")
 
     d = date.fromisoformat(m.date)
     if m.time:

@@ -160,6 +160,7 @@ def parse_fixture_page(html: str, league_key: str, week: int | None = None) -> t
     matches: list[Match] = []
     seen: set[int] = set()
     undated = 0
+    logos: dict[str, str] = {}
     current_date: str | None = None
     for node in soup.descendants:
         if isinstance(node, NavigableString):
@@ -178,12 +179,29 @@ def parse_fixture_page(html: str, league_key: str, week: int | None = None) -> t
             if no in seen:
                 continue
             seen.add(no)
+
+            # Takım logolarını topla
+            teams_el = node.find_all(class_="league-fixture-team")
+            if len(teams_el) >= 2:
+                for el, k in [(teams_el[0], info.get("home")), (teams_el[1], info.get("away"))]:
+                    img = el.find("img")
+                    if img and img.get("src") and k and k not in logos:
+                        logos[k] = img["src"]
+            else:
+                imgs = node.find_all("img")
+                if len(imgs) >= 2 and info.get("home") and info.get("away"):
+                    if imgs[0].get("src") and info["home"] not in logos:
+                        logos[info["home"]] = imgs[0]["src"]
+                    if imgs[1].get("src") and info["away"] not in logos:
+                        logos[info["away"]] = imgs[1]["src"]
+
             if current_date is None:
                 undated += 1  # tarih açıklanınca takvime girer
                 continue
             info["match_no"] = no
             matches.append(Match(league=league_key, week=page_week, date=current_date, **info))
     meta["undated"] = undated
+    meta["logos"] = logos
     if undated:
         log.debug("%s %d. hafta: %d maçın tarihi henüz açıklanmadı", league_key, page_week, undated)
     return matches, meta
@@ -274,6 +292,7 @@ def scrape_league(client: Client, league: dict, mode: str) -> tuple[list[Match],
 
     out: dict[int, Match] = {}
     done: set[int] = set()
+    logos: dict[str, str] = {}
     undated = 0
 
     def fetch(w: int) -> bool:
@@ -285,6 +304,7 @@ def scrape_league(client: Client, league: dict, mode: str) -> tuple[list[Match],
             return False
         done.add(w)
         undated += meta.get("undated", 0)
+        logos.update(meta.get("logos", {}))
         for m in ms:
             out[m.match_no] = m
         return bool(ms) or meta.get("undated", 0) > 0
@@ -299,4 +319,4 @@ def scrape_league(client: Client, league: dict, mode: str) -> tuple[list[Match],
             w += 1
     log.info("%s: %d maç, %d hafta (%s)%s", league["key"], len(out), len(done), mode,
              f", tarihi açıklanmamış {undated} maç atlandı" if undated else "")
-    return list(out.values()), done
+    return list(out.values()), done, logos

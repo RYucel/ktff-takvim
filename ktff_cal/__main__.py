@@ -31,12 +31,14 @@ def main(argv: list[str] | None = None) -> int:
                         format="%(levelname)s %(name)s: %(message)s")
 
     matches = store.load()
+    team_logos = store.load_logos()
     failures = 0
     if not a.offline:
         client = Client()
         for lg in [l for l in config.LEAGUES if l["enabled"]]:
             try:
-                fresh, weeks = scrape_league(client, lg, a.mode)
+                fresh, weeks, logos = scrape_league(client, lg, a.mode)
+                team_logos.update(logos)
             except Exception as e:  # bir lig patlarsa diğerleri yine güncellensin
                 log.error("%s taranamadı: %s", lg["key"], e)
                 failures += 1
@@ -46,6 +48,7 @@ def main(argv: list[str] | None = None) -> int:
                 continue
             changed = store.merge(matches, fresh, lg["key"], weeks)
             log.info("%s: %d değişiklik", lg["key"], len(changed))
+        store.save_logos(team_logos)
 
         # Saha bilgisi: sadece bilinmeyenler için, önce yaklaşan maçlar
         today = datetime.now(timezone.utc).date().isoformat()
@@ -75,7 +78,7 @@ def main(argv: list[str] | None = None) -> int:
     if not a.no_gcal:
         if gcal.sync(specs, state) is not None:
             gcal.save_state(state)
-    n = site.build(specs, state)
+    n = site.build(specs, state, team_logos=team_logos)
     log.info("%d takvim, %d maç; %d dosya değişti.", len(specs), len(matches), n)
     return 2 if failures and failures == sum(l["enabled"] for l in config.LEAGUES) else 0
 

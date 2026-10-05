@@ -25,6 +25,20 @@ def save(matches: dict[int, Match], path: Path = PATH) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
+LOGOS_PATH = config.DATA_DIR / "team_logos.json"
+
+
+def load_logos(path: Path = LOGOS_PATH) -> dict[str, str]:
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def save_logos(logos: dict[str, str], path: Path = LOGOS_PATH) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(logos, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+
+
 def merge(store: dict[int, Match], fresh: list[Match], league: str, weeks_scraped: set[int]) -> list[Match]:
     """Taze veriyi kayda işler; değişen maçların rev'ini artırır. Değişenleri döner.
 

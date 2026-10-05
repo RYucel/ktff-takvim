@@ -100,7 +100,7 @@ def test_scrape_league_stops_on_fallback():
             return parse_fixture_page((FX / "week4.html").read_text(encoding="utf-8"), "super-lig", week)
 
     c = FakeClient()
-    ms, done = scrape_league(c, {"key": "super-lig"}, "full")
+    ms, done, logos = scrape_league(c, {"key": "super-lig"}, "full")
     # Nav'da 1..15 var; sadece 4 gerçekten var, 16 ve 17 geri düşüş -> dur
     assert done == {4} and c.calls[-1] == 17 and len(c.calls) == 1 + 15 + 2
     assert {m.week for m in ms} == {4}
