@@ -73,3 +73,38 @@ def test_slug():
     assert slugify("Çetinkaya TSK") == "cetinkaya-tsk"
     assert slugify("Değirmenlik SK") == "degirmenlik-sk"
     assert slugify("Küçük Kaymaklı TSK") == "kucuk-kaymakli-tsk"
+
+
+def test_pending_date_and_time():
+    """Canlı site: 'Tarih bekleniyor' başlığı altındaki maçlar atlanır, 'Saat bekleniyor' isme karışmaz."""
+    ms, meta = parse_fixture_page((FX / "week15_pending.html").read_text(encoding="utf-8"), "super-lig", 15)
+    assert [m.match_no for m in ms] == [25424] and meta["undated"] == 1
+    m = ms[0]
+    assert (m.home, m.away, m.date, m.time, m.status, m.week) == (
+        "Yenicami AK", "Cihangir GSK", "2026-12-20", None, None, 15)
+
+
+def test_out_of_range_week_uses_shown_week():
+    """Site geçersiz ?hafta=N için varsayılan haftayı döner; maçlar istenen haftayla etiketlenmemeli."""
+    ms, meta = parse_fixture_page((FX / "week4.html").read_text(encoding="utf-8"), "super-lig", 45)
+    assert meta["shown_week"] == 4 and {m.week for m in ms} == {4}
+
+
+def test_scrape_league_stops_on_fallback():
+    from ktff_cal.scrape import scrape_league
+
+    class FakeClient:
+        def __init__(self): self.calls = []
+        def fixture(self, league, week=None):
+            self.calls.append(week)
+            return parse_fixture_page((FX / "week4.html").read_text(encoding="utf-8"), "super-lig", week)
+
+    c = FakeClient()
+    ms, done = scrape_league(c, {"key": "super-lig"}, "full")
+    # Nav'da 1..15 var; sadece 4 gerçekten var, 16 ve 17 geri düşüş -> dur
+    assert done == {4} and c.calls[-1] == 17 and len(c.calls) == 1 + 15 + 2
+    assert {m.week for m in ms} == {4}
+
+
+def test_venue_jsonld():
+    assert parse_venue((FX / "match_jsonld.html").read_text(encoding="utf-8")) == "Lefkoşa Atatürk Stadı"

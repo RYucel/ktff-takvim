@@ -11,6 +11,7 @@ dayanıklı olması için bilinçli olarak böyle.
 
 from __future__ import annotations
 
+import json
 import logging
 import re
 import time
@@ -38,6 +39,9 @@ MATCH_NO_RE = re.compile(r"Maç\s*No\s*:?\s*(\d+)", re.IGNORECASE)
 TIME_RE = re.compile(r"\b(\d{1,2})[:.](\d{2})\b")
 SCORE_RE = re.compile(r"^(\d{1,2})\s*[-–]\s*(\d{1,2})$")
 VENUE_RE = re.compile(r"(Stad[ıi]|Stadyumu|Sahas[ıi]|Tesisleri|Stadium)\b", re.IGNORECASE)
+# Canlı sitede tarihi/saati açıklanmamış maçlar için yer tutucu metinler
+PENDING_DATE_RE = re.compile(r"Tarih\s+bekleniyor", re.IGNORECASE)
+PENDING_RE = re.compile(r"\b(Saat|Tarih)\s+bekleniyor\b", re.IGNORECASE)
 
 
 @dataclass
@@ -101,7 +105,7 @@ def parse_date(text: str) -> str | None:
 
 def parse_match_text(text: str) -> dict | None:
     """Link metnini parçalar. None dönerse metin maç satırı değildir."""
-    text = " ".join(text.split())
+    text = " ".join(PENDING_RE.sub(" ", text).split())
     m = MATCH_NO_RE.search(text)
     if not m:
         return None
@@ -150,10 +154,12 @@ def parse_fixture_page(html: str, league_key: str, week: int | None = None) -> t
             meta["shown_week"] = int(WEEK_TITLE_RE.search(s).group(1))
             break
     meta["weeks"] = sorted(meta["weeks"])
-    page_week = week or meta["shown_week"] or 0
+    # Sitenin gerçekten gösterdiği hafta esas: geçersiz ?hafta=N istenirse site varsayılan haftayı döner.
+    page_week = meta["shown_week"] or week or 0
 
     matches: list[Match] = []
     seen: set[int] = set()
+    undated = 0
     current_date: str | None = None
     for node in soup.descendants:
         if isinstance(node, NavigableString):
@@ -162,6 +168,8 @@ def parse_fixture_page(html: str, league_key: str, week: int | None = None) -> t
             d = parse_date(str(node))
             if d:
                 current_date = d
+            elif PENDING_DATE_RE.search(str(node)):
+                current_date = None  # sonraki maçlar önceki günün tarihini almasın
         elif isinstance(node, Tag) and node.name == "a" and MATCH_HREF_RE.search(node.get("href", "")):
             info = parse_match_text(node.get_text(" ", strip=True))
             if not info:
@@ -171,16 +179,44 @@ def parse_fixture_page(html: str, league_key: str, week: int | None = None) -> t
                 continue
             seen.add(no)
             if current_date is None:
-                log.warning("Tarihsiz maç atlandı: %s", no)
+                undated += 1  # tarih açıklanınca takvime girer
                 continue
             info["match_no"] = no
             matches.append(Match(league=league_key, week=page_week, date=current_date, **info))
+    meta["undated"] = undated
+    if undated:
+        log.debug("%s %d. hafta: %d maçın tarihi henüz açıklanmadı", league_key, page_week, undated)
     return matches, meta
+
+
+def _jsonld_venue(soup: BeautifulSoup) -> str | None:
+    """Maç sayfasındaki schema.org SportsEvent -> location.name."""
+    for tag in soup.find_all("script", type="application/ld+json"):
+        try:
+            data = json.loads(tag.string or "")
+        except ValueError:
+            continue
+        stack = [data]
+        while stack:
+            d = stack.pop()
+            if isinstance(d, list):
+                stack.extend(d)
+            elif isinstance(d, dict):
+                loc = d.get("location")
+                if isinstance(loc, dict) and isinstance(loc.get("name"), str) and loc["name"].strip():
+                    return " ".join(loc["name"].split())
+                stack.extend(v for v in d.values() if isinstance(v, (dict, list)))
+    return None
 
 
 def parse_venue(html: str) -> str | None:
     soup = BeautifulSoup(html, "html.parser")
+    v = _jsonld_venue(soup)
+    if v:
+        return v
     for s in soup.find_all(string=VENUE_RE):
+        if s.parent is not None and s.parent.name in ("script", "style"):
+            continue
         t = " ".join(str(s).split()).strip(" \"'")
         if 4 < len(t) < 90:
             return t
@@ -238,20 +274,29 @@ def scrape_league(client: Client, league: dict, mode: str) -> tuple[list[Match],
 
     out: dict[int, Match] = {}
     done: set[int] = set()
-    for w in weeks:
-        ms, _ = client.fixture(league, w)
+    undated = 0
+
+    def fetch(w: int) -> bool:
+        """Haftayı tarar; hafta sitede yoksa (site varsayılan haftaya düşerse) False."""
+        nonlocal undated
+        ms, meta = client.fixture(league, w)
+        if meta["shown_week"] is not None and meta["shown_week"] != w:
+            log.debug("%s: %d. hafta yok (site %s. haftayı gösterdi)", league["key"], w, meta["shown_week"])
+            return False
         done.add(w)
+        undated += meta.get("undated", 0)
         for m in ms:
             out[m.match_no] = m
+        return bool(ms) or meta.get("undated", 0) > 0
+
+    for w in weeks:
+        fetch(w)
     if mode != "quick":
-        # 2. devre linkleri ilk sayfada görünmeyebilir: boş hafta gelene kadar devam
+        # 2. devre linkleri ilk sayfada görünmeyebilir: hafta bulunamayana kadar devam
         w, empty = max(weeks) + 1 if weeks else 1, 0
         while w <= config.MAX_WEEKS and empty < 2:
-            ms, _ = client.fixture(league, w)
-            done.add(w)
-            empty = 0 if ms else empty + 1
-            for m in ms:
-                out[m.match_no] = m
+            empty = 0 if fetch(w) else empty + 1
             w += 1
-    log.info("%s: %d maç, %d hafta (%s)", league["key"], len(out), len(done), mode)
+    log.info("%s: %d maç, %d hafta (%s)%s", league["key"], len(out), len(done), mode,
+             f", tarihi açıklanmamış {undated} maç atlandı" if undated else "")
     return list(out.values()), done
