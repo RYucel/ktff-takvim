@@ -164,16 +164,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25372@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T050109Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Dumlupınar TSK 1–0 Alsancak Yeşilova SK
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25372\n🔗 htt
- ps://ktff.org/maclar/25372
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25372\n📍 Gaz
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25372
 URL:https://ktff.org/maclar/25372
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 1–0 Alsancak Ye

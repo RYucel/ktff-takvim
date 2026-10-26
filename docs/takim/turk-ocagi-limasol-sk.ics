@@ -166,16 +166,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25482@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050112Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Türk Ocağı Limasol SK 4–2 Lapta Türk Birliği SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25482\n🔗 https:/
- /ktff.org/maclar/25482
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25482\n📍 Girne 2
+ 0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25482
 URL:https://ktff.org/maclar/25482
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 4–2 Lap

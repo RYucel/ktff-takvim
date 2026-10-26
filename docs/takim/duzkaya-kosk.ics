@@ -163,16 +163,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25487@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050108Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Düzkaya KOSK 0–1 DND L. Gençler Birliği SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25487\n🔗 https:/
- /ktff.org/maclar/25487
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25487\n📍 Çatalk
+ öy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25487
 URL:https://ktff.org/maclar/25487
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK 0–1 DND L. Gençle

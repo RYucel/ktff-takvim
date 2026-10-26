@@ -140,16 +140,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25486@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050107Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Akdoğan SK 0–3 M. Hacıali Yılmazköy SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25486\n🔗 https:/
- /ktff.org/maclar/25486
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25486\n📍 Akdoğa
+ n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25486
 URL:https://ktff.org/maclar/25486
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK 0–3 M. Hacıali Yıl

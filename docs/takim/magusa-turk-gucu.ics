@@ -166,16 +166,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25374@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T050110Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Değirmenlik SK 2–4 Mağusa Türk Gücü
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25374\n🔗 htt
- ps://ktff.org/maclar/25374
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25374\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25374
 URL:https://ktff.org/maclar/25374
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK 2–4 Mağusa Tür

@@ -802,10 +802,11 @@
   "home_score": 1,
   "away_score": 3,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Lefkoşa Atatürk Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T050109Z",
+   "venue_tries": 1
   }
  },
  "25372": {
@@ -819,10 +820,11 @@
   "home_score": 1,
   "away_score": 0,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T050109Z",
+   "venue_tries": 1
   }
  },
  "25373": {
@@ -854,10 +856,11 @@
   "home_score": 2,
   "away_score": 4,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Değirmenlik Sadık Cemil Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T050110Z",
+   "venue_tries": 1
   }
  },
  "25375": {
@@ -871,10 +874,11 @@
   "home_score": 4,
   "away_score": 1,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Karşıyaka Şampiyon Melekler Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T050110Z",
+   "venue_tries": 1
   }
  },
  "25376": {
@@ -1896,10 +1900,11 @@
   "home_score": 1,
   "away_score": 0,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Lefke 16 Ağustos Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T050111Z",
+   "venue_tries": 1
   }
  },
  "25481": {
@@ -1913,10 +1918,11 @@
   "home_score": 3,
   "away_score": 0,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Göçmenköy Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T050106Z",
+   "venue_tries": 1
   }
  },
  "25482": {
@@ -1930,10 +1936,11 @@
   "home_score": 4,
   "away_score": 2,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Girne 20 Temmuz Mete Adanır Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T050112Z",
+   "venue_tries": 1
   }
  },
  "25483": {
@@ -1947,10 +1954,11 @@
   "home_score": 3,
   "away_score": 2,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Mormenekşe Cemal Balses Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T050112Z",
+   "venue_tries": 1
   }
  },
  "25485": {
@@ -1964,10 +1972,11 @@
   "home_score": 1,
   "away_score": 3,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Geçitkale Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T050107Z",
+   "venue_tries": 1
   }
  },
  "25486": {
@@ -1981,10 +1990,11 @@
   "home_score": 0,
   "away_score": 3,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Akdoğan Özgürlük Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T050107Z",
+   "venue_tries": 1
   }
  },
  "25487": {
@@ -1998,10 +2008,11 @@
   "home_score": 0,
   "away_score": 1,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Çatalköy Nihat Bağcıer Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T050108Z",
+   "venue_tries": 1
   }
  },
  "25488": {

@@ -1172,16 +1172,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25371@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T050109Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Yenicami AK 1–3 Cihangir GSK
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25371\n🔗 htt
- ps://ktff.org/maclar/25371
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25371\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25371
 URL:https://ktff.org/maclar/25371
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK 1–3 Cihangir GSK
@@ -1196,16 +1197,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25372@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T050109Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Dumlupınar TSK 1–0 Alsancak Yeşilova SK
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25372\n🔗 htt
- ps://ktff.org/maclar/25372
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25372\n📍 Gaz
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25372
 URL:https://ktff.org/maclar/25372
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 1–0 Alsancak Ye
@@ -1221,16 +1223,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25374@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T050110Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Değirmenlik SK 2–4 Mağusa Türk Gücü
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25374\n🔗 htt
- ps://ktff.org/maclar/25374
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25374\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25374
 URL:https://ktff.org/maclar/25374
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK 2–4 Mağusa Tür
@@ -1246,16 +1249,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25375@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T050110Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Karşıyaka SK 4–1 Esentepe KSKK
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25375\n🔗 htt
- ps://ktff.org/maclar/25375
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25375\n📍 Kar
+ şıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25375
 URL:https://ktff.org/maclar/25375
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK 4–1 Esentepe KSKK

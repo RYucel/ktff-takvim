@@ -140,16 +140,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25483@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050112Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Mormenekşe GBSK 3–2 Çello Dikmen Gücü SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25483\n🔗 https:/
- /ktff.org/maclar/25483
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25483\n📍 Mormene
+ kşe Cemal Balses Stadı\n🔗 https://ktff.org/maclar/25483
 URL:https://ktff.org/maclar/25483
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Mormenekşe Cemal Balses Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK 3–2 Çello Dikm

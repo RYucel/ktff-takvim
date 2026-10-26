@@ -166,16 +166,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25375@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T050110Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Karşıyaka SK 4–1 Esentepe KSKK
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25375\n🔗 htt
- ps://ktff.org/maclar/25375
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25375\n📍 Kar
+ şıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25375
 URL:https://ktff.org/maclar/25375
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK 4–1 Esentepe KSKK

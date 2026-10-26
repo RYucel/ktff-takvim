@@ -1093,16 +1093,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25481@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050106Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Göçmenköy İYSK 3–0 Maraş GSK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25481\n🔗 https:/
- /ktff.org/maclar/25481
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25481\n📍 Göçme
+ nköy Stadı\n🔗 https://ktff.org/maclar/25481
 URL:https://ktff.org/maclar/25481
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Göçmenköy Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK 3–0 Maraş GS
@@ -1118,16 +1119,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25485@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050107Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Geçitkale GSK 1–3 Yeniboğaziçi DSK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25485\n🔗 https:/
- /ktff.org/maclar/25485
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25485\n📍 Geçitk
+ ale Stadı\n🔗 https://ktff.org/maclar/25485
 URL:https://ktff.org/maclar/25485
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK 1–3 Yeniboğaziç
@@ -1143,16 +1145,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25486@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050107Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Akdoğan SK 0–3 M. Hacıali Yılmazköy SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25486\n🔗 https:/
- /ktff.org/maclar/25486
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25486\n📍 Akdoğa
+ n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25486
 URL:https://ktff.org/maclar/25486
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK 0–3 M. Hacıali Yıl
@@ -1168,16 +1171,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25487@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050108Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Düzkaya KOSK 0–1 DND L. Gençler Birliği SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25487\n🔗 https:/
- /ktff.org/maclar/25487
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25487\n📍 Çatalk
+ öy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25487
 URL:https://ktff.org/maclar/25487
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK 0–1 DND L. Gençle
@@ -1193,16 +1197,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25480@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050111Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Lefke TSK 1–0 Karaoğlanoğlu SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25480\n🔗 https:/
- /ktff.org/maclar/25480
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25480\n📍 Lefke 1
+ 6 Ağustos Stadı\n🔗 https://ktff.org/maclar/25480
 URL:https://ktff.org/maclar/25480
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefke 16 Ağustos Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK 1–0 Karaoğlanoğlu SK
@@ -1217,16 +1222,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25482@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050112Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Türk Ocağı Limasol SK 4–2 Lapta Türk Birliği SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25482\n🔗 https:/
- /ktff.org/maclar/25482
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25482\n📍 Girne 2
+ 0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25482
 URL:https://ktff.org/maclar/25482
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 4–2 Lap
@@ -1242,16 +1248,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25483@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T050112Z
+SEQUENCE:1
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
 SUMMARY:⚽ Mormenekşe GBSK 3–2 Çello Dikmen Gücü SK
-DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25483\n🔗 https:/
- /ktff.org/maclar/25483
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25483\n📍 Mormene
+ kşe Cemal Balses Stadı\n🔗 https://ktff.org/maclar/25483
 URL:https://ktff.org/maclar/25483
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Mormenekşe Cemal Balses Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK 3–2 Çello Dikm
