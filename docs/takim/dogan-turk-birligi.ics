@@ -138,4 +138,105 @@ DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Do
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25364@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261018T120000Z
+DTEND:20261018T135000Z
+SUMMARY:⚽ Doğan Türk Birliği 6–0 Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25364\n🔗 htt
+ ps://ktff.org/maclar/25364
+URL:https://ktff.org/maclar/25364
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği 6–0 Yenica
+ mi AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 6
+ –0 Yenicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25370@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261024T110000Z
+DTEND:20261024T125000Z
+SUMMARY:⚽ Baf Ülkü Yurdu 0–4 Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25370\n🔗 htt
+ ps://ktff.org/maclar/25370
+URL:https://ktff.org/maclar/25370
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 0–4 Doğan Tür
+ k Birliği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu 0–4 
+ Doğan Türk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25376@ktff-takvim
+DTSTAMP:20261026T041544Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T135000Z
+SUMMARY:⚽ Doğan Türk Birliği – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25376\n📍 Gir
+ ne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25376
+URL:https://ktff.org/maclar/25376
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Küçük
+  Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25387@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261107T220000Z
+DTEND:20261107T235000Z
+SUMMARY:⚽ Değirmenlik SK – Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n🔗 htt
+ ps://ktff.org/maclar/25387
+URL:https://ktff.org/maclar/25387
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Doğan Türk B
+ irliği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Do
+ ğan Türk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

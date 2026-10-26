@@ -112,4 +112,105 @@ DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Alsan
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25366@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261017T120000Z
+DTEND:20261017T135000Z
+SUMMARY:⚽ Alsancak Yeşilova SK 2–3 China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25366\n🔗 htt
+ ps://ktff.org/maclar/25366
+URL:https://ktff.org/maclar/25366
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK 2–3 China 
+ Bazaar Gençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 2
+ –3 China Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25372@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261025T120000Z
+DTEND:20261025T135000Z
+SUMMARY:⚽ Dumlupınar TSK 1–0 Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25372\n🔗 htt
+ ps://ktff.org/maclar/25372
+URL:https://ktff.org/maclar/25372
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 1–0 Alsancak Ye
+ şilova SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK 1–0 A
+ lsancak Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25378@ktff-takvim
+DTSTAMP:20261026T041546Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T135000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25378\n📍 Als
+ ancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25378
+URL:https://ktff.org/maclar/25378
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Yenicami
+  AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Yenicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25384@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261107T220000Z
+DTEND:20261107T235000Z
+SUMMARY:⚽ Baf Ülkü Yurdu – Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25384\n🔗 htt
+ ps://ktff.org/maclar/25384
+URL:https://ktff.org/maclar/25384
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Alsancak Yeş
+ ilova SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Al
+ sancak Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

@@ -114,4 +114,107 @@ DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25362@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261018T120000Z
+DTEND:20261018T135000Z
+SUMMARY:⚽ Mağusa Türk Gücü 4–3 Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25362\n🔗 htt
+ ps://ktff.org/maclar/25362
+URL:https://ktff.org/maclar/25362
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü 4–3 Küçü
+ k Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 4
+ –3 Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25369@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261024T110000Z
+DTEND:20261024T125000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK 2–2 Çetinkaya TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25369\n🔗 htt
+ ps://ktff.org/maclar/25369
+URL:https://ktff.org/maclar/25369
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK 2–2 Çeti
+ nkaya TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ 2–2 Çetinkaya TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25376@ktff-takvim
+DTSTAMP:20261026T041544Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T135000Z
+SUMMARY:⚽ Doğan Türk Birliği – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25376\n📍 Gir
+ ne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25376
+URL:https://ktff.org/maclar/25376
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Küçük
+  Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25383@ktff-takvim
+DTSTAMP:20261026T041553Z
+SEQUENCE:1
+DTSTART:20261107T220000Z
+DTEND:20261107T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Cihangir GSK
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25383\n📍 Kü
+ çük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar/2
+ 5383
+URL:https://ktff.org/maclar/25383
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Cihangi
+ r GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Cihangir GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

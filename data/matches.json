@@ -629,6 +629,490 @@
    "venue_tries": 2
   }
  },
+ "25362": {
+  "match_no": 25362,
+  "league": "super-lig",
+  "week": 6,
+  "home": "Mağusa Türk Gücü",
+  "away": "Küçük Kaymaklı TSK",
+  "date": "2026-10-18",
+  "time": "15:00",
+  "home_score": 4,
+  "away_score": 3,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25363": {
+  "match_no": 25363,
+  "league": "super-lig",
+  "week": 6,
+  "home": "Çetinkaya TSK",
+  "away": "Baf Ülkü Yurdu",
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_score": 3,
+  "away_score": 3,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25364": {
+  "match_no": 25364,
+  "league": "super-lig",
+  "week": 6,
+  "home": "Doğan Türk Birliği",
+  "away": "Yenicami AK",
+  "date": "2026-10-18",
+  "time": "15:00",
+  "home_score": 6,
+  "away_score": 0,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25365": {
+  "match_no": 25365,
+  "league": "super-lig",
+  "week": 6,
+  "home": "Cihangir GSK",
+  "away": "Dumlupınar TSK",
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_score": 1,
+  "away_score": 1,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25366": {
+  "match_no": 25366,
+  "league": "super-lig",
+  "week": 6,
+  "home": "Alsancak Yeşilova SK",
+  "away": "China Bazaar Gençlik Gücü TSK",
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_score": 2,
+  "away_score": 3,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25367": {
+  "match_no": 25367,
+  "league": "super-lig",
+  "week": 6,
+  "home": "Esentepe KSKK",
+  "away": "Değirmenlik SK",
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_score": 2,
+  "away_score": 1,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25368": {
+  "match_no": 25368,
+  "league": "super-lig",
+  "week": 6,
+  "home": "Mesarya SK",
+  "away": "Karşıyaka SK",
+  "date": "2026-10-18",
+  "time": "15:00",
+  "home_score": 1,
+  "away_score": 4,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25369": {
+  "match_no": 25369,
+  "league": "super-lig",
+  "week": 7,
+  "home": "Küçük Kaymaklı TSK",
+  "away": "Çetinkaya TSK",
+  "date": "2026-10-24",
+  "time": "14:00",
+  "home_score": 2,
+  "away_score": 2,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25370": {
+  "match_no": 25370,
+  "league": "super-lig",
+  "week": 7,
+  "home": "Baf Ülkü Yurdu",
+  "away": "Doğan Türk Birliği",
+  "date": "2026-10-24",
+  "time": "14:00",
+  "home_score": 0,
+  "away_score": 4,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25371": {
+  "match_no": 25371,
+  "league": "super-lig",
+  "week": 7,
+  "home": "Yenicami AK",
+  "away": "Cihangir GSK",
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_score": 1,
+  "away_score": 3,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25372": {
+  "match_no": 25372,
+  "league": "super-lig",
+  "week": 7,
+  "home": "Dumlupınar TSK",
+  "away": "Alsancak Yeşilova SK",
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_score": 1,
+  "away_score": 0,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25373": {
+  "match_no": 25373,
+  "league": "super-lig",
+  "week": 7,
+  "home": "China Bazaar Gençlik Gücü TSK",
+  "away": "Aslanköy GSD",
+  "date": "2026-10-23",
+  "time": "19:00",
+  "home_score": 3,
+  "away_score": 1,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25374": {
+  "match_no": 25374,
+  "league": "super-lig",
+  "week": 7,
+  "home": "Değirmenlik SK",
+  "away": "Mağusa Türk Gücü",
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_score": 2,
+  "away_score": 4,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25375": {
+  "match_no": 25375,
+  "league": "super-lig",
+  "week": 7,
+  "home": "Karşıyaka SK",
+  "away": "Esentepe KSKK",
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_score": 4,
+  "away_score": 1,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25376": {
+  "match_no": 25376,
+  "league": "super-lig",
+  "week": 8,
+  "home": "Doğan Türk Birliği",
+  "away": "Küçük Kaymaklı TSK",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Girne 20 Temmuz Mete Adanır Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041544Z",
+   "venue_tries": 1
+  }
+ },
+ "25377": {
+  "match_no": 25377,
+  "league": "super-lig",
+  "week": 8,
+  "home": "Cihangir GSK",
+  "away": "Baf Ülkü Yurdu",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Cihangir Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041545Z",
+   "venue_tries": 1
+  }
+ },
+ "25378": {
+  "match_no": 25378,
+  "league": "super-lig",
+  "week": 8,
+  "home": "Alsancak Yeşilova SK",
+  "away": "Yenicami AK",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041546Z",
+   "venue_tries": 1
+  }
+ },
+ "25379": {
+  "match_no": 25379,
+  "league": "super-lig",
+  "week": 8,
+  "home": "Aslanköy GSD",
+  "away": "Dumlupınar TSK",
+  "date": "2026-11-01",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Gaziköy Şenol Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041549Z",
+   "venue_tries": 1
+  }
+ },
+ "25380": {
+  "match_no": 25380,
+  "league": "super-lig",
+  "week": 8,
+  "home": "Çetinkaya TSK",
+  "away": "Değirmenlik SK",
+  "date": "2026-11-01",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Lefkoşa Atatürk Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041550Z",
+   "venue_tries": 1
+  }
+ },
+ "25381": {
+  "match_no": 25381,
+  "league": "super-lig",
+  "week": 8,
+  "home": "Mağusa Türk Gücü",
+  "away": "Karşıyaka SK",
+  "date": "2026-11-01",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041551Z",
+   "venue_tries": 1
+  }
+ },
+ "25382": {
+  "match_no": 25382,
+  "league": "super-lig",
+  "week": 8,
+  "home": "Esentepe KSKK",
+  "away": "Mesarya SK",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Esentepe Erdal Barut Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041546Z",
+   "venue_tries": 1
+  }
+ },
+ "25383": {
+  "match_no": 25383,
+  "league": "super-lig",
+  "week": 9,
+  "home": "Küçük Kaymaklı TSK",
+  "away": "Cihangir GSK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041553Z",
+   "venue_tries": 1
+  }
+ },
+ "25384": {
+  "match_no": 25384,
+  "league": "super-lig",
+  "week": 9,
+  "home": "Baf Ülkü Yurdu",
+  "away": "Alsancak Yeşilova SK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25385": {
+  "match_no": 25385,
+  "league": "super-lig",
+  "week": 9,
+  "home": "Yenicami AK",
+  "away": "Aslanköy GSD",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25386": {
+  "match_no": 25386,
+  "league": "super-lig",
+  "week": 9,
+  "home": "Dumlupınar TSK",
+  "away": "China Bazaar Gençlik Gücü TSK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25387": {
+  "match_no": 25387,
+  "league": "super-lig",
+  "week": 9,
+  "home": "Değirmenlik SK",
+  "away": "Doğan Türk Birliği",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25388": {
+  "match_no": 25388,
+  "league": "super-lig",
+  "week": 9,
+  "home": "Karşıyaka SK",
+  "away": "Çetinkaya TSK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
+ "25389": {
+  "match_no": 25389,
+  "league": "super-lig",
+  "week": 9,
+  "home": "Mesarya SK",
+  "away": "Mağusa Türk Gücü",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041541Z"
+  }
+ },
  "25432": {
   "match_no": 25432,
   "league": "1-lig",
@@ -1257,6 +1741,489 @@
   "extra": {
    "stamp": "20261005T070931Z",
    "venue_tries": 2
+  }
+ },
+ "25472": {
+  "match_no": 25472,
+  "league": "1-lig",
+  "week": 6,
+  "home": "Yeniboğaziçi DSK",
+  "away": "Lefke TSK",
+  "date": "2026-10-18",
+  "time": "15:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25473": {
+  "match_no": 25473,
+  "league": "1-lig",
+  "week": 6,
+  "home": "Karaoğlanoğlu SK",
+  "away": "Göçmenköy İYSK",
+  "date": "2026-10-18",
+  "time": "15:00",
+  "home_score": 1,
+  "away_score": 2,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25474": {
+  "match_no": 25474,
+  "league": "1-lig",
+  "week": 6,
+  "home": "Maraş GSK",
+  "away": "Türk Ocağı Limasol SK",
+  "date": "2026-10-18",
+  "time": "15:00",
+  "home_score": 0,
+  "away_score": 4,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25475": {
+  "match_no": 25475,
+  "league": "1-lig",
+  "week": 6,
+  "home": "Lapta Türk Birliği SK",
+  "away": "Mormenekşe GBSK",
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_score": 4,
+  "away_score": 2,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25477": {
+  "match_no": 25477,
+  "league": "1-lig",
+  "week": 6,
+  "home": "DND L. Gençler Birliği SK",
+  "away": "Gönyeli SK",
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_score": 3,
+  "away_score": 0,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25478": {
+  "match_no": 25478,
+  "league": "1-lig",
+  "week": 6,
+  "home": "M. Hacıali Yılmazköy SK",
+  "away": "Geçitkale GSK",
+  "date": "2026-10-18",
+  "time": "15:00",
+  "home_score": 4,
+  "away_score": 0,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25479": {
+  "match_no": 25479,
+  "league": "1-lig",
+  "week": 6,
+  "home": "Düzkaya KOSK",
+  "away": "Akdoğan SK",
+  "date": "2026-10-17",
+  "time": "15:00",
+  "home_score": 2,
+  "away_score": 1,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25480": {
+  "match_no": 25480,
+  "league": "1-lig",
+  "week": 7,
+  "home": "Lefke TSK",
+  "away": "Karaoğlanoğlu SK",
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_score": 1,
+  "away_score": 0,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25481": {
+  "match_no": 25481,
+  "league": "1-lig",
+  "week": 7,
+  "home": "Göçmenköy İYSK",
+  "away": "Maraş GSK",
+  "date": "2026-10-24",
+  "time": "14:00",
+  "home_score": 3,
+  "away_score": 0,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25482": {
+  "match_no": 25482,
+  "league": "1-lig",
+  "week": 7,
+  "home": "Türk Ocağı Limasol SK",
+  "away": "Lapta Türk Birliği SK",
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_score": 4,
+  "away_score": 2,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25483": {
+  "match_no": 25483,
+  "league": "1-lig",
+  "week": 7,
+  "home": "Mormenekşe GBSK",
+  "away": "Çello Dikmen Gücü SK",
+  "date": "2026-10-25",
+  "time": "14:00",
+  "home_score": 3,
+  "away_score": 2,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25485": {
+  "match_no": 25485,
+  "league": "1-lig",
+  "week": 7,
+  "home": "Geçitkale GSK",
+  "away": "Yeniboğaziçi DSK",
+  "date": "2026-10-24",
+  "time": "14:00",
+  "home_score": 1,
+  "away_score": 3,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25486": {
+  "match_no": 25486,
+  "league": "1-lig",
+  "week": 7,
+  "home": "Akdoğan SK",
+  "away": "M. Hacıali Yılmazköy SK",
+  "date": "2026-10-24",
+  "time": "14:00",
+  "home_score": 0,
+  "away_score": 3,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25487": {
+  "match_no": 25487,
+  "league": "1-lig",
+  "week": 7,
+  "home": "Düzkaya KOSK",
+  "away": "DND L. Gençler Birliği SK",
+  "date": "2026-10-24",
+  "time": "14:00",
+  "home_score": 0,
+  "away_score": 1,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25488": {
+  "match_no": 25488,
+  "league": "1-lig",
+  "week": 8,
+  "home": "Maraş GSK",
+  "away": "Lefke TSK",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Maraş Necip Halil Kartal Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041547Z",
+   "venue_tries": 1
+  }
+ },
+ "25489": {
+  "match_no": 25489,
+  "league": "1-lig",
+  "week": 8,
+  "home": "Lapta Türk Birliği SK",
+  "away": "Göçmenköy İYSK",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "SAHASI BELLİ DEĞİL",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041547Z",
+   "venue_tries": 1
+  }
+ },
+ "25490": {
+  "match_no": 25490,
+  "league": "1-lig",
+  "week": 8,
+  "home": "Çello Dikmen Gücü SK",
+  "away": "Türk Ocağı Limasol SK",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Dikmen Dr. Fazıl Küçük Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041548Z",
+   "venue_tries": 1
+  }
+ },
+ "25491": {
+  "match_no": 25491,
+  "league": "1-lig",
+  "week": 8,
+  "home": "Gönyeli SK",
+  "away": "Mormenekşe GBSK",
+  "date": "2026-10-31",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Gönyeli Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041549Z",
+   "venue_tries": 1
+  }
+ },
+ "25493": {
+  "match_no": 25493,
+  "league": "1-lig",
+  "week": 8,
+  "home": "Karaoğlanoğlu SK",
+  "away": "Geçitkale GSK",
+  "date": "2026-11-01",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041551Z",
+   "venue_tries": 1
+  }
+ },
+ "25494": {
+  "match_no": 25494,
+  "league": "1-lig",
+  "week": 8,
+  "home": "Yeniboğaziçi DSK",
+  "away": "Akdoğan SK",
+  "date": "2026-11-01",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041552Z",
+   "venue_tries": 1
+  }
+ },
+ "25495": {
+  "match_no": 25495,
+  "league": "1-lig",
+  "week": 8,
+  "home": "M. Hacıali Yılmazköy SK",
+  "away": "Düzkaya KOSK",
+  "date": "2026-11-01",
+  "time": "14:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": "Yılmazköy Mustafa Üçöz Stadı",
+  "rev": 1,
+  "extra": {
+   "stamp": "20261026T041552Z",
+   "venue_tries": 1
+  }
+ },
+ "25496": {
+  "match_no": 25496,
+  "league": "1-lig",
+  "week": 9,
+  "home": "Lefke TSK",
+  "away": "Lapta Türk Birliği SK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25497": {
+  "match_no": 25497,
+  "league": "1-lig",
+  "week": 9,
+  "home": "Göçmenköy İYSK",
+  "away": "Çello Dikmen Gücü SK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25498": {
+  "match_no": 25498,
+  "league": "1-lig",
+  "week": 9,
+  "home": "Türk Ocağı Limasol SK",
+  "away": "Gönyeli SK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25500": {
+  "match_no": 25500,
+  "league": "1-lig",
+  "week": 9,
+  "home": "Geçitkale GSK",
+  "away": "Maraş GSK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25501": {
+  "match_no": 25501,
+  "league": "1-lig",
+  "week": 9,
+  "home": "Akdoğan SK",
+  "away": "Karaoğlanoğlu SK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25502": {
+  "match_no": 25502,
+  "league": "1-lig",
+  "week": 9,
+  "home": "Düzkaya KOSK",
+  "away": "Yeniboğaziçi DSK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
+  }
+ },
+ "25503": {
+  "match_no": 25503,
+  "league": "1-lig",
+  "week": 9,
+  "home": "M. Hacıali Yılmazköy SK",
+  "away": "DND L. Gençler Birliği SK",
+  "date": "2026-11-08",
+  "time": "00:00",
+  "home_score": null,
+  "away_score": null,
+  "status": null,
+  "venue": null,
+  "rev": 0,
+  "extra": {
+   "stamp": "20261026T041544Z"
   }
  }
 }

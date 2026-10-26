@@ -138,4 +138,79 @@ DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25366@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261017T120000Z
+DTEND:20261017T135000Z
+SUMMARY:⚽ Alsancak Yeşilova SK 2–3 China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25366\n🔗 htt
+ ps://ktff.org/maclar/25366
+URL:https://ktff.org/maclar/25366
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK 2–3 China 
+ Bazaar Gençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 2
+ –3 China Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25373@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261023T160000Z
+DTEND:20261023T175000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK 3–1 Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25373\n🔗 htt
+ ps://ktff.org/maclar/25373
+URL:https://ktff.org/maclar/25373
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 3
+ –1 Aslanköy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK 3–1 Aslanköy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25386@ktff-takvim
+DTSTAMP:20261026T041541Z
+SEQUENCE:0
+DTSTART:20261107T220000Z
+DTEND:20261107T235000Z
+SUMMARY:⚽ Dumlupınar TSK – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25386\n🔗 htt
+ ps://ktff.org/maclar/25386
+URL:https://ktff.org/maclar/25386
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – China Bazaar G
+ ençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Chi
+ na Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

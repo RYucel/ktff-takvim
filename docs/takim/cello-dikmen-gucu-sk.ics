@@ -138,4 +138,80 @@ DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Çello
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25483@ktff-takvim
+DTSTAMP:20261026T041544Z
+SEQUENCE:0
+DTSTART:20261025T120000Z
+DTEND:20261025T135000Z
+SUMMARY:⚽ Mormenekşe GBSK 3–2 Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 7. Hafta\n🔢 Maç No: 25483\n🔗 https:/
+ /ktff.org/maclar/25483
+URL:https://ktff.org/maclar/25483
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK 3–2 Çello Dikm
+ en Gücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK 3–2 
+ Çello Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25490@ktff-takvim
+DTSTAMP:20261026T041548Z
+SEQUENCE:1
+DTSTART:20261031T120000Z
+DTEND:20261031T135000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25490\n📍 Dikmen 
+ Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25490
+URL:https://ktff.org/maclar/25490
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – Türk 
+ Ocağı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25497@ktff-takvim
+DTSTAMP:20261026T041544Z
+SEQUENCE:0
+DTSTART:20261107T220000Z
+DTEND:20261107T235000Z
+SUMMARY:⚽ Göçmenköy İYSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25497\n🔗 https:/
+ /ktff.org/maclar/25497
+URL:https://ktff.org/maclar/25497
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Çello Dikm
+ en Gücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
+ Çello Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
