@@ -140,16 +140,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25366@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044548Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Alsancak Yeşilova SK 2–3 China Bazaar Gençlik Gücü TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25366\n🔗 htt
- ps://ktff.org/maclar/25366
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25366\n📍 Als
+ ancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25366
 URL:https://ktff.org/maclar/25366
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK 2–3 China 
@@ -165,16 +166,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25373@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044555Z
+SEQUENCE:1
 DTSTART:20261023T160000Z
 DTEND:20261023T175000Z
 SUMMARY:⚽ China Bazaar Gençlik Gücü TSK 3–1 Aslanköy GSD
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25373\n🔗 htt
- ps://ktff.org/maclar/25373
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25373\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25373
 URL:https://ktff.org/maclar/25373
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 3

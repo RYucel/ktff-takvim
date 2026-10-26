@@ -140,16 +140,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25364@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044551Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Doğan Türk Birliği 6–0 Yenicami AK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25364\n🔗 htt
- ps://ktff.org/maclar/25364
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25364\n📍 Gir
+ ne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25364
 URL:https://ktff.org/maclar/25364
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği 6–0 Yenica
@@ -165,16 +166,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25370@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044556Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Baf Ülkü Yurdu 0–4 Doğan Türk Birliği
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25370\n🔗 htt
- ps://ktff.org/maclar/25370
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25370\n📍 Gü
+ zelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25370
 URL:https://ktff.org/maclar/25370
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 0–4 Doğan Tür

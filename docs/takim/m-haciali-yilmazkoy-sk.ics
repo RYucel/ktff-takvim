@@ -114,16 +114,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25478@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044554Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ M. Hacıali Yılmazköy SK 4–0 Geçitkale GSK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25478\n🔗 https:/
- /ktff.org/maclar/25478
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25478\n📍 Yılmaz
+ köy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25478
 URL:https://ktff.org/maclar/25478
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK 4–0 G

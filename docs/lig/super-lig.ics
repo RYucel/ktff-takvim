@@ -964,16 +964,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25366@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044548Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Alsancak Yeşilova SK 2–3 China Bazaar Gençlik Gücü TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25366\n🔗 htt
- ps://ktff.org/maclar/25366
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25366\n📍 Als
+ ancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25366
 URL:https://ktff.org/maclar/25366
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK 2–3 China 
@@ -989,16 +990,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25367@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044548Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Esentepe KSKK 2–1 Değirmenlik SK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25367\n🔗 htt
- ps://ktff.org/maclar/25367
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25367\n📍 Ese
+ ntepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25367
 URL:https://ktff.org/maclar/25367
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK 2–1 Değirmenlik S
@@ -1014,16 +1016,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25362@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044551Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Mağusa Türk Gücü 4–3 Küçük Kaymaklı TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25362\n🔗 htt
- ps://ktff.org/maclar/25362
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25362\n📍 Gaz
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25362
 URL:https://ktff.org/maclar/25362
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü 4–3 Küçü
@@ -1039,16 +1042,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25364@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044551Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Doğan Türk Birliği 6–0 Yenicami AK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25364\n🔗 htt
- ps://ktff.org/maclar/25364
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25364\n📍 Gir
+ ne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25364
 URL:https://ktff.org/maclar/25364
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği 6–0 Yenica
@@ -1064,16 +1068,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25368@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044552Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Mesarya SK 1–4 Karşıyaka SK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25368\n🔗 htt
- ps://ktff.org/maclar/25368
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25368\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25368
 URL:https://ktff.org/maclar/25368
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK 1–4 Karşıyaka SK
@@ -1088,16 +1093,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25373@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044555Z
+SEQUENCE:1
 DTSTART:20261023T160000Z
 DTEND:20261023T175000Z
 SUMMARY:⚽ China Bazaar Gençlik Gücü TSK 3–1 Aslanköy GSD
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25373\n🔗 htt
- ps://ktff.org/maclar/25373
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25373\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25373
 URL:https://ktff.org/maclar/25373
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 3
@@ -1113,16 +1119,18 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25369@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044555Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Küçük Kaymaklı TSK 2–2 Çetinkaya TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25369\n🔗 htt
- ps://ktff.org/maclar/25369
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25369\n📍 Kü
+ çük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar/2
+ 5369
 URL:https://ktff.org/maclar/25369
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK 2–2 Çeti
@@ -1138,16 +1146,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25370@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044556Z
+SEQUENCE:1
 DTSTART:20261024T110000Z
 DTEND:20261024T125000Z
 SUMMARY:⚽ Baf Ülkü Yurdu 0–4 Doğan Türk Birliği
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25370\n🔗 htt
- ps://ktff.org/maclar/25370
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25370\n📍 Gü
+ zelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25370
 URL:https://ktff.org/maclar/25370
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 0–4 Doğan Tür

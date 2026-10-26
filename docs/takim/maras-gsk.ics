@@ -112,16 +112,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25474@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044554Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Maraş GSK 0–4 Türk Ocağı Limasol SK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25474\n🔗 https:/
- /ktff.org/maclar/25474
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25474\n📍 Maraş 
+ Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25474
 URL:https://ktff.org/maclar/25474
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK 0–4 Türk Ocağı Lim

@@ -114,16 +114,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25368@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044552Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Mesarya SK 1–4 Karşıyaka SK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25368\n🔗 htt
- ps://ktff.org/maclar/25368
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25368\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25368
 URL:https://ktff.org/maclar/25368
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK 1–4 Karşıyaka SK

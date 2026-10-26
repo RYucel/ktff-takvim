@@ -114,16 +114,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25475@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044549Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Lapta Türk Birliği SK 4–2 Mormenekşe GBSK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25475\n🔗 https:/
- /ktff.org/maclar/25475
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25475\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25475
 URL:https://ktff.org/maclar/25475
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK 4–2 Morm

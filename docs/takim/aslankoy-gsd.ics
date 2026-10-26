@@ -138,16 +138,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25373@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044555Z
+SEQUENCE:1
 DTSTART:20261023T160000Z
 DTEND:20261023T175000Z
 SUMMARY:⚽ China Bazaar Gençlik Gücü TSK 3–1 Aslanköy GSD
-DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25373\n🔗 htt
- ps://ktff.org/maclar/25373
+DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25373\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25373
 URL:https://ktff.org/maclar/25373
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 3

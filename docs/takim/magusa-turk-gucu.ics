@@ -140,16 +140,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25362@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044551Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Mağusa Türk Gücü 4–3 Küçük Kaymaklı TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25362\n🔗 htt
- ps://ktff.org/maclar/25362
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25362\n📍 Gaz
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25362
 URL:https://ktff.org/maclar/25362
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü 4–3 Küçü

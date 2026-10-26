@@ -140,16 +140,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25367@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T044548Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Esentepe KSKK 2–1 Değirmenlik SK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25367\n🔗 htt
- ps://ktff.org/maclar/25367
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25367\n📍 Ese
+ ntepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25367
 URL:https://ktff.org/maclar/25367
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK 2–1 Değirmenlik S

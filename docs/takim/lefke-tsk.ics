@@ -137,16 +137,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25472@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044552Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Yeniboğaziçi DSK 0–1 Lefke TSK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25472\n🔗 https:/
- /ktff.org/maclar/25472
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25472\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25472
 URL:https://ktff.org/maclar/25472
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK 0–1 Lefke TSK

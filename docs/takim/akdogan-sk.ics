@@ -138,16 +138,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25479@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044550Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Düzkaya KOSK 2–1 Akdoğan SK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25479\n🔗 https:/
- /ktff.org/maclar/25479
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25479\n📍 Çatalk
+ öy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25479
 URL:https://ktff.org/maclar/25479
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK 2–1 Akdoğan SK

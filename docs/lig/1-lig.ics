@@ -913,16 +913,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25475@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044549Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Lapta Türk Birliği SK 4–2 Mormenekşe GBSK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25475\n🔗 https:/
- /ktff.org/maclar/25475
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25475\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25475
 URL:https://ktff.org/maclar/25475
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK 4–2 Morm
@@ -938,16 +939,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25477@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044549Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ DND L. Gençler Birliği SK 3–0 Gönyeli SK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25477\n🔗 https:/
- /ktff.org/maclar/25477
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25477\n📍 İskele
+  Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25477
 URL:https://ktff.org/maclar/25477
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK 3–0 
@@ -963,16 +965,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25479@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044550Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Düzkaya KOSK 2–1 Akdoğan SK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25479\n🔗 https:/
- /ktff.org/maclar/25479
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25479\n📍 Çatalk
+ öy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25479
 URL:https://ktff.org/maclar/25479
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK 2–1 Akdoğan SK
@@ -987,16 +990,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25472@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044552Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Yeniboğaziçi DSK 0–1 Lefke TSK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25472\n🔗 https:/
- /ktff.org/maclar/25472
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25472\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25472
 URL:https://ktff.org/maclar/25472
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK 0–1 Lefke TSK
@@ -1011,16 +1015,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25473@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044553Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Karaoğlanoğlu SK 1–2 Göçmenköy İYSK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25473\n🔗 https:/
- /ktff.org/maclar/25473
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25473\n📍 Alsanca
+ k Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25473
 URL:https://ktff.org/maclar/25473
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK 1–2 Göçmenk
@@ -1036,16 +1041,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25474@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044554Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ Maraş GSK 0–4 Türk Ocağı Limasol SK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25474\n🔗 https:/
- /ktff.org/maclar/25474
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25474\n📍 Maraş 
+ Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25474
 URL:https://ktff.org/maclar/25474
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK 0–4 Türk Ocağı Lim
@@ -1061,16 +1067,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25478@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T044554Z
+SEQUENCE:1
 DTSTART:20261018T120000Z
 DTEND:20261018T135000Z
 SUMMARY:⚽ M. Hacıali Yılmazköy SK 4–0 Geçitkale GSK
-DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25478\n🔗 https:/
- /ktff.org/maclar/25478
+DESCRIPTION:🏆 AKSA 1. Lig · 6. Hafta\n🔢 Maç No: 25478\n📍 Yılmaz
+ köy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25478
 URL:https://ktff.org/maclar/25478
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK 4–0 G

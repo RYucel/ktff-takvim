@@ -640,10 +640,11 @@
   "home_score": 4,
   "away_score": 3,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044551Z",
+   "venue_tries": 1
   }
  },
  "25363": {
@@ -675,10 +676,11 @@
   "home_score": 6,
   "away_score": 0,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Girne 20 Temmuz Mete Adanır Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044551Z",
+   "venue_tries": 1
   }
  },
  "25365": {
@@ -710,10 +712,11 @@
   "home_score": 2,
   "away_score": 3,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044548Z",
+   "venue_tries": 1
   }
  },
  "25367": {
@@ -727,10 +730,11 @@
   "home_score": 2,
   "away_score": 1,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Esentepe Erdal Barut Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044548Z",
+   "venue_tries": 1
   }
  },
  "25368": {
@@ -744,10 +748,11 @@
   "home_score": 1,
   "away_score": 4,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Paşaköy Hasan Onalt Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044552Z",
+   "venue_tries": 1
   }
  },
  "25369": {
@@ -761,10 +766,11 @@
   "home_score": 2,
   "away_score": 2,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044555Z",
+   "venue_tries": 1
   }
  },
  "25370": {
@@ -778,10 +784,11 @@
   "home_score": 0,
   "away_score": 4,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Güzelyurt Üner Berkalp Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044556Z",
+   "venue_tries": 1
   }
  },
  "25371": {
@@ -829,10 +836,11 @@
   "home_score": 3,
   "away_score": 1,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Lefkoşa Atatürk Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041541Z"
+   "stamp": "20261026T044555Z",
+   "venue_tries": 1
   }
  },
  "25374": {
@@ -1762,10 +1770,11 @@
   "home_score": 0,
   "away_score": 1,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T044552Z",
+   "venue_tries": 1
   }
  },
  "25473": {
@@ -1779,10 +1788,11 @@
   "home_score": 1,
   "away_score": 2,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T044553Z",
+   "venue_tries": 1
   }
  },
  "25474": {
@@ -1796,10 +1806,11 @@
   "home_score": 0,
   "away_score": 4,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Maraş Necip Halil Kartal Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T044554Z",
+   "venue_tries": 1
   }
  },
  "25475": {
@@ -1813,10 +1824,11 @@
   "home_score": 4,
   "away_score": 2,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Lapta Şht. Şevket Kadir Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T044549Z",
+   "venue_tries": 1
   }
  },
  "25477": {
@@ -1830,10 +1842,11 @@
   "home_score": 3,
   "away_score": 0,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "İskele Cumhuriyet Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T044549Z",
+   "venue_tries": 1
   }
  },
  "25478": {
@@ -1847,10 +1860,11 @@
   "home_score": 4,
   "away_score": 0,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Yılmazköy Mustafa Üçöz Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T044554Z",
+   "venue_tries": 1
   }
  },
  "25479": {
@@ -1864,10 +1878,11 @@
   "home_score": 2,
   "away_score": 1,
   "status": null,
-  "venue": null,
-  "rev": 0,
+  "venue": "Çatalköy Nihat Bağcıer Stadı",
+  "rev": 1,
   "extra": {
-   "stamp": "20261026T041544Z"
+   "stamp": "20261026T044550Z",
+   "venue_tries": 1
   }
  },
  "25480": {
