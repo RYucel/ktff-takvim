@@ -2867,15 +2867,15 @@
   "week": 8,
   "home": "Yeniboğaziçi DSK",
   "away": "Akdoğan SK",
-  "date": "2026-11-01",
+  "date": "2026-10-31",
   "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T041552Z",
+   "stamp": "20261026T140114Z",
    "venue_tries": 1
   }
  },
