@@ -188,16 +188,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25387@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043056Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Değirmenlik SK – Doğan Türk Birliği
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n🔗 htt
- ps://ktff.org/maclar/25387
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25387
 URL:https://ktff.org/maclar/25387
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Doğan Türk B

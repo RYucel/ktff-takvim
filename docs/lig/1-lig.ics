@@ -1439,16 +1439,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25496@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043058Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Lefke TSK – Lapta Türk Birliği SK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25496\n🔗 https:/
- /ktff.org/maclar/25496
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25496\n📍 Lefke 1
+ 6 Ağustos Stadı\n🔗 https://ktff.org/maclar/25496
 URL:https://ktff.org/maclar/25496
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefke 16 Ağustos Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK – Lapta Türk Birliği
@@ -1464,16 +1465,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25497@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043059Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Göçmenköy İYSK – Çello Dikmen Gücü SK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25497\n🔗 https:/
- /ktff.org/maclar/25497
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25497\n📍 Göçme
+ nköy Stadı\n🔗 https://ktff.org/maclar/25497
 URL:https://ktff.org/maclar/25497
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Göçmenköy Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Çello Dikm
@@ -1489,16 +1491,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25498@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043059Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Türk Ocağı Limasol SK – Gönyeli SK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25498\n🔗 https:/
- /ktff.org/maclar/25498
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25498\n📍 Girne 2
+ 0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25498
 URL:https://ktff.org/maclar/25498
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Göny
@@ -1514,16 +1517,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25500@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043100Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Geçitkale GSK – Maraş GSK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25500\n🔗 https:/
- /ktff.org/maclar/25500
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25500\n📍 Geçitk
+ ale Stadı\n🔗 https://ktff.org/maclar/25500
 URL:https://ktff.org/maclar/25500
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Maraş GSK
@@ -1538,16 +1542,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25501@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043100Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Akdoğan SK – Karaoğlanoğlu SK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25501\n🔗 https:/
- /ktff.org/maclar/25501
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25501\n📍 Akdoğa
+ n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25501
 URL:https://ktff.org/maclar/25501
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Karaoğlanoğlu SK
@@ -1562,16 +1567,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25502@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043101Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Düzkaya KOSK – Yeniboğaziçi DSK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25502\n🔗 https:/
- /ktff.org/maclar/25502
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25502\n📍 Çatalk
+ öy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25502
 URL:https://ktff.org/maclar/25502
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK – Yeniboğaziçi D
@@ -1587,16 +1593,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25503@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043102Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ M. Hacıali Yılmazköy SK – DND L. Gençler Birliği SK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25503\n🔗 https:/
- /ktff.org/maclar/25503
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25503\n📍 Yılmaz
+ köy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25503
 URL:https://ktff.org/maclar/25503
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – DND

@@ -913,16 +913,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25363@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043102Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Çetinkaya TSK 3–3 Baf Ülkü Yurdu
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25363\n🔗 htt
- ps://ktff.org/maclar/25363
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25363\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25363
 URL:https://ktff.org/maclar/25363
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK 3–3 Baf Ülkü Yu
@@ -938,16 +939,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25365@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043103Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Cihangir GSK 1–1 Dumlupınar TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25365\n🔗 htt
- ps://ktff.org/maclar/25365
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25365\n📍 Cih
+ angir Stadı\n🔗 https://ktff.org/maclar/25365
 URL:https://ktff.org/maclar/25365
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK 1–1 Dumlupınar TSK
@@ -1464,16 +1466,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25384@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043054Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Baf Ülkü Yurdu – Alsancak Yeşilova SK
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25384\n🔗 htt
- ps://ktff.org/maclar/25384
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25384\n📍 Gü
+ zelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25384
 URL:https://ktff.org/maclar/25384
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Alsancak Yeş
@@ -1489,16 +1492,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25385@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043055Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Yenicami AK – Aslanköy GSD
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25385\n🔗 htt
- ps://ktff.org/maclar/25385
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25385\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25385
 URL:https://ktff.org/maclar/25385
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Aslanköy GSD
@@ -1513,16 +1517,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25386@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043056Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Dumlupınar TSK – China Bazaar Gençlik Gücü TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25386\n🔗 htt
- ps://ktff.org/maclar/25386
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25386\n📍 Gaz
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25386
 URL:https://ktff.org/maclar/25386
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – China Bazaar G
@@ -1538,16 +1543,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25387@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043056Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Değirmenlik SK – Doğan Türk Birliği
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n🔗 htt
- ps://ktff.org/maclar/25387
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25387
 URL:https://ktff.org/maclar/25387
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Doğan Türk B
@@ -1563,16 +1569,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25388@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043057Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Karşıyaka SK – Çetinkaya TSK
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25388\n🔗 htt
- ps://ktff.org/maclar/25388
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25388\n📍 Kar
+ şıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25388
 URL:https://ktff.org/maclar/25388
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Çetinkaya TSK
@@ -1587,16 +1594,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25389@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043057Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Mesarya SK – Mağusa Türk Gücü
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25389\n🔗 htt
- ps://ktff.org/maclar/25389
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25389\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25389
 URL:https://ktff.org/maclar/25389
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – Mağusa Türk Güc

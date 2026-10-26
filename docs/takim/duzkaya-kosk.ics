@@ -213,16 +213,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25502@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043101Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Düzkaya KOSK – Yeniboğaziçi DSK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25502\n🔗 https:/
- /ktff.org/maclar/25502
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25502\n📍 Çatalk
+ öy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25502
 URL:https://ktff.org/maclar/25502
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK – Yeniboğaziçi D

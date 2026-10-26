@@ -189,16 +189,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25498@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:0
+DTSTAMP:20261026T043059Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Türk Ocağı Limasol SK – Gönyeli SK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25498\n🔗 https:/
- /ktff.org/maclar/25498
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25498\n📍 Girne 2
+ 0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25498
 URL:https://ktff.org/maclar/25498
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Göny

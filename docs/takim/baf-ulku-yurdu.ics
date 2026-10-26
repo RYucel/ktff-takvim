@@ -139,16 +139,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25363@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043102Z
+SEQUENCE:1
 DTSTART:20261017T120000Z
 DTEND:20261017T135000Z
 SUMMARY:⚽ Çetinkaya TSK 3–3 Baf Ülkü Yurdu
-DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25363\n🔗 htt
- ps://ktff.org/maclar/25363
+DESCRIPTION:🏆 AKSA Süper Lig · 6. Hafta\n🔢 Maç No: 25363\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25363
 URL:https://ktff.org/maclar/25363
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK 3–3 Baf Ülkü Yu
@@ -214,16 +215,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25384@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043054Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Baf Ülkü Yurdu – Alsancak Yeşilova SK
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25384\n🔗 htt
- ps://ktff.org/maclar/25384
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25384\n📍 Gü
+ zelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25384
 URL:https://ktff.org/maclar/25384
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Alsancak Yeş

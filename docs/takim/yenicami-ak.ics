@@ -211,16 +211,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25385@ktff-takvim
-DTSTAMP:20261026T041541Z
-SEQUENCE:0
+DTSTAMP:20261026T043055Z
+SEQUENCE:1
 DTSTART:20261107T220000Z
 DTEND:20261107T235000Z
 SUMMARY:⚽ Yenicami AK – Aslanköy GSD
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25385\n🔗 htt
- ps://ktff.org/maclar/25385
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25385\n📍 Lef
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25385
 URL:https://ktff.org/maclar/25385
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Aslanköy GSD
