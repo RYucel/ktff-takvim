@@ -707,11 +707,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25461@ktff-takvim
-DTSTAMP:20261005T071010Z
-SEQUENCE:2
-DTSTART:20261004T123000Z
-DTEND:20261004T142000Z
-SUMMARY:⚽ Lapta Türk Birliği SK – Gönyeli SK (Tatil Edildi)
+DTSTAMP:20261026T075145Z
+SEQUENCE:3
+DTSTART:20261006T130000Z
+DTEND:20261006T145000Z
+SUMMARY:⚽ Lapta Türk Birliği SK 2–1 Gönyeli SK
 DESCRIPTION:🏆 AKSA 1. Lig · 4. Hafta\n🔢 Maç No: 25461\n📍 Lapta 
  Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25461
 URL:https://ktff.org/maclar/25461
@@ -720,24 +720,24 @@ STATUS:CONFIRMED
 LOCATION:Lapta Şht. Şevket Kadir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Gönye
- li SK (Tatil Edildi)
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK 2–1 Gön
+ yeli SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  – Gönyeli SK (Tatil Edildi)
+  2–1 Gönyeli SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25465@ktff-takvim
-DTSTAMP:20261005T070930Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Göçmenköy İYSK – Yeniboğaziçi DSK
+SUMMARY:⚽ Göçmenköy İYSK 3–1 Yeniboğaziçi DSK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25465\n📍 Göçme
  nköy Stadı\n🔗 https://ktff.org/maclar/25465
 URL:https://ktff.org/maclar/25465
@@ -746,24 +746,24 @@ STATUS:CONFIRMED
 LOCATION:Göçmenköy Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Yeniboğazi
- çi DSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK 3–1 Yeniboğa
+ ziçi DSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
- Yeniboğaziçi DSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK 3–
+ 1 Yeniboğaziçi DSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25467@ktff-takvim
-DTSTAMP:20261005T070931Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Mormenekşe GBSK – Maraş GSK
+SUMMARY:⚽ Mormenekşe GBSK 0–0 Maraş GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25467\n📍 Mormene
  kşe Cemal Balses Stadı\n🔗 https://ktff.org/maclar/25467
 URL:https://ktff.org/maclar/25467
@@ -772,23 +772,23 @@ STATUS:CONFIRMED
 LOCATION:Mormenekşe Cemal Balses Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK – Maraş GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK 0–0 Maraş GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK – Ma
- raş GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK 0–0 
+ Maraş GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25471@ktff-takvim
-DTSTAMP:20261005T070931Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Akdoğan SK – DND L. Gençler Birliği SK
+SUMMARY:⚽ Akdoğan SK 0–5 DND L. Gençler Birliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25471\n📍 Akdoğa
  n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25471
 URL:https://ktff.org/maclar/25471
@@ -797,24 +797,24 @@ STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – DND L. Gençler Bi
- rliği SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK 0–5 DND L. Gençler 
+ Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – DND L. 
- Gençler Birliği SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK 0–5 DND L
+ . Gençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25464@ktff-takvim
-DTSTAMP:20261005T070934Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Lefke TSK – M. Hacıali Yılmazköy SK
+SUMMARY:⚽ Lefke TSK 0–1 M. Hacıali Yılmazköy SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25464\n📍 Lefke 1
  6 Ağustos Stadı\n🔗 https://ktff.org/maclar/25464
 URL:https://ktff.org/maclar/25464
@@ -823,24 +823,24 @@ STATUS:CONFIRMED
 LOCATION:Lefke 16 Ağustos Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK – M. Hacıali Yılmazk
- öy SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK 0–1 M. Hacıali Yılma
+ zköy SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK – M. Hacıa
- li Yılmazköy SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK 0–1 M. Hac
+ ıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25469@ktff-takvim
-DTSTAMP:20261005T070935Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Gönyeli SK – Çello Dikmen Gücü SK
+SUMMARY:⚽ Gönyeli SK 2–2 Çello Dikmen Gücü SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25469\n📍 Gönyel
  i Stadı\n🔗 https://ktff.org/maclar/25469
 URL:https://ktff.org/maclar/25469
@@ -849,24 +849,24 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Çello Dikmen Güc
- ü SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 2–2 Çello Dikmen G
+ ücü SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Çello 
- Dikmen Gücü SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 2–2 Çell
+ o Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25470@ktff-takvim
-DTSTAMP:20261005T070935Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Geçitkale GSK – Düzkaya KOSK
+SUMMARY:⚽ Geçitkale GSK 1–6 Düzkaya KOSK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25470\n📍 Geçitk
  ale Stadı\n🔗 https://ktff.org/maclar/25470
 URL:https://ktff.org/maclar/25470
@@ -875,23 +875,23 @@ STATUS:CONFIRMED
 LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Düzkaya KOSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK 1–6 Düzkaya KOSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Düz
- kaya KOSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK 1–6 D
+ üzkaya KOSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25466@ktff-takvim
-DTSTAMP:20261005T070936Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261012T160000Z
 DTEND:20261012T175000Z
-SUMMARY:⚽ Türk Ocağı Limasol SK – Karaoğlanoğlu SK
+SUMMARY:⚽ Türk Ocağı Limasol SK 1–1 Karaoğlanoğlu SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25466\n📍 Girne 2
  0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25466
 URL:https://ktff.org/maclar/25466
@@ -900,14 +900,14 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Karao
- ğlanoğlu SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 1–1 Kar
+ aoğlanoğlu SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
- K – Karaoğlanoğlu SK
+ K 1–1 Karaoğlanoğlu SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1628,6 +1628,1086 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
   SK – DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25504@ktff-takvim
+DTSTAMP:20261026T075150Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – Lefke TSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25504\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25504
+URL:https://ktff.org/maclar/25504
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – Lefke 
+ TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – Lefke TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25505@ktff-takvim
+DTSTAMP:20261026T075151Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Gönyeli SK – Göçmenköy İYSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25505\n📍 Gönye
+ li Stadı\n🔗 https://ktff.org/maclar/25505
+URL:https://ktff.org/maclar/25505
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Göçmenköy İYSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Göçme
+ nköy İYSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25507@ktff-takvim
+DTSTAMP:20261026T075151Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK – Mormenekşe GBSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25507\n📍 İskel
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25507
+URL:https://ktff.org/maclar/25507
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – Mo
+ rmenekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK – Mormenekşe GBSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25508@ktff-takvim
+DTSTAMP:20261026T075152Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25508\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25508
+URL:https://ktff.org/maclar/25508
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Geçit
+ kale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Geçitkale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25509@ktff-takvim
+DTSTAMP:20261026T075153Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Maraş GSK – Akdoğan SK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25509\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25509
+URL:https://ktff.org/maclar/25509
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – Akdoğan SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – Akdoğan
+  SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25510@ktff-takvim
+DTSTAMP:20261026T075153Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Düzkaya KOSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25510\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25510
+URL:https://ktff.org/maclar/25510
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Düzkaya KO
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Düzkaya KOSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25511@ktff-takvim
+DTSTAMP:20261026T075154Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25511
+URL:https://ktff.org/maclar/25511
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – M. Hacıali
+  Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25512@ktff-takvim
+DTSTAMP:20261026T075159Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Lefke TSK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25512\n📍 Lefke 
+ 16 Ağustos Stadı\n🔗 https://ktff.org/maclar/25512
+URL:https://ktff.org/maclar/25512
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefke 16 Ağustos Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK – Gönyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK – Gönyeli 
+ SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25514@ktff-takvim
+DTSTAMP:20261026T075159Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Türk Ocağı Limasol SK – Mormenekşe GBSK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25514\n📍 Girne 
+ 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25514
+URL:https://ktff.org/maclar/25514
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Morme
+ nekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
+ K – Mormenekşe GBSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25515@ktff-takvim
+DTSTAMP:20261026T075200Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Geçitkale GSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25515\n📍 Geçit
+ kale Stadı\n🔗 https://ktff.org/maclar/25515
+URL:https://ktff.org/maclar/25515
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Çello Dikmen G
+ ücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Çel
+ lo Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25516@ktff-takvim
+DTSTAMP:20261026T075200Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Akdoğan SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25516\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25516
+URL:https://ktff.org/maclar/25516
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Lapta Türk Birli
+ ği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Lapta T
+ ürk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25517@ktff-takvim
+DTSTAMP:20261026T075201Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Düzkaya KOSK – Maraş GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25517\n📍 Çatal
+ köy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25517
+URL:https://ktff.org/maclar/25517
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK – Maraş GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK – Mara
+ ş GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25518@ktff-takvim
+DTSTAMP:20261026T075202Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Karaoğlanoğlu SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25518\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25518
+URL:https://ktff.org/maclar/25518
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Kar
+ aoğlanoğlu SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Karaoğlanoğlu SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25519@ktff-takvim
+DTSTAMP:20261026T075202Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25519\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25519
+URL:https://ktff.org/maclar/25519
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – DND L. Gen
+ çler Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25521@ktff-takvim
+DTSTAMP:20261026T075207Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Mormenekşe GBSK – Göçmenköy İYSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25521\n📍 Mormen
+ ekşe Cemal Balses Stadı\n🔗 https://ktff.org/maclar/25521
+URL:https://ktff.org/maclar/25521
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Mormenekşe Cemal Balses Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK – Göçmenköy 
+ İYSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK – G
+ öçmenköy İYSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25522@ktff-takvim
+DTSTAMP:20261026T075208Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25522\n📍 İskel
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25522
+URL:https://ktff.org/maclar/25522
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – T
+ ürk Ocağı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK – Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25523@ktff-takvim
+DTSTAMP:20261026T075208Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Gönyeli SK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25523\n📍 Gönye
+ li Stadı\n🔗 https://ktff.org/maclar/25523
+URL:https://ktff.org/maclar/25523
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Geçitkale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Geçitk
+ ale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25524@ktff-takvim
+DTSTAMP:20261026T075209Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – Akdoğan SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25524\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25524
+URL:https://ktff.org/maclar/25524
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – Akdoğ
+ an SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – Akdoğan SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25525@ktff-takvim
+DTSTAMP:20261026T075210Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Düzkaya KOSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25525\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25525
+URL:https://ktff.org/maclar/25525
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Düzka
+ ya KOSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Düzkaya KOSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25526@ktff-takvim
+DTSTAMP:20261026T075210Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Maraş GSK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25526\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25526
+URL:https://ktff.org/maclar/25526
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – M. Hacıali Yılmaz
+ köy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – M. Hacı
+ ali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25527@ktff-takvim
+DTSTAMP:20261026T075211Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Yeniboğaziçi DSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25527\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25527
+URL:https://ktff.org/maclar/25527
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Yeniboğazi
+ çi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25528@ktff-takvim
+DTSTAMP:20261026T075216Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Lefke TSK – Mormenekşe GBSK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25528\n📍 Lefke 
+ 16 Ağustos Stadı\n🔗 https://ktff.org/maclar/25528
+URL:https://ktff.org/maclar/25528
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefke 16 Ağustos Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK – Mormenekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK – Mormenek
+ şe GBSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25529@ktff-takvim
+DTSTAMP:20261026T075216Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Göçmenköy İYSK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25529\n📍 Göçm
+ enköy Stadı\n🔗 https://ktff.org/maclar/25529
+URL:https://ktff.org/maclar/25529
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Göçmenköy Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Türk Ocağ
+ ı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
+ Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25531@ktff-takvim
+DTSTAMP:20261026T075217Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Akdoğan SK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25531\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25531
+URL:https://ktff.org/maclar/25531
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Gönyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Gönyel
+ i SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25532@ktff-takvim
+DTSTAMP:20261026T075217Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Düzkaya KOSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25532\n📍 Çatal
+ köy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25532
+URL:https://ktff.org/maclar/25532
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK – Çello Dikmen G
+ ücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK – Çell
+ o Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25533@ktff-takvim
+DTSTAMP:20261026T075218Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25533\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25533
+URL:https://ktff.org/maclar/25533
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Lap
+ ta Türk Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Lapta Türk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25534@ktff-takvim
+DTSTAMP:20261026T075219Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – Maraş GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25534\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25534
+URL:https://ktff.org/maclar/25534
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – Maraş GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ Maraş GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25535@ktff-takvim
+DTSTAMP:20261026T075219Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25535\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25535
+URL:https://ktff.org/maclar/25535
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – DND L. Gen
+ çler Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25536@ktff-takvim
+DTSTAMP:20261026T075224Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Türk Ocağı Limasol SK – Lefke TSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25536\n📍 Girne 
+ 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25536
+URL:https://ktff.org/maclar/25536
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Lefke
+  TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
+ K – Lefke TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25537@ktff-takvim
+DTSTAMP:20261026T075225Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK – Göçmenköy İYSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25537\n📍 İskel
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25537
+URL:https://ktff.org/maclar/25537
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – G
+ öçmenköy İYSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK – Göçmenköy İYSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25538@ktff-takvim
+DTSTAMP:20261026T075225Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Mormenekşe GBSK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25538\n📍 Mormen
+ ekşe Cemal Balses Stadı\n🔗 https://ktff.org/maclar/25538
+URL:https://ktff.org/maclar/25538
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Mormenekşe Cemal Balses Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK – Geçitkale GS
+ K
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK – Ge
+ çitkale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25540@ktff-takvim
+DTSTAMP:20261026T075226Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Gönyeli SK – Düzkaya KOSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25540\n📍 Gönye
+ li Stadı\n🔗 https://ktff.org/maclar/25540
+URL:https://ktff.org/maclar/25540
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Düzkaya KOSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Düzkay
+ a KOSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25541@ktff-takvim
+DTSTAMP:20261026T075226Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25541\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25541
+URL:https://ktff.org/maclar/25541
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – M. Hac
+ ıali Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25542@ktff-takvim
+DTSTAMP:20261026T075227Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Yeniboğaziçi DSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25542\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25542
+URL:https://ktff.org/maclar/25542
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Yenibo
+ ğaziçi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25543@ktff-takvim
+DTSTAMP:20261026T075227Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Maraş GSK – Karaoğlanoğlu SK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25543\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25543
+URL:https://ktff.org/maclar/25543
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – Karaoğlanoğlu SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – Karaoğl
+ anoğlu SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25544@ktff-takvim
+DTSTAMP:20261026T075232Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Lefke TSK – Göçmenköy İYSK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25544\n📍 Lefke 
+ 16 Ağustos Stadı\n🔗 https://ktff.org/maclar/25544
+URL:https://ktff.org/maclar/25544
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefke 16 Ağustos Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK – Göçmenköy İYSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK – Göçmenk
+ öy İYSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25545@ktff-takvim
+DTSTAMP:20261026T075233Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Geçitkale GSK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25545\n📍 Geçit
+ kale Stadı\n🔗 https://ktff.org/maclar/25545
+URL:https://ktff.org/maclar/25545
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Türk Ocağı L
+ imasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Tür
+ k Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25546@ktff-takvim
+DTSTAMP:20261026T075234Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Akdoğan SK – Mormenekşe GBSK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25546\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25546
+URL:https://ktff.org/maclar/25546
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Mormenekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Mormene
+ kşe GBSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25548@ktff-takvim
+DTSTAMP:20261026T075234Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25548\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25548
+URL:https://ktff.org/maclar/25548
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Gö
+ nyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Gönyeli SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25549@ktff-takvim
+DTSTAMP:20261026T075235Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25549\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25549
+URL:https://ktff.org/maclar/25549
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – Çello Dikm
+ en Gücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ Çello Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25550@ktff-takvim
+DTSTAMP:20261026T075235Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25550\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25550
+URL:https://ktff.org/maclar/25550
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Lapta Türk
+  Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Lapta Türk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25551@ktff-takvim
+DTSTAMP:20261026T075236Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Maraş GSK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25551\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25551
+URL:https://ktff.org/maclar/25551
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – DND L. Gençler Bir
+ liği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – DND L. G
+ ençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

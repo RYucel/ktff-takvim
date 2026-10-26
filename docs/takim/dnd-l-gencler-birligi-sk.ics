@@ -114,11 +114,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25471@ktff-takvim
-DTSTAMP:20261005T070931Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Akdoğan SK – DND L. Gençler Birliği SK
+SUMMARY:⚽ Akdoğan SK 0–5 DND L. Gençler Birliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25471\n📍 Akdoğa
  n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25471
 URL:https://ktff.org/maclar/25471
@@ -127,14 +127,14 @@ STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – DND L. Gençler Bi
- rliği SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK 0–5 DND L. Gençler 
+ Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – DND L. 
- Gençler Birliği SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK 0–5 DND L
+ . Gençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -213,6 +213,162 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
   SK – DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25507@ktff-takvim
+DTSTAMP:20261026T075151Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK – Mormenekşe GBSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25507\n📍 İskel
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25507
+URL:https://ktff.org/maclar/25507
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – Mo
+ rmenekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK – Mormenekşe GBSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25519@ktff-takvim
+DTSTAMP:20261026T075202Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25519\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25519
+URL:https://ktff.org/maclar/25519
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – DND L. Gen
+ çler Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25522@ktff-takvim
+DTSTAMP:20261026T075208Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25522\n📍 İskel
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25522
+URL:https://ktff.org/maclar/25522
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – T
+ ürk Ocağı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK – Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25535@ktff-takvim
+DTSTAMP:20261026T075219Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25535\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25535
+URL:https://ktff.org/maclar/25535
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – DND L. Gen
+ çler Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25537@ktff-takvim
+DTSTAMP:20261026T075225Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK – Göçmenköy İYSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25537\n📍 İskel
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25537
+URL:https://ktff.org/maclar/25537
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – G
+ öçmenköy İYSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK – Göçmenköy İYSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25551@ktff-takvim
+DTSTAMP:20261026T075236Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Maraş GSK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25551\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25551
+URL:https://ktff.org/maclar/25551
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – DND L. Gençler Bir
+ liği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – DND L. G
+ ençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

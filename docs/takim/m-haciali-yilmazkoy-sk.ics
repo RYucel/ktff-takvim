@@ -88,11 +88,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25464@ktff-takvim
-DTSTAMP:20261005T070934Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Lefke TSK – M. Hacıali Yılmazköy SK
+SUMMARY:⚽ Lefke TSK 0–1 M. Hacıali Yılmazköy SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25464\n📍 Lefke 1
  6 Ağustos Stadı\n🔗 https://ktff.org/maclar/25464
 URL:https://ktff.org/maclar/25464
@@ -101,14 +101,14 @@ STATUS:CONFIRMED
 LOCATION:Lefke 16 Ağustos Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK – M. Hacıali Yılmazk
- öy SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK 0–1 M. Hacıali Yılma
+ zköy SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK – M. Hacıa
- li Yılmazköy SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK 0–1 M. Hac
+ ıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -213,6 +213,162 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
   SK – DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25511@ktff-takvim
+DTSTAMP:20261026T075154Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25511
+URL:https://ktff.org/maclar/25511
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – M. Hacıali
+  Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25518@ktff-takvim
+DTSTAMP:20261026T075202Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Karaoğlanoğlu SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25518\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25518
+URL:https://ktff.org/maclar/25518
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Kar
+ aoğlanoğlu SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Karaoğlanoğlu SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25526@ktff-takvim
+DTSTAMP:20261026T075210Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Maraş GSK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25526\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25526
+URL:https://ktff.org/maclar/25526
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – M. Hacıali Yılmaz
+ köy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – M. Hacı
+ ali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25533@ktff-takvim
+DTSTAMP:20261026T075218Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25533\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25533
+URL:https://ktff.org/maclar/25533
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Lap
+ ta Türk Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Lapta Türk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25541@ktff-takvim
+DTSTAMP:20261026T075226Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25541\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25541
+URL:https://ktff.org/maclar/25541
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – M. Hac
+ ıali Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25548@ktff-takvim
+DTSTAMP:20261026T075234Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25548\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25548
+URL:https://ktff.org/maclar/25548
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Gö
+ nyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Gönyeli SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

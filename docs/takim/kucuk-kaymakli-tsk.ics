@@ -89,11 +89,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25355@ktff-takvim
-DTSTAMP:20261005T070929Z
-SEQUENCE:1
-DTSTART:20261010T123000Z
-DTEND:20261010T142000Z
-SUMMARY:⚽ Küçük Kaymaklı TSK – Esentepe KSKK
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
+DTSTART:20261011T123000Z
+DTEND:20261011T142000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK 1–1 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25355\n📍 Kü
  çük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar/2
  5355
@@ -103,14 +103,14 @@ STATUS:CONFIRMED
 LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Esentep
- e KSKK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK 1–1 Esent
+ epe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
- – Esentepe KSKK
+ 1–1 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -217,6 +217,165 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
  – Cihangir GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25390@ktff-takvim
+DTSTAMP:20261026T075146Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25390\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25390
+URL:https://ktff.org/maclar/25390
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Küçük
+  Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25397@ktff-takvim
+DTSTAMP:20261026T075154Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25397\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25397
+URL:https://ktff.org/maclar/25397
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Aslank
+ öy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Aslanköy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25404@ktff-takvim
+DTSTAMP:20261026T075203Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25404\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25404
+URL:https://ktff.org/maclar/25404
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25411@ktff-takvim
+DTSTAMP:20261026T075211Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25411\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25411
+URL:https://ktff.org/maclar/25411
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Dumlup
+ ınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Dumlupınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25418@ktff-takvim
+DTSTAMP:20261026T075220Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Yenicami AK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25418\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25418
+URL:https://ktff.org/maclar/25418
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Küçük Kaymaklı
+  TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Küçü
+ k Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25425@ktff-takvim
+DTSTAMP:20261026T075228Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25425\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25425
+URL:https://ktff.org/maclar/25425
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Baf Ül
+ kü Yurdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

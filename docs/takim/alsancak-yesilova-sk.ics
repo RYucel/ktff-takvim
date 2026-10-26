@@ -88,11 +88,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25360@ktff-takvim
-DTSTAMP:20261005T070933Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Aslanköy GSD – Alsancak Yeşilova SK
+SUMMARY:⚽ Aslanköy GSD 1–1 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25360\n📍 Gaz
  iköy Şenol Stadı\n🔗 https://ktff.org/maclar/25360
 URL:https://ktff.org/maclar/25360
@@ -101,14 +101,14 @@ STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Alsancak Yeşilo
- va SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD 1–1 Alsancak Yeşi
+ lova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Alsan
- cak Yeşilova SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD 1–1 Als
+ ancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -213,6 +213,162 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Al
  sancak Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25390@ktff-takvim
+DTSTAMP:20261026T075146Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25390\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25390
+URL:https://ktff.org/maclar/25390
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Küçük
+  Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25400@ktff-takvim
+DTSTAMP:20261026T075156Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Değirmenlik SK – Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25400\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25400
+URL:https://ktff.org/maclar/25400
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Alsancak Yeşi
+ lova SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Als
+ ancak Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25407@ktff-takvim
+DTSTAMP:20261026T075205Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25407\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25407
+URL:https://ktff.org/maclar/25407
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Karşıy
+ aka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25415@ktff-takvim
+DTSTAMP:20261026T075214Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Mesarya SK – Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25415\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25415
+URL:https://ktff.org/maclar/25415
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – Alsancak Yeşilova 
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – Alsancak
+  Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25422@ktff-takvim
+DTSTAMP:20261026T075222Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25422\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25422
+URL:https://ktff.org/maclar/25422
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Esentepe
+  KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25430@ktff-takvim
+DTSTAMP:20261026T075231Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Mağusa Türk Gücü – Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25430\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25430
+URL:https://ktff.org/maclar/25430
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Alsancak 
+ Yeşilova SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
+ – Alsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

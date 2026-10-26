@@ -113,11 +113,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25357@ktff-takvim
-DTSTAMP:20261005T070932Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Yenicami AK – Çetinkaya TSK
+SUMMARY:⚽ Yenicami AK 1–2 Çetinkaya TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25357\n📍 Lef
  koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25357
 URL:https://ktff.org/maclar/25357
@@ -126,13 +126,13 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Çetinkaya TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK 1–2 Çetinkaya TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Çetink
- aya TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK 1–2 Çeti
+ nkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -236,6 +236,133 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Çet
  inkaya TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25395@ktff-takvim
+DTSTAMP:20261026T075149Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Çetinkaya TSK – Mesarya SK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25395\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25395
+URL:https://ktff.org/maclar/25395
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK – Mesarya SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK – Mesa
+ rya SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25403@ktff-takvim
+DTSTAMP:20261026T075158Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Esentepe KSKK – Çetinkaya TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25403\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25403
+URL:https://ktff.org/maclar/25403
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Çetinkaya TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Çeti
+ nkaya TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25410@ktff-takvim
+DTSTAMP:20261026T075207Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Çetinkaya TSK – Mağusa Türk Gücü
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25410\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25410
+URL:https://ktff.org/maclar/25410
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK – Mağusa Türk G
+ ücü
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK – Mağ
+ usa Türk Gücü
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25424@ktff-takvim
+DTSTAMP:20261026T075223Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Çetinkaya TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25424\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25424
+URL:https://ktff.org/maclar/25424
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Çetinka
+ ya TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Çetinkaya TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25431@ktff-takvim
+DTSTAMP:20261026T075232Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Çetinkaya TSK – Cihangir GSK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25431\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25431
+URL:https://ktff.org/maclar/25431
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK – Cihangir GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK – Ciha
+ ngir GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -113,11 +113,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25356@ktff-takvim
-DTSTAMP:20261005T070932Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Baf Ülkü Yurdu – Mağusa Türk Gücü
+SUMMARY:⚽ Baf Ülkü Yurdu 1–7 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25356\n📍 Gü
  zelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25356
 URL:https://ktff.org/maclar/25356
@@ -126,14 +126,14 @@ STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Mağusa Türk
-  Gücü
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 1–7 Mağusa Tü
+ rk Gücü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ma
- ğusa Türk Gücü
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu 1–7 
+ Mağusa Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -237,6 +237,135 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Al
  sancak Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25391@ktff-takvim
+DTSTAMP:20261026T075147Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Aslanköy GSD – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25391\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25391
+URL:https://ktff.org/maclar/25391
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Baf Ülkü Yurdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Baf 
+ Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25398@ktff-takvim
+DTSTAMP:20261026T075155Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Baf Ülkü Yurdu – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25398\n📍 G
+ üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25398
+URL:https://ktff.org/maclar/25398
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – China Bazaar 
+ Gençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ch
+ ina Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25405@ktff-takvim
+DTSTAMP:20261026T075203Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Dumlupınar TSK – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25405
+URL:https://ktff.org/maclar/25405
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Baf Ülkü Yur
+ du
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Baf
+  Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25412@ktff-takvim
+DTSTAMP:20261026T075212Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Baf Ülkü Yurdu – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25412\n📍 G
+ üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25412
+URL:https://ktff.org/maclar/25412
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ye
+ nicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25425@ktff-takvim
+DTSTAMP:20261026T075228Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25425\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25425
+URL:https://ktff.org/maclar/25425
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Baf Ül
+ kü Yurdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

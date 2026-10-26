@@ -114,11 +114,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25359@ktff-takvim
-DTSTAMP:20261005T070928Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261009T160000Z
 DTEND:20261009T175000Z
-SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Cihangir GSK
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK 2–0 Cihangir GSK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25359\n📍 Lef
  koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25359
 URL:https://ktff.org/maclar/25359
@@ -127,14 +127,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
- – Cihangir GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 2
+ –0 Cihangir GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
- ücü TSK – Cihangir GSK
+ ücü TSK 2–0 Cihangir GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -213,6 +213,162 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Chi
  na Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25392@ktff-takvim
+DTSTAMP:20261026T075147Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25392\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25392
+URL:https://ktff.org/maclar/25392
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Yenicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25398@ktff-takvim
+DTSTAMP:20261026T075155Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Baf Ülkü Yurdu – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25398\n📍 G
+ üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25398
+URL:https://ktff.org/maclar/25398
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – China Bazaar 
+ Gençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ch
+ ina Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25404@ktff-takvim
+DTSTAMP:20261026T075203Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25404\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25404
+URL:https://ktff.org/maclar/25404
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25413@ktff-takvim
+DTSTAMP:20261026T075213Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Değirmenlik SK – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25413\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25413
+URL:https://ktff.org/maclar/25413
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – China Bazaar G
+ ençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Chi
+ na Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25420@ktff-takvim
+DTSTAMP:20261026T075221Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25420\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25420
+URL:https://ktff.org/maclar/25420
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Karşıyaka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25428@ktff-takvim
+DTSTAMP:20261026T075230Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Mesarya SK – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25428\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25428
+URL:https://ktff.org/maclar/25428
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – China Bazaar Gençl
+ ik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – China Ba
+ zaar Gençlik Gücü TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

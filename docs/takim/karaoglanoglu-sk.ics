@@ -88,11 +88,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25466@ktff-takvim
-DTSTAMP:20261005T070936Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261012T160000Z
 DTEND:20261012T175000Z
-SUMMARY:⚽ Türk Ocağı Limasol SK – Karaoğlanoğlu SK
+SUMMARY:⚽ Türk Ocağı Limasol SK 1–1 Karaoğlanoğlu SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25466\n📍 Girne 2
  0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25466
 URL:https://ktff.org/maclar/25466
@@ -101,14 +101,14 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Karao
- ğlanoğlu SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 1–1 Kar
+ aoğlanoğlu SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
- K – Karaoğlanoğlu SK
+ K 1–1 Karaoğlanoğlu SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -211,6 +211,161 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Karaoğ
  lanoğlu SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25510@ktff-takvim
+DTSTAMP:20261026T075153Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Düzkaya KOSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25510\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25510
+URL:https://ktff.org/maclar/25510
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Düzkaya KO
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Düzkaya KOSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25518@ktff-takvim
+DTSTAMP:20261026T075202Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Karaoğlanoğlu SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25518\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25518
+URL:https://ktff.org/maclar/25518
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Kar
+ aoğlanoğlu SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Karaoğlanoğlu SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25527@ktff-takvim
+DTSTAMP:20261026T075211Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Yeniboğaziçi DSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25527\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25527
+URL:https://ktff.org/maclar/25527
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Yeniboğazi
+ çi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25535@ktff-takvim
+DTSTAMP:20261026T075219Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25535\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25535
+URL:https://ktff.org/maclar/25535
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – DND L. Gen
+ çler Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25543@ktff-takvim
+DTSTAMP:20261026T075227Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Maraş GSK – Karaoğlanoğlu SK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25543\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25543
+URL:https://ktff.org/maclar/25543
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – Karaoğlanoğlu SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – Karaoğl
+ anoğlu SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25550@ktff-takvim
+DTSTAMP:20261026T075235Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25550\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25550
+URL:https://ktff.org/maclar/25550
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Lapta Türk
+  Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Lapta Türk Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

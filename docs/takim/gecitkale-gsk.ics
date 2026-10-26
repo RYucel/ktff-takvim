@@ -112,11 +112,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25470@ktff-takvim
-DTSTAMP:20261005T070935Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Geçitkale GSK – Düzkaya KOSK
+SUMMARY:⚽ Geçitkale GSK 1–6 Düzkaya KOSK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25470\n📍 Geçitk
  ale Stadı\n🔗 https://ktff.org/maclar/25470
 URL:https://ktff.org/maclar/25470
@@ -125,13 +125,13 @@ STATUS:CONFIRMED
 LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Düzkaya KOSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK 1–6 Düzkaya KOSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Düz
- kaya KOSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK 1–6 D
+ üzkaya KOSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -235,6 +235,135 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Mara
  ş GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25508@ktff-takvim
+DTSTAMP:20261026T075152Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25508\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25508
+URL:https://ktff.org/maclar/25508
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Geçit
+ kale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Geçitkale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25515@ktff-takvim
+DTSTAMP:20261026T075200Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Geçitkale GSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25515\n📍 Geçit
+ kale Stadı\n🔗 https://ktff.org/maclar/25515
+URL:https://ktff.org/maclar/25515
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Çello Dikmen G
+ ücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Çel
+ lo Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25523@ktff-takvim
+DTSTAMP:20261026T075208Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Gönyeli SK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25523\n📍 Gönye
+ li Stadı\n🔗 https://ktff.org/maclar/25523
+URL:https://ktff.org/maclar/25523
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Geçitkale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Geçitk
+ ale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25538@ktff-takvim
+DTSTAMP:20261026T075225Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Mormenekşe GBSK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25538\n📍 Mormen
+ ekşe Cemal Balses Stadı\n🔗 https://ktff.org/maclar/25538
+URL:https://ktff.org/maclar/25538
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Mormenekşe Cemal Balses Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mormenekşe GBSK – Geçitkale GS
+ K
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mormenekşe GBSK – Ge
+ çitkale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25545@ktff-takvim
+DTSTAMP:20261026T075233Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Geçitkale GSK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25545\n📍 Geçit
+ kale Stadı\n🔗 https://ktff.org/maclar/25545
+URL:https://ktff.org/maclar/25545
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Türk Ocağı L
+ imasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Tür
+ k Ocağı Limasol SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

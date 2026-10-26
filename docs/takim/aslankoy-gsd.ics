@@ -112,11 +112,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25360@ktff-takvim
-DTSTAMP:20261005T070933Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Aslanköy GSD – Alsancak Yeşilova SK
+SUMMARY:⚽ Aslanköy GSD 1–1 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25360\n📍 Gaz
  iköy Şenol Stadı\n🔗 https://ktff.org/maclar/25360
 URL:https://ktff.org/maclar/25360
@@ -125,14 +125,14 @@ STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Alsancak Yeşilo
- va SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD 1–1 Alsancak Yeşi
+ lova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Alsan
- cak Yeşilova SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD 1–1 Als
+ ancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -209,6 +209,158 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Aslank
  öy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25391@ktff-takvim
+DTSTAMP:20261026T075147Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Aslanköy GSD – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25391\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25391
+URL:https://ktff.org/maclar/25391
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Baf Ülkü Yurdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Baf 
+ Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25397@ktff-takvim
+DTSTAMP:20261026T075154Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25397\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25397
+URL:https://ktff.org/maclar/25397
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Aslank
+ öy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Aslanköy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25406@ktff-takvim
+DTSTAMP:20261026T075204Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Aslanköy GSD – Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25406
+URL:https://ktff.org/maclar/25406
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Değirmenlik SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Deği
+ rmenlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25414@ktff-takvim
+DTSTAMP:20261026T075213Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Karşıyaka SK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25414\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25414
+URL:https://ktff.org/maclar/25414
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Aslanköy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Asla
+ nköy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25421@ktff-takvim
+DTSTAMP:20261026T075221Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Aslanköy GSD – Mesarya SK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25421\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25421
+URL:https://ktff.org/maclar/25421
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Mesarya SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Mesar
+ ya SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25429@ktff-takvim
+DTSTAMP:20261026T075230Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Esentepe KSKK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25429\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25429
+URL:https://ktff.org/maclar/25429
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Aslanköy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Aslan
+ köy GSD
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

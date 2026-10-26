@@ -88,11 +88,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25461@ktff-takvim
-DTSTAMP:20261005T071010Z
-SEQUENCE:2
-DTSTART:20261004T123000Z
-DTEND:20261004T142000Z
-SUMMARY:⚽ Lapta Türk Birliği SK – Gönyeli SK (Tatil Edildi)
+DTSTAMP:20261026T075145Z
+SEQUENCE:3
+DTSTART:20261006T130000Z
+DTEND:20261006T145000Z
+SUMMARY:⚽ Lapta Türk Birliği SK 2–1 Gönyeli SK
 DESCRIPTION:🏆 AKSA 1. Lig · 4. Hafta\n🔢 Maç No: 25461\n📍 Lapta 
  Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25461
 URL:https://ktff.org/maclar/25461
@@ -101,14 +101,14 @@ STATUS:CONFIRMED
 LOCATION:Lapta Şht. Şevket Kadir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Gönye
- li SK (Tatil Edildi)
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK 2–1 Gön
+ yeli SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  – Gönyeli SK (Tatil Edildi)
+  2–1 Gönyeli SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -213,6 +213,162 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK – Lapta Tü
  rk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25508@ktff-takvim
+DTSTAMP:20261026T075152Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25508\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25508
+URL:https://ktff.org/maclar/25508
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Geçit
+ kale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Geçitkale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25516@ktff-takvim
+DTSTAMP:20261026T075200Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Akdoğan SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25516\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25516
+URL:https://ktff.org/maclar/25516
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Lapta Türk Birli
+ ği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Lapta T
+ ürk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25525@ktff-takvim
+DTSTAMP:20261026T075210Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Düzkaya KOSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25525\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25525
+URL:https://ktff.org/maclar/25525
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Düzka
+ ya KOSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Düzkaya KOSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25533@ktff-takvim
+DTSTAMP:20261026T075218Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25533\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25533
+URL:https://ktff.org/maclar/25533
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Lap
+ ta Türk Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Lapta Türk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25542@ktff-takvim
+DTSTAMP:20261026T075227Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Yeniboğaziçi DSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25542\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25542
+URL:https://ktff.org/maclar/25542
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Yenibo
+ ğaziçi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25550@ktff-takvim
+DTSTAMP:20261026T075235Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25550\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25550
+URL:https://ktff.org/maclar/25550
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Lapta Türk
+  Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Lapta Türk Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -732,11 +732,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25359@ktff-takvim
-DTSTAMP:20261005T070928Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261009T160000Z
 DTEND:20261009T175000Z
-SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Cihangir GSK
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK 2–0 Cihangir GSK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25359\n📍 Lef
  koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25359
 URL:https://ktff.org/maclar/25359
@@ -745,24 +745,50 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
- – Cihangir GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 2
+ –0 Cihangir GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
- ücü TSK – Cihangir GSK
+ ücü TSK 2–0 Cihangir GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25358@ktff-takvim
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
+DTSTART:20261010T123000Z
+DTEND:20261010T142000Z
+SUMMARY:⚽ Dumlupınar TSK 0–1 Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25358\n📍 Gaz
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25358
+URL:https://ktff.org/maclar/25358
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 0–1 Doğan Türk
+  Birliği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK 0–1 D
+ oğan Türk Birliği
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25355@ktff-takvim
-DTSTAMP:20261005T070929Z
-SEQUENCE:1
-DTSTART:20261010T123000Z
-DTEND:20261010T142000Z
-SUMMARY:⚽ Küçük Kaymaklı TSK – Esentepe KSKK
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
+DTSTART:20261011T123000Z
+DTEND:20261011T142000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK 1–1 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25355\n📍 Kü
  çük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar/2
  5355
@@ -772,50 +798,24 @@ STATUS:CONFIRMED
 LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Esentep
- e KSKK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK 1–1 Esent
+ epe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
- – Esentepe KSKK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25358@ktff-takvim
-DTSTAMP:20261005T070929Z
-SEQUENCE:1
-DTSTART:20261010T123000Z
-DTEND:20261010T142000Z
-SUMMARY:⚽ Dumlupınar TSK – Doğan Türk Birliği
-DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25358\n📍 Gaz
- imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25358
-URL:https://ktff.org/maclar/25358
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Doğan Türk B
- irliği
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Do
- ğan Türk Birliği
+ 1–1 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25356@ktff-takvim
-DTSTAMP:20261005T070932Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Baf Ülkü Yurdu – Mağusa Türk Gücü
+SUMMARY:⚽ Baf Ülkü Yurdu 1–7 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25356\n📍 Gü
  zelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25356
 URL:https://ktff.org/maclar/25356
@@ -824,24 +824,24 @@ STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Mağusa Türk
-  Gücü
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 1–7 Mağusa Tü
+ rk Gücü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ma
- ğusa Türk Gücü
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu 1–7 
+ Mağusa Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25357@ktff-takvim
-DTSTAMP:20261005T070932Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Yenicami AK – Çetinkaya TSK
+SUMMARY:⚽ Yenicami AK 1–2 Çetinkaya TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25357\n📍 Lef
  koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25357
 URL:https://ktff.org/maclar/25357
@@ -850,23 +850,23 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Çetinkaya TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK 1–2 Çetinkaya TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Çetink
- aya TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK 1–2 Çeti
+ nkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25360@ktff-takvim
-DTSTAMP:20261005T070933Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Aslanköy GSD – Alsancak Yeşilova SK
+SUMMARY:⚽ Aslanköy GSD 1–1 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25360\n📍 Gaz
  iköy Şenol Stadı\n🔗 https://ktff.org/maclar/25360
 URL:https://ktff.org/maclar/25360
@@ -875,24 +875,24 @@ STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Alsancak Yeşilo
- va SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD 1–1 Alsancak Yeşi
+ lova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Alsan
- cak Yeşilova SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD 1–1 Als
+ ancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25361@ktff-takvim
-DTSTAMP:20261005T070934Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Değirmenlik SK – Mesarya SK
+SUMMARY:⚽ Değirmenlik SK 1–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25361\n📍 De
  ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25361
 URL:https://ktff.org/maclar/25361
@@ -901,13 +901,13 @@ STATUS:CONFIRMED
 LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Mesarya SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK 1–2 Mesarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Mes
- arya SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK 1–2 M
+ esarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1628,6 +1628,1085 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – Mağusa 
  Türk Gücü
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25390@ktff-takvim
+DTSTAMP:20261026T075146Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25390\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25390
+URL:https://ktff.org/maclar/25390
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Küçük
+  Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25391@ktff-takvim
+DTSTAMP:20261026T075147Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Aslanköy GSD – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25391\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25391
+URL:https://ktff.org/maclar/25391
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Baf Ülkü Yurdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Baf 
+ Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25392@ktff-takvim
+DTSTAMP:20261026T075147Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25392\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25392
+URL:https://ktff.org/maclar/25392
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Yenicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25393@ktff-takvim
+DTSTAMP:20261026T075148Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Cihangir GSK – Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25393\n📍 Ci
+ hangir Stadı\n🔗 https://ktff.org/maclar/25393
+URL:https://ktff.org/maclar/25393
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Cihangir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK – Değirmenlik SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK – Değir
+ menlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25394@ktff-takvim
+DTSTAMP:20261026T075148Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25394\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25394
+URL:https://ktff.org/maclar/25394
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Karşıy
+ aka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25395@ktff-takvim
+DTSTAMP:20261026T075149Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Çetinkaya TSK – Mesarya SK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25395\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25395
+URL:https://ktff.org/maclar/25395
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK – Mesarya SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK – Mesa
+ rya SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25396@ktff-takvim
+DTSTAMP:20261026T075150Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Mağusa Türk Gücü – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25396\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25396
+URL:https://ktff.org/maclar/25396
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Esentepe 
+ KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25397@ktff-takvim
+DTSTAMP:20261026T075154Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25397\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25397
+URL:https://ktff.org/maclar/25397
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Aslank
+ öy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Aslanköy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25398@ktff-takvim
+DTSTAMP:20261026T075155Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Baf Ülkü Yurdu – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25398\n📍 G
+ üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25398
+URL:https://ktff.org/maclar/25398
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – China Bazaar 
+ Gençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ch
+ ina Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25399@ktff-takvim
+DTSTAMP:20261026T075156Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Yenicami AK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25399\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25399
+URL:https://ktff.org/maclar/25399
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Dumlupınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Dumlup
+ ınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25400@ktff-takvim
+DTSTAMP:20261026T075156Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Değirmenlik SK – Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25400\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25400
+URL:https://ktff.org/maclar/25400
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Alsancak Yeşi
+ lova SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Als
+ ancak Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25401@ktff-takvim
+DTSTAMP:20261026T075157Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Karşıyaka SK – Cihangir GSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25401\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25401
+URL:https://ktff.org/maclar/25401
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Cihangir GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Ciha
+ ngir GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25402@ktff-takvim
+DTSTAMP:20261026T075158Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Mesarya SK – Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25402\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25402
+URL:https://ktff.org/maclar/25402
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – Doğan Türk Birli
+ ği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – Doğan T
+ ürk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25403@ktff-takvim
+DTSTAMP:20261026T075158Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Esentepe KSKK – Çetinkaya TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25403\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25403
+URL:https://ktff.org/maclar/25403
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Çetinkaya TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Çeti
+ nkaya TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25404@ktff-takvim
+DTSTAMP:20261026T075203Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25404\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25404
+URL:https://ktff.org/maclar/25404
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Küçük Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25405@ktff-takvim
+DTSTAMP:20261026T075203Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Dumlupınar TSK – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25405
+URL:https://ktff.org/maclar/25405
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Baf Ülkü Yur
+ du
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Baf
+  Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25406@ktff-takvim
+DTSTAMP:20261026T075204Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Aslanköy GSD – Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25406
+URL:https://ktff.org/maclar/25406
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Değirmenlik SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Deği
+ rmenlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25407@ktff-takvim
+DTSTAMP:20261026T075205Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25407\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25407
+URL:https://ktff.org/maclar/25407
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Karşıy
+ aka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25408@ktff-takvim
+DTSTAMP:20261026T075205Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Cihangir GSK – Mesarya SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25408\n📍 Ci
+ hangir Stadı\n🔗 https://ktff.org/maclar/25408
+URL:https://ktff.org/maclar/25408
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Cihangir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK – Mesarya SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK – Mesary
+ a SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25409@ktff-takvim
+DTSTAMP:20261026T075206Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25409\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25409
+URL:https://ktff.org/maclar/25409
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Esentepe
+  KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25410@ktff-takvim
+DTSTAMP:20261026T075207Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Çetinkaya TSK – Mağusa Türk Gücü
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25410\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25410
+URL:https://ktff.org/maclar/25410
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK – Mağusa Türk G
+ ücü
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK – Mağ
+ usa Türk Gücü
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25411@ktff-takvim
+DTSTAMP:20261026T075211Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25411\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25411
+URL:https://ktff.org/maclar/25411
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Dumlup
+ ınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Dumlupınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25412@ktff-takvim
+DTSTAMP:20261026T075212Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Baf Ülkü Yurdu – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25412\n📍 G
+ üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25412
+URL:https://ktff.org/maclar/25412
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ye
+ nicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25413@ktff-takvim
+DTSTAMP:20261026T075213Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Değirmenlik SK – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25413\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25413
+URL:https://ktff.org/maclar/25413
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – China Bazaar G
+ ençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Chi
+ na Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25414@ktff-takvim
+DTSTAMP:20261026T075213Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Karşıyaka SK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25414\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25414
+URL:https://ktff.org/maclar/25414
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Aslanköy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Asla
+ nköy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25415@ktff-takvim
+DTSTAMP:20261026T075214Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Mesarya SK – Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25415\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25415
+URL:https://ktff.org/maclar/25415
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – Alsancak Yeşilova 
+ SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – Alsancak
+  Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25416@ktff-takvim
+DTSTAMP:20261026T075214Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Esentepe KSKK – Cihangir GSK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25416\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25416
+URL:https://ktff.org/maclar/25416
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Cihangir GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Cihan
+ gir GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25417@ktff-takvim
+DTSTAMP:20261026T075215Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Mağusa Türk Gücü – Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25417\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25417
+URL:https://ktff.org/maclar/25417
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Doğan T
+ ürk Birliği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
+ – Doğan Türk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25418@ktff-takvim
+DTSTAMP:20261026T075220Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Yenicami AK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25418\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25418
+URL:https://ktff.org/maclar/25418
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Küçük Kaymaklı
+  TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Küçü
+ k Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25419@ktff-takvim
+DTSTAMP:20261026T075220Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Dumlupınar TSK – Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25419\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25419
+URL:https://ktff.org/maclar/25419
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Değirmenlik S
+ K
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – De
+ ğirmenlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25420@ktff-takvim
+DTSTAMP:20261026T075221Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25420\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25420
+URL:https://ktff.org/maclar/25420
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Karşıyaka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25421@ktff-takvim
+DTSTAMP:20261026T075221Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Aslanköy GSD – Mesarya SK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25421\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25421
+URL:https://ktff.org/maclar/25421
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Mesarya SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Mesar
+ ya SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25422@ktff-takvim
+DTSTAMP:20261026T075222Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25422\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25422
+URL:https://ktff.org/maclar/25422
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Esentepe
+  KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25423@ktff-takvim
+DTSTAMP:20261026T075223Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Cihangir GSK – Mağusa Türk Gücü
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25423\n📍 Ci
+ hangir Stadı\n🔗 https://ktff.org/maclar/25423
+URL:https://ktff.org/maclar/25423
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Cihangir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK – Mağusa Türk Gü
+ cü
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK – Mağus
+ a Türk Gücü
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25424@ktff-takvim
+DTSTAMP:20261026T075223Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Çetinkaya TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25424\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25424
+URL:https://ktff.org/maclar/25424
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Çetinka
+ ya TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Çetinkaya TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25425@ktff-takvim
+DTSTAMP:20261026T075228Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25425\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25425
+URL:https://ktff.org/maclar/25425
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Baf Ül
+ kü Yurdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Baf Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25426@ktff-takvim
+DTSTAMP:20261026T075229Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Değirmenlik SK – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25426\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25426
+URL:https://ktff.org/maclar/25426
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Yen
+ icami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25427@ktff-takvim
+DTSTAMP:20261026T075229Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Karşıyaka SK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25427\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25427
+URL:https://ktff.org/maclar/25427
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Dumlupınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Duml
+ upınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25428@ktff-takvim
+DTSTAMP:20261026T075230Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Mesarya SK – China Bazaar Gençlik Gücü TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25428\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25428
+URL:https://ktff.org/maclar/25428
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – China Bazaar Gençl
+ ik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – China Ba
+ zaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25429@ktff-takvim
+DTSTAMP:20261026T075230Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Esentepe KSKK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25429\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25429
+URL:https://ktff.org/maclar/25429
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Aslanköy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Aslan
+ köy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25430@ktff-takvim
+DTSTAMP:20261026T075231Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Mağusa Türk Gücü – Alsancak Yeşilova SK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25430\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25430
+URL:https://ktff.org/maclar/25430
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Alsancak 
+ Yeşilova SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
+ – Alsancak Yeşilova SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25431@ktff-takvim
+DTSTAMP:20261026T075232Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Çetinkaya TSK – Cihangir GSK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25431\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25431
+URL:https://ktff.org/maclar/25431
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK – Cihangir GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK – Ciha
+ ngir GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

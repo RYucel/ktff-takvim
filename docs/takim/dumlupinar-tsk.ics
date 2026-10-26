@@ -113,11 +113,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25358@ktff-takvim
-DTSTAMP:20261005T070929Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Dumlupınar TSK – Doğan Türk Birliği
+SUMMARY:⚽ Dumlupınar TSK 0–1 Doğan Türk Birliği
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25358\n📍 Gaz
  imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25358
 URL:https://ktff.org/maclar/25358
@@ -126,14 +126,14 @@ STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Doğan Türk B
- irliği
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 0–1 Doğan Türk
+  Birliği
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Do
- ğan Türk Birliği
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK 0–1 D
+ oğan Türk Birliği
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -236,6 +236,135 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Chi
  na Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25399@ktff-takvim
+DTSTAMP:20261026T075156Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Yenicami AK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25399\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25399
+URL:https://ktff.org/maclar/25399
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Dumlupınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Dumlup
+ ınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25405@ktff-takvim
+DTSTAMP:20261026T075203Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Dumlupınar TSK – Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25405
+URL:https://ktff.org/maclar/25405
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Baf Ülkü Yur
+ du
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Baf
+  Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25411@ktff-takvim
+DTSTAMP:20261026T075211Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25411\n📍 K
+ üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar
+ /25411
+URL:https://ktff.org/maclar/25411
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Dumlup
+ ınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
+ – Dumlupınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25419@ktff-takvim
+DTSTAMP:20261026T075220Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Dumlupınar TSK – Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25419\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25419
+URL:https://ktff.org/maclar/25419
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Değirmenlik S
+ K
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – De
+ ğirmenlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25427@ktff-takvim
+DTSTAMP:20261026T075229Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Karşıyaka SK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25427\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25427
+URL:https://ktff.org/maclar/25427
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Dumlupınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Duml
+ upınar TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

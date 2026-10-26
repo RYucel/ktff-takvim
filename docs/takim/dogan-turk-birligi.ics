@@ -114,11 +114,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25358@ktff-takvim
-DTSTAMP:20261005T070929Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Dumlupınar TSK – Doğan Türk Birliği
+SUMMARY:⚽ Dumlupınar TSK 0–1 Doğan Türk Birliği
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25358\n📍 Gaz
  imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25358
 URL:https://ktff.org/maclar/25358
@@ -127,14 +127,14 @@ STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Doğan Türk B
- irliği
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 0–1 Doğan Türk
+  Birliği
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Do
- ğan Türk Birliği
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK 0–1 D
+ oğan Türk Birliği
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -239,6 +239,136 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Do
  ğan Türk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25394@ktff-takvim
+DTSTAMP:20261026T075148Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25394\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25394
+URL:https://ktff.org/maclar/25394
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Karşıy
+ aka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25402@ktff-takvim
+DTSTAMP:20261026T075158Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Mesarya SK – Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25402\n📍 Pa
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25402
+URL:https://ktff.org/maclar/25402
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – Doğan Türk Birli
+ ği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – Doğan T
+ ürk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25409@ktff-takvim
+DTSTAMP:20261026T075206Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25409\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25409
+URL:https://ktff.org/maclar/25409
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Esentepe
+  KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25417@ktff-takvim
+DTSTAMP:20261026T075215Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Mağusa Türk Gücü – Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25417\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25417
+URL:https://ktff.org/maclar/25417
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Doğan T
+ ürk Birliği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
+ – Doğan Türk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25424@ktff-takvim
+DTSTAMP:20261026T075223Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Çetinkaya TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25424\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25424
+URL:https://ktff.org/maclar/25424
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Çetinka
+ ya TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Çetinkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

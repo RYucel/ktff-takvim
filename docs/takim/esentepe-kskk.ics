@@ -113,11 +113,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25355@ktff-takvim
-DTSTAMP:20261005T070929Z
-SEQUENCE:1
-DTSTART:20261010T123000Z
-DTEND:20261010T142000Z
-SUMMARY:⚽ Küçük Kaymaklı TSK – Esentepe KSKK
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
+DTSTART:20261011T123000Z
+DTEND:20261011T142000Z
+SUMMARY:⚽ Küçük Kaymaklı TSK 1–1 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25355\n📍 Kü
  çük Kaymaklı Şht. Hüseyin Ruso Stadı\n🔗 https://ktff.org/maclar/2
  5355
@@ -127,14 +127,14 @@ STATUS:CONFIRMED
 LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK – Esentep
- e KSKK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK 1–1 Esent
+ epe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
- – Esentepe KSKK
+ 1–1 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -211,6 +211,159 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Mesar
  ya SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25396@ktff-takvim
+DTSTAMP:20261026T075150Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Mağusa Türk Gücü – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25396\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25396
+URL:https://ktff.org/maclar/25396
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Esentepe 
+ KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25403@ktff-takvim
+DTSTAMP:20261026T075158Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Esentepe KSKK – Çetinkaya TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25403\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25403
+URL:https://ktff.org/maclar/25403
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Çetinkaya TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Çeti
+ nkaya TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25409@ktff-takvim
+DTSTAMP:20261026T075206Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25409\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25409
+URL:https://ktff.org/maclar/25409
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Esentepe
+  KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25416@ktff-takvim
+DTSTAMP:20261026T075214Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Esentepe KSKK – Cihangir GSK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25416\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25416
+URL:https://ktff.org/maclar/25416
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Cihangir GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Cihan
+ gir GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25422@ktff-takvim
+DTSTAMP:20261026T075222Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Esentepe KSKK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25422\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25422
+URL:https://ktff.org/maclar/25422
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Esentepe
+  KSKK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Esentepe KSKK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25429@ktff-takvim
+DTSTAMP:20261026T075230Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Esentepe KSKK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25429\n📍 Es
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25429
+URL:https://ktff.org/maclar/25429
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Aslanköy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Aslan
+ köy GSD
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

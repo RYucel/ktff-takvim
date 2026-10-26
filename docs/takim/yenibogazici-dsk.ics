@@ -88,11 +88,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25465@ktff-takvim
-DTSTAMP:20261005T070930Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Göçmenköy İYSK – Yeniboğaziçi DSK
+SUMMARY:⚽ Göçmenköy İYSK 3–1 Yeniboğaziçi DSK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25465\n📍 Göçme
  nköy Stadı\n🔗 https://ktff.org/maclar/25465
 URL:https://ktff.org/maclar/25465
@@ -101,14 +101,14 @@ STATUS:CONFIRMED
 LOCATION:Göçmenköy Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Yeniboğazi
- çi DSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK 3–1 Yeniboğa
+ ziçi DSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
- Yeniboğaziçi DSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK 3–
+ 1 Yeniboğaziçi DSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -211,6 +211,161 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK – Yenib
  oğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25511@ktff-takvim
+DTSTAMP:20261026T075154Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25511
+URL:https://ktff.org/maclar/25511
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – M. Hacıali
+  Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25519@ktff-takvim
+DTSTAMP:20261026T075202Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – DND L. Gençler Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25519\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25519
+URL:https://ktff.org/maclar/25519
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – DND L. Gen
+ çler Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25527@ktff-takvim
+DTSTAMP:20261026T075211Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Karaoğlanoğlu SK – Yeniboğaziçi DSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25527\n📍 Karao
+ ğlanoğlu Orhan Dural Stadı\n🔗 https://ktff.org/maclar/25527
+URL:https://ktff.org/maclar/25527
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karaoğlanoğlu Orhan Dural Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK – Yeniboğazi
+ çi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK – 
+ Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25534@ktff-takvim
+DTSTAMP:20261026T075219Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – Maraş GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25534\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25534
+URL:https://ktff.org/maclar/25534
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – Maraş GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ Maraş GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25542@ktff-takvim
+DTSTAMP:20261026T075227Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Lapta Türk Birliği SK – Yeniboğaziçi DSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25542\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25542
+URL:https://ktff.org/maclar/25542
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Yenibo
+ ğaziçi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  – Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25549@ktff-takvim
+DTSTAMP:20261026T075235Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25549\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25549
+URL:https://ktff.org/maclar/25549
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – Çello Dikm
+ en Gücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
+ Çello Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

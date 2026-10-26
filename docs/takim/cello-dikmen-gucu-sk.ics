@@ -114,11 +114,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25469@ktff-takvim
-DTSTAMP:20261005T070935Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Gönyeli SK – Çello Dikmen Gücü SK
+SUMMARY:⚽ Gönyeli SK 2–2 Çello Dikmen Gücü SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25469\n📍 Gönyel
  i Stadı\n🔗 https://ktff.org/maclar/25469
 URL:https://ktff.org/maclar/25469
@@ -127,14 +127,14 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Çello Dikmen Güc
- ü SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 2–2 Çello Dikmen G
+ ücü SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Çello 
- Dikmen Gücü SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 2–2 Çell
+ o Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -212,6 +212,162 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
+ Çello Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25504@ktff-takvim
+DTSTAMP:20261026T075150Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – Lefke TSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25504\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25504
+URL:https://ktff.org/maclar/25504
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – Lefke 
+ TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – Lefke TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25515@ktff-takvim
+DTSTAMP:20261026T075200Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Geçitkale GSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25515\n📍 Geçit
+ kale Stadı\n🔗 https://ktff.org/maclar/25515
+URL:https://ktff.org/maclar/25515
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Çello Dikmen G
+ ücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Çel
+ lo Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25524@ktff-takvim
+DTSTAMP:20261026T075209Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – Akdoğan SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25524\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25524
+URL:https://ktff.org/maclar/25524
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – Akdoğ
+ an SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – Akdoğan SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25532@ktff-takvim
+DTSTAMP:20261026T075217Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Düzkaya KOSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25532\n📍 Çatal
+ köy Nihat Bağcıer Stadı\n🔗 https://ktff.org/maclar/25532
+URL:https://ktff.org/maclar/25532
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK – Çello Dikmen G
+ ücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK – Çell
+ o Dikmen Gücü SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25541@ktff-takvim
+DTSTAMP:20261026T075226Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25541\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25541
+URL:https://ktff.org/maclar/25541
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – M. Hac
+ ıali Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25549@ktff-takvim
+DTSTAMP:20261026T075235Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Yeniboğaziçi DSK – Çello Dikmen Gücü SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25549\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25549
+URL:https://ktff.org/maclar/25549
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – Çello Dikm
+ en Gücü SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
  Çello Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM

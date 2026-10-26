@@ -111,11 +111,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25357@ktff-takvim
-DTSTAMP:20261005T070932Z
-SEQUENCE:1
+DTSTAMP:20261026T075135Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Yenicami AK – Çetinkaya TSK
+SUMMARY:⚽ Yenicami AK 1–2 Çetinkaya TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 5. Hafta\n🔢 Maç No: 25357\n📍 Lef
  koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25357
 URL:https://ktff.org/maclar/25357
@@ -124,13 +124,13 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Çetinkaya TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK 1–2 Çetinkaya TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Çetink
- aya TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK 1–2 Çeti
+ nkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -233,6 +233,133 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Aslank
  öy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25392@ktff-takvim
+DTSTAMP:20261026T075147Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25392\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25392
+URL:https://ktff.org/maclar/25392
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Yenicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25399@ktff-takvim
+DTSTAMP:20261026T075156Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Yenicami AK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25399\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25399
+URL:https://ktff.org/maclar/25399
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Dumlupınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Dumlup
+ ınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25412@ktff-takvim
+DTSTAMP:20261026T075212Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Baf Ülkü Yurdu – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25412\n📍 G
+ üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25412
+URL:https://ktff.org/maclar/25412
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Güzelyurt Üner Berkalp Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ye
+ nicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25418@ktff-takvim
+DTSTAMP:20261026T075220Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Yenicami AK – Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25418\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25418
+URL:https://ktff.org/maclar/25418
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Küçük Kaymaklı
+  TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Küçü
+ k Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25426@ktff-takvim
+DTSTAMP:20261026T075229Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Değirmenlik SK – Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25426\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25426
+URL:https://ktff.org/maclar/25426
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Yen
+ icami AK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

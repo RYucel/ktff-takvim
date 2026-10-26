@@ -87,11 +87,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25461@ktff-takvim
-DTSTAMP:20261005T071010Z
-SEQUENCE:2
-DTSTART:20261004T123000Z
-DTEND:20261004T142000Z
-SUMMARY:⚽ Lapta Türk Birliği SK – Gönyeli SK (Tatil Edildi)
+DTSTAMP:20261026T075145Z
+SEQUENCE:3
+DTSTART:20261006T130000Z
+DTEND:20261006T145000Z
+SUMMARY:⚽ Lapta Türk Birliği SK 2–1 Gönyeli SK
 DESCRIPTION:🏆 AKSA 1. Lig · 4. Hafta\n🔢 Maç No: 25461\n📍 Lapta 
  Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25461
 URL:https://ktff.org/maclar/25461
@@ -100,24 +100,24 @@ STATUS:CONFIRMED
 LOCATION:Lapta Şht. Şevket Kadir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Gönye
- li SK (Tatil Edildi)
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK 2–1 Gön
+ yeli SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  – Gönyeli SK (Tatil Edildi)
+  2–1 Gönyeli SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25469@ktff-takvim
-DTSTAMP:20261005T070935Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261011T123000Z
 DTEND:20261011T142000Z
-SUMMARY:⚽ Gönyeli SK – Çello Dikmen Gücü SK
+SUMMARY:⚽ Gönyeli SK 2–2 Çello Dikmen Gücü SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25469\n📍 Gönyel
  i Stadı\n🔗 https://ktff.org/maclar/25469
 URL:https://ktff.org/maclar/25469
@@ -126,14 +126,14 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Çello Dikmen Güc
- ü SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 2–2 Çello Dikmen G
+ ücü SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Çello 
- Dikmen Gücü SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 2–2 Çell
+ o Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -211,6 +211,157 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
  K – Gönyeli SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25505@ktff-takvim
+DTSTAMP:20261026T075151Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Gönyeli SK – Göçmenköy İYSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25505\n📍 Gönye
+ li Stadı\n🔗 https://ktff.org/maclar/25505
+URL:https://ktff.org/maclar/25505
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Göçmenköy İYSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Göçme
+ nköy İYSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25512@ktff-takvim
+DTSTAMP:20261026T075159Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Lefke TSK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25512\n📍 Lefke 
+ 16 Ağustos Stadı\n🔗 https://ktff.org/maclar/25512
+URL:https://ktff.org/maclar/25512
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefke 16 Ağustos Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK – Gönyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK – Gönyeli 
+ SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25523@ktff-takvim
+DTSTAMP:20261026T075208Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Gönyeli SK – Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25523\n📍 Gönye
+ li Stadı\n🔗 https://ktff.org/maclar/25523
+URL:https://ktff.org/maclar/25523
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Geçitkale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Geçitk
+ ale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25531@ktff-takvim
+DTSTAMP:20261026T075217Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Akdoğan SK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25531\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25531
+URL:https://ktff.org/maclar/25531
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Gönyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Gönyel
+ i SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25540@ktff-takvim
+DTSTAMP:20261026T075226Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Gönyeli SK – Düzkaya KOSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25540\n📍 Gönye
+ li Stadı\n🔗 https://ktff.org/maclar/25540
+URL:https://ktff.org/maclar/25540
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK – Düzkaya KOSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK – Düzkay
+ a KOSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25548@ktff-takvim
+DTSTAMP:20261026T075234Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25548\n📍 Yılma
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25548
+URL:https://ktff.org/maclar/25548
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – Gö
+ nyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK – Gönyeli SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

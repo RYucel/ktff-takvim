@@ -112,11 +112,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25471@ktff-takvim
-DTSTAMP:20261005T070931Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261010T123000Z
 DTEND:20261010T142000Z
-SUMMARY:⚽ Akdoğan SK – DND L. Gençler Birliği SK
+SUMMARY:⚽ Akdoğan SK 0–5 DND L. Gençler Birliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25471\n📍 Akdoğa
  n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25471
 URL:https://ktff.org/maclar/25471
@@ -125,14 +125,14 @@ STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – DND L. Gençler Bi
- rliği SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK 0–5 DND L. Gençler 
+ Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – DND L. 
- Gençler Birliği SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK 0–5 DND L
+ . Gençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -234,6 +234,133 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Karaoğ
  lanoğlu SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25509@ktff-takvim
+DTSTAMP:20261026T075153Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Maraş GSK – Akdoğan SK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25509\n📍 Maraş
+  Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25509
+URL:https://ktff.org/maclar/25509
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Maraş Necip Halil Kartal Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK – Akdoğan SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK – Akdoğan
+  SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25516@ktff-takvim
+DTSTAMP:20261026T075200Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Akdoğan SK – Lapta Türk Birliği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25516\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25516
+URL:https://ktff.org/maclar/25516
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Lapta Türk Birli
+ ği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Lapta T
+ ürk Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25524@ktff-takvim
+DTSTAMP:20261026T075209Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK – Akdoğan SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25524\n📍 Dikmen
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25524
+URL:https://ktff.org/maclar/25524
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Dikmen Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – Akdoğ
+ an SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
+  – Akdoğan SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25531@ktff-takvim
+DTSTAMP:20261026T075217Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Akdoğan SK – Gönyeli SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25531\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25531
+URL:https://ktff.org/maclar/25531
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Gönyeli SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Gönyel
+ i SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25546@ktff-takvim
+DTSTAMP:20261026T075234Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Akdoğan SK – Mormenekşe GBSK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25546\n📍 Akdoğ
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25546
+URL:https://ktff.org/maclar/25546
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Akdoğan Özgürlük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Mormenekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Mormene
+ kşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

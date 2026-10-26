@@ -213,4 +213,157 @@ DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Çet
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25394@ktff-takvim
+DTSTAMP:20261026T075148Z
+SEQUENCE:1
+DTSTART:20261114T220000Z
+DTEND:20261114T235000Z
+SUMMARY:⚽ Doğan Türk Birliği – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25394\n📍 Gi
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25394
+URL:https://ktff.org/maclar/25394
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Karşıy
+ aka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
+ – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25401@ktff-takvim
+DTSTAMP:20261026T075157Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Karşıyaka SK – Cihangir GSK
+DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25401\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25401
+URL:https://ktff.org/maclar/25401
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Cihangir GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Ciha
+ ngir GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25407@ktff-takvim
+DTSTAMP:20261026T075205Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ Alsancak Yeşilova SK – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25407\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25407
+URL:https://ktff.org/maclar/25407
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Karşıy
+ aka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25414@ktff-takvim
+DTSTAMP:20261026T075213Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Karşıyaka SK – Aslanköy GSD
+DESCRIPTION:🏆 AKSA Süper Lig · 13. Hafta\n🔢 Maç No: 25414\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25414
+URL:https://ktff.org/maclar/25414
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Aslanköy GSD
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Asla
+ nköy GSD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25420@ktff-takvim
+DTSTAMP:20261026T075221Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK – Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 14. Hafta\n🔢 Maç No: 25420\n📍 Le
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25420
+URL:https://ktff.org/maclar/25420
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ – Karşıyaka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK – Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25427@ktff-takvim
+DTSTAMP:20261026T075229Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Karşıyaka SK – Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 15. Hafta\n🔢 Maç No: 25427\n📍 Ka
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25427
+URL:https://ktff.org/maclar/25427
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Karşıyaka Şampiyon Melekler Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK – Dumlupınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK – Duml
+ upınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

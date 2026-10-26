@@ -114,11 +114,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25466@ktff-takvim
-DTSTAMP:20261005T070936Z
-SEQUENCE:1
+DTSTAMP:20261026T075145Z
+SEQUENCE:2
 DTSTART:20261012T160000Z
 DTEND:20261012T175000Z
-SUMMARY:⚽ Türk Ocağı Limasol SK – Karaoğlanoğlu SK
+SUMMARY:⚽ Türk Ocağı Limasol SK 1–1 Karaoğlanoğlu SK
 DESCRIPTION:🏆 AKSA 1. Lig · 5. Hafta\n🔢 Maç No: 25466\n📍 Girne 2
  0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25466
 URL:https://ktff.org/maclar/25466
@@ -127,14 +127,14 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Karao
- ğlanoğlu SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 1–1 Kar
+ aoğlanoğlu SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
- K – Karaoğlanoğlu SK
+ K 1–1 Karaoğlanoğlu SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -239,6 +239,136 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
  K – Gönyeli SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25514@ktff-takvim
+DTSTAMP:20261026T075159Z
+SEQUENCE:1
+DTSTART:20261121T220000Z
+DTEND:20261121T235000Z
+SUMMARY:⚽ Türk Ocağı Limasol SK – Mormenekşe GBSK
+DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25514\n📍 Girne 
+ 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25514
+URL:https://ktff.org/maclar/25514
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Morme
+ nekşe GBSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
+ K – Mormenekşe GBSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25522@ktff-takvim
+DTSTAMP:20261026T075208Z
+SEQUENCE:1
+DTSTART:20261128T220000Z
+DTEND:20261128T235000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25522\n📍 İskel
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25522
+URL:https://ktff.org/maclar/25522
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – T
+ ürk Ocağı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK – Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25529@ktff-takvim
+DTSTAMP:20261026T075216Z
+SEQUENCE:1
+DTSTART:20261205T220000Z
+DTEND:20261205T235000Z
+SUMMARY:⚽ Göçmenköy İYSK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 13. Hafta\n🔢 Maç No: 25529\n📍 Göçm
+ enköy Stadı\n🔗 https://ktff.org/maclar/25529
+URL:https://ktff.org/maclar/25529
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Göçmenköy Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Türk Ocağ
+ ı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
+ Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25536@ktff-takvim
+DTSTAMP:20261026T075224Z
+SEQUENCE:1
+DTSTART:20261212T220000Z
+DTEND:20261212T235000Z
+SUMMARY:⚽ Türk Ocağı Limasol SK – Lefke TSK
+DESCRIPTION:🏆 AKSA 1. Lig · 14. Hafta\n🔢 Maç No: 25536\n📍 Girne 
+ 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25536
+URL:https://ktff.org/maclar/25536
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Girne 20 Temmuz Mete Adanır Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Lefke
+  TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
+ K – Lefke TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25545@ktff-takvim
+DTSTAMP:20261026T075233Z
+SEQUENCE:1
+DTSTART:20261219T220000Z
+DTEND:20261219T235000Z
+SUMMARY:⚽ Geçitkale GSK – Türk Ocağı Limasol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 15. Hafta\n🔢 Maç No: 25545\n📍 Geçit
+ kale Stadı\n🔗 https://ktff.org/maclar/25545
+URL:https://ktff.org/maclar/25545
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Geçitkale Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Türk Ocağı L
+ imasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Tür
+ k Ocağı Limasol SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
