@@ -1139,15 +1139,15 @@
   "week": 10,
   "home": "Alsancak Yeşilova SK",
   "away": "Küçük Kaymaklı TSK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-14",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075146Z",
+   "stamp": "20261028T083832Z",
    "venue_tries": 1
   }
  },
@@ -1158,14 +1158,14 @@
   "home": "Aslanköy GSD",
   "away": "Baf Ülkü Yurdu",
   "date": "2026-11-15",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075147Z",
+   "stamp": "20261028T083832Z",
    "venue_tries": 1
   }
  },
@@ -1175,15 +1175,15 @@
   "week": 10,
   "home": "China Bazaar Gençlik Gücü TSK",
   "away": "Yenicami AK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-14",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075147Z",
+   "stamp": "20261028T083832Z",
    "venue_tries": 1
   }
  },
@@ -1193,15 +1193,15 @@
   "week": 10,
   "home": "Cihangir GSK",
   "away": "Değirmenlik SK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-14",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Cihangir Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075148Z",
+   "stamp": "20261028T083832Z",
    "venue_tries": 1
   }
  },
@@ -1211,15 +1211,15 @@
   "week": 10,
   "home": "Doğan Türk Birliği",
   "away": "Karşıyaka SK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-16",
+  "time": "19:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075148Z",
+   "stamp": "20261028T083832Z",
    "venue_tries": 1
   }
  },
@@ -1229,15 +1229,15 @@
   "week": 10,
   "home": "Çetinkaya TSK",
   "away": "Mesarya SK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-13",
+  "time": "19:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075149Z",
+   "stamp": "20261028T083832Z",
    "venue_tries": 1
   }
  },
@@ -1248,14 +1248,14 @@
   "home": "Mağusa Türk Gücü",
   "away": "Esentepe KSKK",
   "date": "2026-11-15",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075150Z",
+   "stamp": "20261028T083832Z",
    "venue_tries": 1
   }
  },
@@ -3029,15 +3029,15 @@
   "week": 10,
   "home": "Çello Dikmen Gücü SK",
   "away": "Lefke TSK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-14",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Dikmen Dr. Fazıl Küçük Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075150Z",
+   "stamp": "20261028T083842Z",
    "venue_tries": 1
   }
  },
@@ -3047,15 +3047,15 @@
   "week": 10,
   "home": "Gönyeli SK",
   "away": "Göçmenköy İYSK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-14",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Gönyeli Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075151Z",
+   "stamp": "20261028T083842Z",
    "venue_tries": 1
   }
  },
@@ -3065,15 +3065,15 @@
   "week": 10,
   "home": "DND L. Gençler Birliği SK",
   "away": "Mormenekşe GBSK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-14",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "İskele Cumhuriyet Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075151Z",
+   "stamp": "20261028T083842Z",
    "venue_tries": 1
   }
  },
@@ -3084,14 +3084,14 @@
   "home": "Lapta Türk Birliği SK",
   "away": "Geçitkale GSK",
   "date": "2026-11-15",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Lapta Şht. Şevket Kadir Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075152Z",
+   "stamp": "20261028T083842Z",
    "venue_tries": 1
   }
  },
@@ -3102,14 +3102,14 @@
   "home": "Maraş GSK",
   "away": "Akdoğan SK",
   "date": "2026-11-15",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075153Z",
+   "stamp": "20261028T083842Z",
    "venue_tries": 1
   }
  },
@@ -3120,14 +3120,14 @@
   "home": "Karaoğlanoğlu SK",
   "away": "Düzkaya KOSK",
   "date": "2026-11-15",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Karaoğlanoğlu Orhan Dural Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075153Z",
+   "stamp": "20261028T083842Z",
    "venue_tries": 1
   }
  },
@@ -3137,15 +3137,15 @@
   "week": 10,
   "home": "Yeniboğaziçi DSK",
   "away": "M. Hacıali Yılmazköy SK",
-  "date": "2026-11-15",
-  "time": "00:00",
+  "date": "2026-11-14",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075154Z",
+   "stamp": "20261028T083842Z",
    "venue_tries": 1
   }
  },
