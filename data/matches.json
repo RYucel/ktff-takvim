@@ -799,13 +799,13 @@
   "away": "Cihangir GSK",
   "date": "2026-10-25",
   "time": "14:00",
-  "home_score": 1,
-  "away_score": 3,
-  "status": null,
+  "home_score": null,
+  "away_score": null,
+  "status": "Hükmen",
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T050109Z",
+   "stamp": "20261028T123056Z",
    "venue_tries": 1
   }
  },

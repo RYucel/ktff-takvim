@@ -1172,11 +1172,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25371@ktff-takvim
-DTSTAMP:20261026T050109Z
-SEQUENCE:1
+DTSTAMP:20261028T123056Z
+SEQUENCE:2
 DTSTART:20261025T120000Z
 DTEND:20261025T135000Z
-SUMMARY:⚽ Yenicami AK 1–3 Cihangir GSK
+SUMMARY:⚽ Yenicami AK – Cihangir GSK (Hükmen)
 DESCRIPTION:🏆 AKSA Süper Lig · 7. Hafta\n🔢 Maç No: 25371\n📍 Lef
  koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25371
 URL:https://ktff.org/maclar/25371
@@ -1185,13 +1185,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK 1–3 Cihangir GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK – Cihangir GSK (Hük
+ men)
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK 1–3 Cihan
- gir GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK – Cihangi
+ r GSK (Hükmen)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
