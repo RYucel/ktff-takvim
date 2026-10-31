@@ -889,13 +889,13 @@
   "away": "Küçük Kaymaklı TSK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261031T120103Z",
+   "stamp": "20261031T121537Z",
    "venue_tries": 1
   }
  },
@@ -903,17 +903,17 @@
   "match_no": 25377,
   "league": "super-lig",
   "week": 8,
-  "home": "Cihangir GSK",
+  "home": "Cihangir GSK İlk Yarı",
   "away": "Baf Ülkü Yurdu",
   "date": "2026-10-31",
-  "time": "14:00",
-  "home_score": null,
-  "away_score": null,
+  "time": null,
+  "home_score": 0,
+  "away_score": 0,
   "status": null,
   "venue": "Cihangir Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T041545Z",
+   "stamp": "20261031T121537Z",
    "venue_tries": 1
   }
  },
@@ -998,12 +998,12 @@
   "date": "2026-10-31",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Esentepe Erdal Barut Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261031T120103Z",
+   "stamp": "20261031T121537Z",
    "venue_tries": 1
   }
  },
@@ -2829,17 +2829,17 @@
   "match_no": 25491,
   "league": "1-lig",
   "week": 8,
-  "home": "Gönyeli SK",
+  "home": "Gönyeli SK İlk Yarı",
   "away": "Mormenekşe GBSK",
   "date": "2026-10-31",
-  "time": "14:00",
-  "home_score": null,
-  "away_score": null,
+  "time": null,
+  "home_score": 0,
+  "away_score": 0,
   "status": null,
   "venue": "Gönyeli Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T041549Z",
+   "stamp": "20261031T121540Z",
    "venue_tries": 1
   }
  },

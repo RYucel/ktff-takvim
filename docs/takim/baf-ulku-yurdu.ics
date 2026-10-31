@@ -191,26 +191,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25377@ktff-takvim
-DTSTAMP:20261026T041545Z
-SEQUENCE:1
-DTSTART:20261031T120000Z
-DTEND:20261031T135000Z
-SUMMARY:⚽ Cihangir GSK – Baf Ülkü Yurdu
+DTSTAMP:20261031T121537Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:⚽ Cihangir GSK İlk Yarı 0–0 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25377\n📍 Cih
- angir Stadı\n🔗 https://ktff.org/maclar/25377
+ angir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macla
+ r/25377
 URL:https://ktff.org/maclar/25377
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK – Baf Ülkü Yurdu
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İlk Yarı 0–0 Baf 
+ Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK – Baf Ü
- lkü Yurdu
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İlk Yarı
+  0–0 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
