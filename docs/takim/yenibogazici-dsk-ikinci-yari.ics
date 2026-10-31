@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25494@ktff-takvim
-DTSTAMP:20261031T131539Z
-SEQUENCE:6
+DTSTAMP:20261031T133053Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 0–3 Akdoğan SK
+SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 1–3 Akdoğan SK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25494\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25494
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 0
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 1
  –3 Akdoğan SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İki
- nci Yarı 0–3 Akdoğan SK
+ nci Yarı 1–3 Akdoğan SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

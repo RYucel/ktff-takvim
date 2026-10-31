@@ -889,13 +889,13 @@
   "away": "Küçük Kaymaklı TSK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 1,
+  "home_score": 4,
   "away_score": 0,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261031T131536Z",
+   "stamp": "20261031T133050Z",
    "venue_tries": 1
   }
  },
@@ -907,13 +907,13 @@
   "away": "Baf Ülkü Yurdu",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 0,
   "status": null,
   "venue": "Cihangir Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261031T131536Z",
+   "stamp": "20261031T133050Z",
    "venue_tries": 1
   }
  },
@@ -2779,13 +2779,13 @@
   "away": "Lefke TSK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 1,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261031T131539Z",
+   "stamp": "20261031T133053Z",
    "venue_tries": 1
   }
  },
@@ -2798,12 +2798,12 @@
   "date": "2026-10-31",
   "time": null,
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "SAHASI BELLİ DEĞİL",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261031T131539Z",
+   "stamp": "20261031T133053Z",
    "venue_tries": 1
   }
  },
@@ -2833,13 +2833,13 @@
   "away": "Mormenekşe GBSK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 1,
+  "home_score": 4,
   "away_score": 3,
   "status": null,
   "venue": "Gönyeli Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261031T131539Z",
+   "stamp": "20261031T133053Z",
    "venue_tries": 1
   }
  },
@@ -2869,13 +2869,13 @@
   "away": "Akdoğan SK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 3,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261031T131539Z",
+   "stamp": "20261031T133053Z",
    "venue_tries": 1
   }
  },

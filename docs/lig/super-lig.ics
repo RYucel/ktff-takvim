@@ -1275,11 +1275,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25376@ktff-takvim
-DTSTAMP:20261031T131536Z
-SEQUENCE:5
+DTSTAMP:20261031T133050Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Doğan Türk Birliği İkinci Yarı 1–0 Küçük Kaymaklı TS
+SUMMARY:⚽ Doğan Türk Birliği İkinci Yarı 4–0 Küçük Kaymaklı TS
  K
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25376\n📍 Gir
  ne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 ht
@@ -1291,23 +1291,23 @@ LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İkinci Yar
- ı 1–0 Küçük Kaymaklı TSK
+ ı 4–0 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İkinci Yarı 1–0 Küçük Kaymaklı TSK
+ İkinci Yarı 4–0 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25377@ktff-takvim
-DTSTAMP:20261031T131536Z
-SEQUENCE:4
+DTSTAMP:20261031T133050Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Cihangir GSK İkinci Yarı 1–0 Baf Ülkü Yurdu
+SUMMARY:⚽ Cihangir GSK İkinci Yarı 2–0 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25377\n📍 Cih
  angir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macla
  r/25377
@@ -1317,14 +1317,14 @@ STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 1–0 B
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 2–0 B
  af Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İkinci Ya
- rı 1–0 Baf Ülkü Yurdu
+ rı 2–0 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

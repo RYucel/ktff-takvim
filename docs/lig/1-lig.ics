@@ -1274,11 +1274,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25488@ktff-takvim
-DTSTAMP:20261031T131539Z
-SEQUENCE:6
+DTSTAMP:20261031T133053Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Maraş GSK İkinci Yarı 1–1 Lefke TSK
+SUMMARY:⚽ Maraş GSK İkinci Yarı 2–1 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25488\n📍 Maraş 
  Necip Halil Kartal Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://k
  tff.org/maclar/25488
@@ -1288,24 +1288,24 @@ STATUS:CONFIRMED
 LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İkinci Yarı 1–1 Lef
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İkinci Yarı 2–1 Lef
  ke TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İkinci Yar
- ı 1–1 Lefke TSK
+ ı 2–1 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25489@ktff-takvim
-DTSTAMP:20261031T131539Z
-SEQUENCE:4
+DTSTAMP:20261031T133053Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Lapta Türk Birliği SK İkinci Yarı 0–1 Göçmenköy İYSK
+SUMMARY:⚽ Lapta Türk Birliği SK İkinci Yarı 0–2 Göçmenköy İYSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25489\n📍 SAHASI 
  BELLİ DEĞİL\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/mac
  lar/25489
@@ -1316,13 +1316,13 @@ LOCATION:SAHASI BELLİ DEĞİL
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK İkinci Ya
- rı 0–1 Göçmenköy İYSK
+ rı 0–2 Göçmenköy İYSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  İkinci Yarı 0–1 Göçmenköy İYSK
+  İkinci Yarı 0–2 Göçmenköy İYSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1356,11 +1356,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25491@ktff-takvim
-DTSTAMP:20261031T131539Z
-SEQUENCE:6
+DTSTAMP:20261031T133053Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Gönyeli SK İkinci Yarı 1–3 Mormenekşe GBSK
+SUMMARY:⚽ Gönyeli SK İkinci Yarı 4–3 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25491\n📍 Gönyel
  i Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/25
  491
@@ -1370,24 +1370,24 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 1–3 Mo
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 4–3 Mo
  rmenekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İkinci Yar
- ı 1–3 Mormenekşe GBSK
+ ı 4–3 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25494@ktff-takvim
-DTSTAMP:20261031T131539Z
-SEQUENCE:6
+DTSTAMP:20261031T133053Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 0–3 Akdoğan SK
+SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 1–3 Akdoğan SK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25494\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25494
@@ -1397,14 +1397,14 @@ STATUS:CONFIRMED
 LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 0
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 1
  –3 Akdoğan SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İki
- nci Yarı 0–3 Akdoğan SK
+ nci Yarı 1–3 Akdoğan SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
