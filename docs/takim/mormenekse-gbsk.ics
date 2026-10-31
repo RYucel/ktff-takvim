@@ -191,28 +191,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25491@ktff-takvim
-DTSTAMP:20261031T133053Z
-SEQUENCE:7
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Gönyeli SK İkinci Yarı 4–3 Mormenekşe GBSK
+DTSTAMP:20261031T140106Z
+SEQUENCE:8
+DTSTART:20261031T120000Z
+DTEND:20261031T135000Z
+SUMMARY:⚽ Gönyeli SK 5–5 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25491\n📍 Gönyel
- i Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/25
- 491
+ i Stadı\n🔗 https://ktff.org/maclar/25491
 URL:https://ktff.org/maclar/25491
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 4–3 Mo
- rmenekşe GBSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 5–5 Mormenekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İkinci Yar
- ı 4–3 Mormenekşe GBSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 5–5 Morme
+ nekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

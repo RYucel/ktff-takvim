@@ -187,28 +187,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25488@ktff-takvim
-DTSTAMP:20261031T134545Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Maraş GSK İkinci Yarı 2–3 Lefke TSK
+DTSTAMP:20261031T140106Z
+SEQUENCE:9
+DTSTART:20261031T120000Z
+DTEND:20261031T135000Z
+SUMMARY:⚽ Maraş GSK 2–3 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25488\n📍 Maraş 
- Necip Halil Kartal Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://k
- tff.org/maclar/25488
+ Necip Halil Kartal Stadı\n🔗 https://ktff.org/maclar/25488
 URL:https://ktff.org/maclar/25488
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İkinci Yarı 2–3 Lef
- ke TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK 2–3 Lefke TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İkinci Yar
- ı 2–3 Lefke TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK 2–3 Lefke 
+ TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
