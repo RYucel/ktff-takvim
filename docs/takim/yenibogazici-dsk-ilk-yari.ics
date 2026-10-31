@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yeniboğaziçi DSK İlk Yarı Fikstürü
+X-WR-CALDESC:Yeniboğaziçi DSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25494@ktff-takvim
+DTSTAMP:20261031T120106Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:⚽ Yeniboğaziçi DSK İlk Yarı 0–0 Akdoğan SK
+DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25494\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
+  https://ktff.org/maclar/25494
+URL:https://ktff.org/maclar/25494
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İlk Yarı 0–
+ 0 Akdoğan SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İlk
+  Yarı 0–0 Akdoğan SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

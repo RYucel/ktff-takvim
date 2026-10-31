@@ -165,32 +165,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ktff-25378@ktff-takvim
-DTSTAMP:20261026T041546Z
-SEQUENCE:1
-DTSTART:20261031T120000Z
-DTEND:20261031T135000Z
-SUMMARY:⚽ Alsancak Yeşilova SK – Yenicami AK
-DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25378\n📍 Als
- ancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25378
-URL:https://ktff.org/maclar/25378
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Yenicami
-  AK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- – Yenicami AK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ktff-25384@ktff-takvim
 DTSTAMP:20261028T070105Z
 SEQUENCE:2

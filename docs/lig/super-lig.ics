@@ -1275,27 +1275,82 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25376@ktff-takvim
-DTSTAMP:20261026T041544Z
-SEQUENCE:1
-DTSTART:20261031T120000Z
-DTEND:20261031T135000Z
-SUMMARY:⚽ Doğan Türk Birliği – Küçük Kaymaklı TSK
+DTSTAMP:20261031T120103Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 0–0 Küçük Kaymaklı TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25376\n📍 Gir
- ne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25376
+ ne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 ht
+ tps://ktff.org/maclar/25376
 URL:https://ktff.org/maclar/25376
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği – Küçük
-  Kaymaklı TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 0
+ –0 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- – Küçük Kaymaklı TSK
+ İlk Yarı 0–0 Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25378@ktff-takvim
+DTSTAMP:20261031T120103Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:⚽ Alsancak Yeşilova SK İlk Yarı 0–0 Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25378\n📍 Als
+ ancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
+ 🔗 https://ktff.org/maclar/25378
+URL:https://ktff.org/maclar/25378
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İlk Yarı 0
+ –0 Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ İlk Yarı 0–0 Yenicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25382@ktff-takvim
+DTSTAMP:20261031T120103Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:⚽ Esentepe KSKK İlk Yarı 0–0 Mesarya SK
+DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25382\n📍 Ese
+ ntepe Erdal Barut Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://kt
+ ff.org/maclar/25382
+URL:https://ktff.org/maclar/25382
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Esentepe Erdal Barut Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İlk Yarı 0–0 Mes
+ arya SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İlk Yar
+ ı 0–0 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1321,57 +1376,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK – Baf Ü
  lkü Yurdu
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25378@ktff-takvim
-DTSTAMP:20261026T041546Z
-SEQUENCE:1
-DTSTART:20261031T120000Z
-DTEND:20261031T135000Z
-SUMMARY:⚽ Alsancak Yeşilova SK – Yenicami AK
-DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25378\n📍 Als
- ancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25378
-URL:https://ktff.org/maclar/25378
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Yenicami
-  AK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- – Yenicami AK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25382@ktff-takvim
-DTSTAMP:20261026T041546Z
-SEQUENCE:1
-DTSTART:20261031T120000Z
-DTEND:20261031T135000Z
-SUMMARY:⚽ Esentepe KSKK – Mesarya SK
-DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25382\n📍 Ese
- ntepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25382
-URL:https://ktff.org/maclar/25382
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Esentepe Erdal Barut Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK – Mesarya SK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK – Mesar
- ya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
