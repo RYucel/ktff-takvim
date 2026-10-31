@@ -801,11 +801,11 @@
   "time": "14:00",
   "home_score": null,
   "away_score": null,
-  "status": "Hükmen",
+  "status": "3 - 0 Hükmen",
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261028T123056Z",
+   "stamp": "20261031T080059Z",
    "venue_tries": 1
   }
  },
