@@ -161,11 +161,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25382@ktff-takvim
-DTSTAMP:20261031T121537Z
-SEQUENCE:3
+DTSTAMP:20261031T124541Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Esentepe KSKK İlk Yarı 0–1 Mesarya SK
+SUMMARY:⚽ Esentepe KSKK İlk Yarı 0–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25382\n📍 Ese
  ntepe Erdal Barut Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://kt
  ff.org/maclar/25382
@@ -175,14 +175,14 @@ STATUS:CONFIRMED
 LOCATION:Esentepe Erdal Barut Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İlk Yarı 0–1 Mes
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İlk Yarı 0–2 Mes
  arya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İlk Yar
- ı 0–1 Mesarya SK
+ ı 0–2 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

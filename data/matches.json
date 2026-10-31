@@ -998,12 +998,12 @@
   "date": "2026-10-31",
   "time": null,
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Esentepe Erdal Barut Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261031T121537Z",
+   "stamp": "20261031T124541Z",
    "venue_tries": 1
   }
  },
@@ -2780,12 +2780,12 @@
   "date": "2026-10-31",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261031T123054Z",
+   "stamp": "20261031T124544Z",
    "venue_tries": 1
   }
  },
@@ -2834,12 +2834,12 @@
   "date": "2026-10-31",
   "time": null,
   "home_score": 1,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Gönyeli Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261031T123054Z",
+   "stamp": "20261031T124544Z",
    "venue_tries": 1
   }
  },

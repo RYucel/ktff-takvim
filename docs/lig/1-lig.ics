@@ -1274,11 +1274,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25488@ktff-takvim
-DTSTAMP:20261031T123054Z
-SEQUENCE:3
+DTSTAMP:20261031T124544Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Maraş GSK İlk Yarı 1–0 Lefke TSK
+SUMMARY:⚽ Maraş GSK İlk Yarı 1–1 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25488\n📍 Maraş 
  Necip Halil Kartal Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://k
  tff.org/maclar/25488
@@ -1288,14 +1288,14 @@ STATUS:CONFIRMED
 LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İlk Yarı 1–0 Lefke 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İlk Yarı 1–1 Lefke 
  TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İlk Yarı 1
- –0 Lefke TSK
+ –1 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1356,11 +1356,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25491@ktff-takvim
-DTSTAMP:20261031T123054Z
-SEQUENCE:3
+DTSTAMP:20261031T124544Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Gönyeli SK İlk Yarı 1–1 Mormenekşe GBSK
+SUMMARY:⚽ Gönyeli SK İlk Yarı 1–2 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25491\n📍 Gönyel
  i Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/25
  491
@@ -1370,14 +1370,14 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İlk Yarı 1–1 Morme
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İlk Yarı 1–2 Morme
  nekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İlk Yarı 
- 1–1 Mormenekşe GBSK
+ 1–2 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
