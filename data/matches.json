@@ -903,17 +903,17 @@
   "match_no": 25377,
   "league": "super-lig",
   "week": 8,
-  "home": "Cihangir GSK İkinci Yarı",
+  "home": "Cihangir GSK",
   "away": "Baf Ülkü Yurdu",
   "date": "2026-10-31",
-  "time": null,
+  "time": "14:00",
   "home_score": 3,
   "away_score": 0,
   "status": null,
   "venue": "Cihangir Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261031T140103Z",
+   "stamp": "20261031T141537Z",
    "venue_tries": 1
   }
  },
