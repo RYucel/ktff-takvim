@@ -192,12 +192,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25490@ktff-takvim
-DTSTAMP:20261031T123054Z
-SEQUENCE:3
+DTSTAMP:20261031T130100Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Çello Dikmen Gücü SK İlk Yarı 1–1 Türk Ocağı Limasol 
- SK
+SUMMARY:⚽ Çello Dikmen Gücü SK İkinci Yarı 1–1 Türk Ocağı Limas
+ ol SK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25490\n📍 Dikmen 
  Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
  ktff.org/maclar/25490
@@ -207,14 +207,14 @@ STATUS:CONFIRMED
 LOCATION:Dikmen Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İlk Yarı
-  1–1 Türk Ocağı Limasol SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İkinci Ya
+ rı 1–1 Türk Ocağı Limasol SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
-  İlk Yarı 1–1 Türk Ocağı Limasol SK
+  İkinci Yarı 1–1 Türk Ocağı Limasol SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

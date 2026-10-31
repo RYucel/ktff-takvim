@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Esentepe KSKK İlk Yarı Fikstürü
-X-WR-CALDESC:Esentepe KSKK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Esentepe KSKK İkinci Yarı Fikstürü
+X-WR-CALDESC:Esentepe KSKK İkinci Yarı maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25382@ktff-takvim
-DTSTAMP:20261031T124541Z
-SEQUENCE:4
+DTSTAMP:20261031T130057Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Esentepe KSKK İlk Yarı 0–2 Mesarya SK
+SUMMARY:⚽ Esentepe KSKK İkinci Yarı 0–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25382\n📍 Ese
  ntepe Erdal Barut Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://kt
  ff.org/maclar/25382
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Esentepe Erdal Barut Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İlk Yarı 0–2 Mes
- arya SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İkinci Yarı 0–2 
+ Mesarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İlk Yar
- ı 0–2 Mesarya SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İkinci Y
+ arı 0–2 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

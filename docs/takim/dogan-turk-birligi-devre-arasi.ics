@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Doğan Türk Birliği İlk Yarı Fikstürü
-X-WR-CALDESC:Doğan Türk Birliği İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Doğan Türk Birliği Devre Arası Fikstürü
+X-WR-CALDESC:Doğan Türk Birliği Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25376@ktff-takvim
-DTSTAMP:20261031T121537Z
-SEQUENCE:3
+DTSTAMP:20261031T130057Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 1–0 Küçük Kaymaklı TSK
+SUMMARY:⚽ Doğan Türk Birliği Devre Arası 1–0 Küçük Kaymaklı TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25376\n📍 Gir
  ne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 ht
  tps://ktff.org/maclar/25376
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 1
- –0 Küçük Kaymaklı TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği Devre Arası
+  1–0 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İlk Yarı 1–0 Küçük Kaymaklı TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği D
+ evre Arası 1–0 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

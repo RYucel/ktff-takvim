@@ -1275,11 +1275,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25376@ktff-takvim
-DTSTAMP:20261031T121537Z
-SEQUENCE:3
+DTSTAMP:20261031T130057Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 1–0 Küçük Kaymaklı TSK
+SUMMARY:⚽ Doğan Türk Birliği Devre Arası 1–0 Küçük Kaymaklı TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25376\n📍 Gir
  ne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 ht
  tps://ktff.org/maclar/25376
@@ -1289,24 +1289,24 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 1
- –0 Küçük Kaymaklı TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği Devre Arası
+  1–0 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İlk Yarı 1–0 Küçük Kaymaklı TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği D
+ evre Arası 1–0 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25377@ktff-takvim
-DTSTAMP:20261031T121537Z
-SEQUENCE:2
+DTSTAMP:20261031T130057Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Cihangir GSK İlk Yarı 0–0 Baf Ülkü Yurdu
+SUMMARY:⚽ Cihangir GSK İlk Yarı 1–0 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25377\n📍 Cih
  angir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macla
  r/25377
@@ -1316,24 +1316,24 @@ STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İlk Yarı 0–0 Baf 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İlk Yarı 1–0 Baf 
  Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İlk Yarı
-  0–0 Baf Ülkü Yurdu
+  1–0 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25378@ktff-takvim
-DTSTAMP:20261031T120103Z
-SEQUENCE:2
+DTSTAMP:20261031T130057Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Alsancak Yeşilova SK İlk Yarı 0–0 Yenicami AK
+SUMMARY:⚽ Alsancak Yeşilova SK Devre Arası 0–0 Yenicami AK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25378\n📍 Als
  ancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25378
@@ -1343,24 +1343,24 @@ STATUS:CONFIRMED
 LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İlk Yarı 0
- –0 Yenicami AK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK Devre Arası
+  0–0 Yenicami AK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- İlk Yarı 0–0 Yenicami AK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK D
+ evre Arası 0–0 Yenicami AK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25382@ktff-takvim
-DTSTAMP:20261031T124541Z
-SEQUENCE:4
+DTSTAMP:20261031T130057Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Esentepe KSKK İlk Yarı 0–2 Mesarya SK
+SUMMARY:⚽ Esentepe KSKK İkinci Yarı 0–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25382\n📍 Ese
  ntepe Erdal Barut Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://kt
  ff.org/maclar/25382
@@ -1370,14 +1370,14 @@ STATUS:CONFIRMED
 LOCATION:Esentepe Erdal Barut Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İlk Yarı 0–2 Mes
- arya SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İkinci Yarı 0–2 
+ Mesarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İlk Yar
- ı 0–2 Mesarya SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İkinci Y
+ arı 0–2 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Maraş GSK İlk Yarı Fikstürü
-X-WR-CALDESC:Maraş GSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Maraş GSK Devre Arası Fikstürü
+X-WR-CALDESC:Maraş GSK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25488@ktff-takvim
-DTSTAMP:20261031T124544Z
-SEQUENCE:4
+DTSTAMP:20261031T130100Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Maraş GSK İlk Yarı 1–1 Lefke TSK
+SUMMARY:⚽ Maraş GSK Devre Arası 1–1 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25488\n📍 Maraş 
  Necip Halil Kartal Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://k
  tff.org/maclar/25488
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İlk Yarı 1–1 Lefke 
- TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK Devre Arası 1–1 Lefk
+ e TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İlk Yarı 1
- –1 Lefke TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK Devre Arası
+  1–1 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
