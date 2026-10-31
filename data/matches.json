@@ -2779,13 +2779,13 @@
   "away": "Lefke TSK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261031T120106Z",
+   "stamp": "20261031T123054Z",
    "venue_tries": 1
   }
  },
@@ -2815,13 +2815,13 @@
   "away": "Türk Ocağı Limasol SK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 0,
-  "away_score": 0,
+  "home_score": 1,
+  "away_score": 1,
   "status": null,
   "venue": "Dikmen Dr. Fazıl Küçük Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261031T120106Z",
+   "stamp": "20261031T123054Z",
    "venue_tries": 1
   }
  },
@@ -2833,13 +2833,13 @@
   "away": "Mormenekşe GBSK",
   "date": "2026-10-31",
   "time": null,
-  "home_score": 0,
-  "away_score": 0,
+  "home_score": 1,
+  "away_score": 1,
   "status": null,
   "venue": "Gönyeli Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261031T121540Z",
+   "stamp": "20261031T123054Z",
    "venue_tries": 1
   }
  },
@@ -2870,12 +2870,12 @@
   "date": "2026-10-31",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 2,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261031T120106Z",
+   "stamp": "20261031T123054Z",
    "venue_tries": 1
   }
  },

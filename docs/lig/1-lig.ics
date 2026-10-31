@@ -1274,11 +1274,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25488@ktff-takvim
-DTSTAMP:20261031T120106Z
-SEQUENCE:2
+DTSTAMP:20261031T123054Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Maraş GSK İlk Yarı 0–0 Lefke TSK
+SUMMARY:⚽ Maraş GSK İlk Yarı 1–0 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25488\n📍 Maraş 
  Necip Halil Kartal Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://k
  tff.org/maclar/25488
@@ -1288,13 +1288,13 @@ STATUS:CONFIRMED
 LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İlk Yarı 0–0 Lefke 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İlk Yarı 1–0 Lefke 
  TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İlk Yarı 0
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İlk Yarı 1
  –0 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
@@ -1328,11 +1328,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25490@ktff-takvim
-DTSTAMP:20261031T120106Z
-SEQUENCE:2
+DTSTAMP:20261031T123054Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Çello Dikmen Gücü SK İlk Yarı 0–0 Türk Ocağı Limasol 
+SUMMARY:⚽ Çello Dikmen Gücü SK İlk Yarı 1–1 Türk Ocağı Limasol 
  SK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25490\n📍 Dikmen 
  Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
@@ -1344,23 +1344,23 @@ LOCATION:Dikmen Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İlk Yarı
-  0–0 Türk Ocağı Limasol SK
+  1–1 Türk Ocağı Limasol SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
-  İlk Yarı 0–0 Türk Ocağı Limasol SK
+  İlk Yarı 1–1 Türk Ocağı Limasol SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25491@ktff-takvim
-DTSTAMP:20261031T121540Z
-SEQUENCE:2
+DTSTAMP:20261031T123054Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Gönyeli SK İlk Yarı 0–0 Mormenekşe GBSK
+SUMMARY:⚽ Gönyeli SK İlk Yarı 1–1 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25491\n📍 Gönyel
  i Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/25
  491
@@ -1370,24 +1370,24 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İlk Yarı 0–0 Morme
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İlk Yarı 1–1 Morme
  nekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İlk Yarı 
- 0–0 Mormenekşe GBSK
+ 1–1 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25494@ktff-takvim
-DTSTAMP:20261031T120106Z
-SEQUENCE:3
+DTSTAMP:20261031T123054Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Yeniboğaziçi DSK İlk Yarı 0–0 Akdoğan SK
+SUMMARY:⚽ Yeniboğaziçi DSK İlk Yarı 0–2 Akdoğan SK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25494\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25494
@@ -1398,13 +1398,13 @@ LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İlk Yarı 0–
- 0 Akdoğan SK
+ 2 Akdoğan SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İlk
-  Yarı 0–0 Akdoğan SK
+  Yarı 0–2 Akdoğan SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
