@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25376@ktff-takvim
-DTSTAMP:20261031T133050Z
-SEQUENCE:6
+DTSTAMP:20261031T134542Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Doğan Türk Birliği İkinci Yarı 4–0 Küçük Kaymaklı TS
+SUMMARY:⚽ Doğan Türk Birliği İkinci Yarı 5–0 Küçük Kaymaklı TS
  K
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25376\n📍 Gir
  ne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 ht
@@ -27,13 +27,13 @@ LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İkinci Yar
- ı 4–0 Küçük Kaymaklı TSK
+ ı 5–0 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İkinci Yarı 4–0 Küçük Kaymaklı TSK
+ İkinci Yarı 5–0 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

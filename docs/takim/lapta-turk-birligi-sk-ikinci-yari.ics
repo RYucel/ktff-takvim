@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25489@ktff-takvim
-DTSTAMP:20261031T133053Z
-SEQUENCE:5
+DTSTAMP:20261031T134545Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Lapta Türk Birliği SK İkinci Yarı 0–2 Göçmenköy İYSK
+SUMMARY:⚽ Lapta Türk Birliği SK İkinci Yarı 1–2 Göçmenköy İYSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25489\n📍 SAHASI 
  BELLİ DEĞİL\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/mac
  lar/25489
@@ -26,13 +26,13 @@ LOCATION:SAHASI BELLİ DEĞİL
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK İkinci Ya
- rı 0–2 Göçmenköy İYSK
+ rı 1–2 Göçmenköy İYSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  İkinci Yarı 0–2 Göçmenköy İYSK
+  İkinci Yarı 1–2 Göçmenköy İYSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
