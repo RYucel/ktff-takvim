@@ -192,11 +192,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25489@ktff-takvim
-DTSTAMP:20261031T130100Z
-SEQUENCE:3
+DTSTAMP:20261031T131539Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:⚽ Lapta Türk Birliği SK Devre Arası 0–0 Göçmenköy İYSK
+SUMMARY:⚽ Lapta Türk Birliği SK İkinci Yarı 0–1 Göçmenköy İYSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25489\n📍 SAHASI 
  BELLİ DEĞİL\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/mac
  lar/25489
@@ -206,14 +206,14 @@ STATUS:CONFIRMED
 LOCATION:SAHASI BELLİ DEĞİL
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK Devre Aras
- ı 0–0 Göçmenköy İYSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK İkinci Ya
+ rı 0–1 Göçmenköy İYSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  Devre Arası 0–0 Göçmenköy İYSK
+  İkinci Yarı 0–1 Göçmenköy İYSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
