@@ -2851,13 +2851,13 @@
   "away": "Geçitkale GSK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 1,
+  "home_score": 3,
   "away_score": 0,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261101T131543Z",
+   "stamp": "20261101T133054Z",
    "venue_tries": 1
   }
  },
@@ -2888,12 +2888,12 @@
   "date": "2026-11-01",
   "time": null,
   "home_score": 4,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261101T131543Z",
+   "stamp": "20261101T133054Z",
    "venue_tries": 1
   }
  },
