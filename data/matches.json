@@ -939,7 +939,7 @@
   "match_no": 25379,
   "league": "super-lig",
   "week": 8,
-  "home": "Aslanköy GSD İlk Yarı",
+  "home": "Aslanköy GSD İkinci Yarı",
   "away": "Dumlupınar TSK",
   "date": "2026-11-01",
   "time": null,
@@ -947,9 +947,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261101T120100Z",
+   "stamp": "20261101T130103Z",
    "venue_tries": 1
   }
  },
@@ -957,7 +957,7 @@
   "match_no": 25380,
   "league": "super-lig",
   "week": 8,
-  "home": "Çetinkaya TSK İlk Yarı",
+  "home": "Çetinkaya TSK Devre Arası",
   "away": "Değirmenlik SK",
   "date": "2026-11-01",
   "time": null,
@@ -965,9 +965,9 @@
   "away_score": 1,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261101T124539Z",
+   "stamp": "20261101T130103Z",
    "venue_tries": 1
   }
  },
@@ -975,7 +975,7 @@
   "match_no": 25381,
   "league": "super-lig",
   "week": 8,
-  "home": "Mağusa Türk Gücü İlk Yarı",
+  "home": "Mağusa Türk Gücü Devre Arası",
   "away": "Karşıyaka SK",
   "date": "2026-11-01",
   "time": null,
@@ -983,9 +983,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261101T121539Z",
+   "stamp": "20261101T130103Z",
    "venue_tries": 1
   }
  },
@@ -2847,7 +2847,7 @@
   "match_no": 25493,
   "league": "1-lig",
   "week": 8,
-  "home": "Karaoğlanoğlu SK İlk Yarı",
+  "home": "Karaoğlanoğlu SK Devre Arası",
   "away": "Geçitkale GSK",
   "date": "2026-11-01",
   "time": null,
@@ -2855,9 +2855,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261101T124542Z",
+   "stamp": "20261101T130106Z",
    "venue_tries": 1
   }
  },
@@ -2883,17 +2883,17 @@
   "match_no": 25495,
   "league": "1-lig",
   "week": 8,
-  "home": "M. Hacıali Yılmazköy SK İlk Yarı",
+  "home": "M. Hacıali Yılmazköy SK Devre Arası",
   "away": "Düzkaya KOSK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 3,
+  "home_score": 4,
   "away_score": 0,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261101T124542Z",
+   "stamp": "20261101T130106Z",
    "venue_tries": 1
   }
  },

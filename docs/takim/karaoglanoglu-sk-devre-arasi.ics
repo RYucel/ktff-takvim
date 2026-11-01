@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Karaoğlanoğlu SK İlk Yarı Fikstürü
-X-WR-CALDESC:Karaoğlanoğlu SK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Karaoğlanoğlu SK Devre Arası Fikstürü
+X-WR-CALDESC:Karaoğlanoğlu SK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25493@ktff-takvim
-DTSTAMP:20261101T124542Z
-SEQUENCE:3
+DTSTAMP:20261101T130106Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ Karaoğlanoğlu SK İlk Yarı 1–0 Geçitkale GSK
+SUMMARY:⚽ Karaoğlanoğlu SK Devre Arası 1–0 Geçitkale GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25493\n📍 Alsanca
  k Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
  ttps://ktff.org/maclar/25493
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK İlk Yarı 1–
- 0 Geçitkale GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK Devre Arası 1
+ –0 Geçitkale GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK İlk
-  Yarı 1–0 Geçitkale GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK Devr
+ e Arası 1–0 Geçitkale GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
