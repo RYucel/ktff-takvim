@@ -189,11 +189,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25493@ktff-takvim
-DTSTAMP:20261101T130106Z
-SEQUENCE:4
+DTSTAMP:20261101T131543Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ Karaoğlanoğlu SK Devre Arası 1–0 Geçitkale GSK
+SUMMARY:⚽ Karaoğlanoğlu SK İkinci Yarı 1–0 Geçitkale GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25493\n📍 Alsanca
  k Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
  ttps://ktff.org/maclar/25493
@@ -203,14 +203,14 @@ STATUS:CONFIRMED
 LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK Devre Arası 1
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK İkinci Yarı 1
  –0 Geçitkale GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK Devr
- e Arası 1–0 Geçitkale GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK İki
+ nci Yarı 1–0 Geçitkale GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

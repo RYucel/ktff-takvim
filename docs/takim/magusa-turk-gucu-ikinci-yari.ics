@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Mağusa Türk Gücü Devre Arası Fikstürü
-X-WR-CALDESC:Mağusa Türk Gücü Devre Arası maçları. Kaynak: ktff.org
+X-WR-CALNAME:Mağusa Türk Gücü İkinci Yarı Fikstürü
+X-WR-CALDESC:Mağusa Türk Gücü İkinci Yarı maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25381@ktff-takvim
-DTSTAMP:20261101T130103Z
-SEQUENCE:3
+DTSTAMP:20261101T131540Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ Mağusa Türk Gücü Devre Arası 1–0 Karşıyaka SK
+SUMMARY:⚽ Mağusa Türk Gücü İkinci Yarı 1–0 Karşıyaka SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25381\n📍 Gaz
  imağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25381
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü Devre Arası 
- 1–0 Karşıyaka SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü İkinci Yarı
+  1–0 Karşıyaka SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü De
- vre Arası 1–0 Karşıyaka SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü İ
+ kinci Yarı 1–0 Karşıyaka SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

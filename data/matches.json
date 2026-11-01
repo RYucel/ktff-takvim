@@ -957,17 +957,17 @@
   "match_no": 25380,
   "league": "super-lig",
   "week": 8,
-  "home": "Çetinkaya TSK Devre Arası",
+  "home": "Çetinkaya TSK İkinci Yarı",
   "away": "Değirmenlik SK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 4,
+  "home_score": 5,
   "away_score": 1,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261101T130103Z",
+   "stamp": "20261101T131540Z",
    "venue_tries": 1
   }
  },
@@ -975,7 +975,7 @@
   "match_no": 25381,
   "league": "super-lig",
   "week": 8,
-  "home": "Mağusa Türk Gücü Devre Arası",
+  "home": "Mağusa Türk Gücü İkinci Yarı",
   "away": "Karşıyaka SK",
   "date": "2026-11-01",
   "time": null,
@@ -983,9 +983,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261101T130103Z",
+   "stamp": "20261101T131540Z",
    "venue_tries": 1
   }
  },
@@ -2847,7 +2847,7 @@
   "match_no": 25493,
   "league": "1-lig",
   "week": 8,
-  "home": "Karaoğlanoğlu SK Devre Arası",
+  "home": "Karaoğlanoğlu SK İkinci Yarı",
   "away": "Geçitkale GSK",
   "date": "2026-11-01",
   "time": null,
@@ -2855,9 +2855,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261101T130106Z",
+   "stamp": "20261101T131543Z",
    "venue_tries": 1
   }
  },
@@ -2883,17 +2883,17 @@
   "match_no": 25495,
   "league": "1-lig",
   "week": 8,
-  "home": "M. Hacıali Yılmazköy SK Devre Arası",
+  "home": "M. Hacıali Yılmazköy SK İkinci Yarı",
   "away": "Düzkaya KOSK",
   "date": "2026-11-01",
   "time": null,
   "home_score": 4,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261101T130106Z",
+   "stamp": "20261101T131543Z",
    "venue_tries": 1
   }
  },
