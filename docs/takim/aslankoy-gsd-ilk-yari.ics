@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aslanköy GSD İlk Yarı Fikstürü
+X-WR-CALDESC:Aslanköy GSD İlk Yarı maçları. Kaynak: ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25379@ktff-takvim
+DTSTAMP:20261101T120100Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:⚽ Aslanköy GSD İlk Yarı 0–0 Dumlupınar TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25379\n📍 Gaz
+ iköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
+ g/maclar/25379
+URL:https://ktff.org/maclar/25379
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İlk Yarı 0–0 Dum
+ lupınar TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İlk Yar
+ ı 0–0 Dumlupınar TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

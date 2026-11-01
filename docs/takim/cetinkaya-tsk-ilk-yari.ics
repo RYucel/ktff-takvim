@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Çetinkaya TSK İlk Yarı Fikstürü
+X-WR-CALDESC:Çetinkaya TSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25380@ktff-takvim
+DTSTAMP:20261101T120100Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:⚽ Çetinkaya TSK İlk Yarı 0–0 Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25380\n📍 Lef
+ koşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.
+ org/maclar/25380
+URL:https://ktff.org/maclar/25380
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İlk Yarı 0–0 De
+ ğirmenlik SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İlk Yar
+ ı 0–0 Değirmenlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
