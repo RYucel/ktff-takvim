@@ -1405,11 +1405,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25380@ktff-takvim
-DTSTAMP:20261101T121539Z
-SEQUENCE:3
+DTSTAMP:20261101T124539Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ Çetinkaya TSK İlk Yarı 3–0 Değirmenlik SK
+SUMMARY:⚽ Çetinkaya TSK İlk Yarı 4–1 Değirmenlik SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25380\n📍 Lef
  koşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.
  org/maclar/25380
@@ -1419,14 +1419,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İlk Yarı 3–0 De
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İlk Yarı 4–1 De
  ğirmenlik SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İlk Yar
- ı 3–0 Değirmenlik SK
+ ı 4–1 Değirmenlik SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

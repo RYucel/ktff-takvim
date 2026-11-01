@@ -961,13 +961,13 @@
   "away": "Değirmenlik SK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 3,
-  "away_score": 0,
+  "home_score": 4,
+  "away_score": 1,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261101T121539Z",
+   "stamp": "20261101T124539Z",
    "venue_tries": 1
   }
  },
@@ -2851,13 +2851,13 @@
   "away": "Geçitkale GSK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261101T120103Z",
+   "stamp": "20261101T124542Z",
    "venue_tries": 1
   }
  },
@@ -2887,13 +2887,13 @@
   "away": "Düzkaya KOSK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 2,
+  "home_score": 3,
   "away_score": 0,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261101T121542Z",
+   "stamp": "20261101T124542Z",
    "venue_tries": 1
   }
  },
