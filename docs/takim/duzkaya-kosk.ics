@@ -189,28 +189,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25495@ktff-takvim
-DTSTAMP:20261101T134539Z
-SEQUENCE:7
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ M. Hacıali Yılmazköy SK İkinci Yarı 5–2 Düzkaya KOSK
+DTSTAMP:20261101T140101Z
+SEQUENCE:8
+DTSTART:20261101T120000Z
+DTEND:20261101T135000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK 5–2 Düzkaya KOSK
 DESCRIPTION:🏆 AKSA 1. Lig · 8. Hafta\n🔢 Maç No: 25495\n📍 Yılmaz
- köy Mustafa Üçöz Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
- /ktff.org/maclar/25495
+ köy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25495
 URL:https://ktff.org/maclar/25495
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Yılmazköy Mustafa Üçöz Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK İkinci
-  Yarı 5–2 Düzkaya KOSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK 5–2 D
+ üzkaya KOSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
-  SK İkinci Yarı 5–2 Düzkaya KOSK
+  SK 5–2 Düzkaya KOSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -1378,82 +1378,79 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25379@ktff-takvim
-DTSTAMP:20261101T134536Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ Aslanköy GSD İkinci Yarı 0–1 Dumlupınar TSK
+DTSTAMP:20261101T140058Z
+SEQUENCE:5
+DTSTART:20261101T120000Z
+DTEND:20261101T135000Z
+SUMMARY:⚽ Aslanköy GSD 0–1 Dumlupınar TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25379\n📍 Gaz
- iköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
- g/maclar/25379
+ iköy Şenol Stadı\n🔗 https://ktff.org/maclar/25379
 URL:https://ktff.org/maclar/25379
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İkinci Yarı 0–1 
- Dumlupınar TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD 0–1 Dumlupınar TS
+ K
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İkinci Y
- arı 0–1 Dumlupınar TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD 0–1 Dum
+ lupınar TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25380@ktff-takvim
-DTSTAMP:20261101T134536Z
-SEQUENCE:7
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ Çetinkaya TSK İkinci Yarı 6–1 Değirmenlik SK
+DTSTAMP:20261101T140058Z
+SEQUENCE:8
+DTSTART:20261101T120000Z
+DTEND:20261101T135000Z
+SUMMARY:⚽ Çetinkaya TSK 6–1 Değirmenlik SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25380\n📍 Lef
- koşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.
- org/maclar/25380
+ koşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25380
 URL:https://ktff.org/maclar/25380
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İkinci Yarı 6–1
-  Değirmenlik SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK 6–1 Değirmenlik 
+ SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İkinci 
- Yarı 6–1 Değirmenlik SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK 6–1 De
+ ğirmenlik SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25381@ktff-takvim
-DTSTAMP:20261101T134536Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:⚽ Mağusa Türk Gücü İkinci Yarı 2–0 Karşıyaka SK
+DTSTAMP:20261101T140058Z
+SEQUENCE:6
+DTSTART:20261101T120000Z
+DTEND:20261101T135000Z
+SUMMARY:⚽ Mağusa Türk Gücü 3–0 Karşıyaka SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25381\n📍 Gaz
- imağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
-  https://ktff.org/maclar/25381
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25381
 URL:https://ktff.org/maclar/25381
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü İkinci Yarı
-  2–0 Karşıyaka SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü 3–0 Karşı
+ yaka SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü İ
- kinci Yarı 2–0 Karşıyaka SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 3
+ –0 Karşıyaka SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
