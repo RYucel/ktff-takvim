@@ -944,12 +944,12 @@
   "date": "2026-11-01",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261101T130103Z",
+   "stamp": "20261101T134536Z",
    "venue_tries": 1
   }
  },
@@ -961,13 +961,13 @@
   "away": "Değirmenlik SK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 5,
+  "home_score": 6,
   "away_score": 1,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261101T131540Z",
+   "stamp": "20261101T134536Z",
    "venue_tries": 1
   }
  },
@@ -979,13 +979,13 @@
   "away": "Karşıyaka SK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261101T131540Z",
+   "stamp": "20261101T134536Z",
    "venue_tries": 1
   }
  },
@@ -2851,13 +2851,13 @@
   "away": "Geçitkale GSK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 3,
+  "home_score": 6,
   "away_score": 0,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261101T133054Z",
+   "stamp": "20261101T134539Z",
    "venue_tries": 1
   }
  },
@@ -2887,13 +2887,13 @@
   "away": "Düzkaya KOSK",
   "date": "2026-11-01",
   "time": null,
-  "home_score": 4,
+  "home_score": 5,
   "away_score": 2,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261101T133054Z",
+   "stamp": "20261101T134539Z",
    "venue_tries": 1
   }
  },
