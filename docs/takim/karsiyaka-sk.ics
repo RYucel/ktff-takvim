@@ -164,27 +164,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25381@ktff-takvim
-DTSTAMP:20261026T041551Z
-SEQUENCE:1
-DTSTART:20261101T120000Z
-DTEND:20261101T135000Z
-SUMMARY:⚽ Mağusa Türk Gücü – Karşıyaka SK
+DTSTAMP:20261101T121539Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:⚽ Mağusa Türk Gücü İlk Yarı 1–0 Karşıyaka SK
 DESCRIPTION:🏆 AKSA Süper Lig · 8. Hafta\n🔢 Maç No: 25381\n📍 Gaz
- imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25381
+ imağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
+  https://ktff.org/maclar/25381
 URL:https://ktff.org/maclar/25381
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Karşıya
- ka SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü İlk Yarı 1
+ –0 Karşıyaka SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
- – Karşıyaka SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü İ
+ lk Yarı 1–0 Karşıyaka SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
