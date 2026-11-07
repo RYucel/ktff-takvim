@@ -190,11 +190,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25383@ktff-takvim
-DTSTAMP:20261107T131539Z
-SEQUENCE:5
+DTSTAMP:20261107T133052Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ Küçük Kaymaklı TSK İkinci Yarı 0–0 Cihangir GSK
+SUMMARY:⚽ Küçük Kaymaklı TSK İkinci Yarı 0–1 Cihangir GSK
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25383\n📍 Kü
  çük Kaymaklı Şht. Hüseyin Ruso Stadı\n⏰ Saat henüz açıklanmadı
  .\n🔗 https://ktff.org/maclar/25383
@@ -205,13 +205,13 @@ LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK İkinci Yar
- ı 0–0 Cihangir GSK
+ ı 0–1 Cihangir GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
- İkinci Yarı 0–0 Cihangir GSK
+ İkinci Yarı 0–1 Cihangir GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

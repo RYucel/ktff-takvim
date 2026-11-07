@@ -1016,12 +1016,12 @@
   "date": "2026-11-07",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261107T131539Z",
+   "stamp": "20261107T133052Z",
    "venue_tries": 1
   }
  },
@@ -1106,12 +1106,12 @@
   "date": "2026-11-07",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Karşıyaka Şampiyon Melekler Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261107T131539Z",
+   "stamp": "20261107T133052Z",
    "venue_tries": 1
   }
  },
@@ -2959,13 +2959,13 @@
   "away": "Maraş GSK",
   "date": "2026-11-07",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 3,
   "status": null,
   "venue": "Geçitkale Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261107T131542Z",
+   "stamp": "20261107T133055Z",
    "venue_tries": 1
   }
  },
@@ -2995,13 +2995,13 @@
   "away": "Yeniboğaziçi DSK",
   "date": "2026-11-07",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 0,
   "status": null,
   "venue": "Çatalköy Nihat Bağcıer Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261107T131542Z",
+   "stamp": "20261107T133055Z",
    "venue_tries": 1
   }
  },
