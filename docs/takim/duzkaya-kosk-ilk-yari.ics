@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Düzkaya KOSK İlk Yarı Fikstürü
+X-WR-CALDESC:Düzkaya KOSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25502@ktff-takvim
+DTSTAMP:20261107T120108Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:⚽ Düzkaya KOSK İlk Yarı 0–0 Yeniboğaziçi DSK
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25502\n📍 Çatalk
+ öy Nihat Bağcıer Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
+ ktff.org/maclar/25502
+URL:https://ktff.org/maclar/25502
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Çatalköy Nihat Bağcıer Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK İlk Yarı 0–0 Yen
+ iboğaziçi DSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK İlk Yar
+ ı 0–0 Yeniboğaziçi DSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
