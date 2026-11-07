@@ -189,28 +189,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25500@ktff-takvim
-DTSTAMP:20261107T133055Z
-SEQUENCE:9
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ Geçitkale GSK İkinci Yarı 2–3 Maraş GSK
+DTSTAMP:20261107T140104Z
+SEQUENCE:10
+DTSTART:20261107T120000Z
+DTEND:20261107T135000Z
+SUMMARY:⚽ Geçitkale GSK 2–4 Maraş GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25500\n📍 Geçitk
- ale Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/
- 25500
+ ale Stadı\n🔗 https://ktff.org/maclar/25500
 URL:https://ktff.org/maclar/25500
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK İkinci Yarı 2–3
-  Maraş GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK 2–4 Maraş GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK İkinci 
- Yarı 2–3 Maraş GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK 2–4 Ma
+ raş GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

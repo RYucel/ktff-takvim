@@ -217,28 +217,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25388@ktff-takvim
-DTSTAMP:20261107T133052Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ Karşıyaka SK İkinci Yarı 0–1 Çetinkaya TSK
+DTSTAMP:20261107T140101Z
+SEQUENCE:7
+DTSTART:20261107T120000Z
+DTEND:20261107T135000Z
+SUMMARY:⚽ Karşıyaka SK 1–1 Çetinkaya TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25388\n📍 Kar
- şıyaka Şampiyon Melekler Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 
- https://ktff.org/maclar/25388
+ şıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25388
 URL:https://ktff.org/maclar/25388
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Karşıyaka Şampiyon Melekler Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK İkinci Yarı 0–1
-  Çetinkaya TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK 1–1 Çetinkaya TS
+ K
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK İkinci 
- Yarı 0–1 Çetinkaya TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK 1–1 Ç
+ etinkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
