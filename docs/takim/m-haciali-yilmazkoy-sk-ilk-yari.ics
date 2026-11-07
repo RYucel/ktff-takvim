@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:M. Hacıali Yılmazköy SK İlk Yarı Fikstürü
+X-WR-CALDESC:M. Hacıali Yılmazköy SK İlk Yarı maçları. Kaynak: ktff.
+ org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25503@ktff-takvim
+DTSTAMP:20261107T121545Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:⚽ M. Hacıali Yılmazköy SK İlk Yarı 0–0 DND L. Gençler Bir
+ liği SK
+DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25503\n📍 Yılmaz
+ köy Mustafa Üçöz Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
+ /ktff.org/maclar/25503
+URL:https://ktff.org/maclar/25503
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yılmazköy Mustafa Üçöz Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK İlk Ya
+ rı 0–0 DND L. Gençler Birliği SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
+  SK İlk Yarı 0–0 DND L. Gençler Birliği SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

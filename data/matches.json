@@ -2960,12 +2960,12 @@
   "date": "2026-11-07",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Geçitkale Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261107T120108Z",
+   "stamp": "20261107T121545Z",
    "venue_tries": 1
   }
  },
@@ -3009,17 +3009,17 @@
   "match_no": 25503,
   "league": "1-lig",
   "week": 9,
-  "home": "M. Hacıali Yılmazköy SK",
+  "home": "M. Hacıali Yılmazköy SK İlk Yarı",
   "away": "DND L. Gençler Birliği SK",
   "date": "2026-11-07",
-  "time": "14:00",
-  "home_score": null,
-  "away_score": null,
+  "time": null,
+  "home_score": 0,
+  "away_score": 0,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261028T070108Z",
+   "stamp": "20261107T121545Z",
    "venue_tries": 1
   }
  },

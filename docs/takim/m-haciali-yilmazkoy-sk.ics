@@ -191,32 +191,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ktff-25503@ktff-takvim
-DTSTAMP:20261028T070108Z
-SEQUENCE:2
-DTSTART:20261107T120000Z
-DTEND:20261107T135000Z
-SUMMARY:⚽ M. Hacıali Yılmazköy SK – DND L. Gençler Birliği SK
-DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25503\n📍 Yılmaz
- köy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25503
-URL:https://ktff.org/maclar/25503
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Yılmazköy Mustafa Üçöz Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK – DND
-  L. Gençler Birliği SK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
-  SK – DND L. Gençler Birliği SK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ktff-25511@ktff-takvim
 DTSTAMP:20261028T083842Z
 SEQUENCE:2
