@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Geçitkale GSK İlk Yarı Fikstürü
-X-WR-CALDESC:Geçitkale GSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Geçitkale GSK Devre Arası Fikstürü
+X-WR-CALDESC:Geçitkale GSK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25500@ktff-takvim
-DTSTAMP:20261107T124540Z
-SEQUENCE:6
+DTSTAMP:20261107T130109Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ Geçitkale GSK İlk Yarı 0–3 Maraş GSK
+SUMMARY:⚽ Geçitkale GSK Devre Arası 0–3 Maraş GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25500\n📍 Geçitk
  ale Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/
  25500
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK İlk Yarı 0–3 Ma
- raş GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK Devre Arası 0–3 
+ Maraş GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK İlk Yar
- ı 0–3 Maraş GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK Devre Ar
+ ası 0–3 Maraş GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

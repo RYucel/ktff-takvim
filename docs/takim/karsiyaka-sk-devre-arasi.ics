@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Karşıyaka SK İlk Yarı Fikstürü
-X-WR-CALDESC:Karşıyaka SK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Karşıyaka SK Devre Arası Fikstürü
+X-WR-CALDESC:Karşıyaka SK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25388@ktff-takvim
-DTSTAMP:20261107T120105Z
-SEQUENCE:3
+DTSTAMP:20261107T130106Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ Karşıyaka SK İlk Yarı 0–0 Çetinkaya TSK
+SUMMARY:⚽ Karşıyaka SK Devre Arası 0–0 Çetinkaya TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25388\n📍 Kar
  şıyaka Şampiyon Melekler Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 
  https://ktff.org/maclar/25388
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Karşıyaka Şampiyon Melekler Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK İlk Yarı 0–0 Ç
- etinkaya TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK Devre Arası 0–0 
+ Çetinkaya TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK İlk Yar
- ı 0–0 Çetinkaya TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK Devre Ar
+ ası 0–0 Çetinkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

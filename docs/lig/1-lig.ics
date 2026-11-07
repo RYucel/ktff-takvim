@@ -1454,11 +1454,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25500@ktff-takvim
-DTSTAMP:20261107T124540Z
-SEQUENCE:6
+DTSTAMP:20261107T130109Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ Geçitkale GSK İlk Yarı 0–3 Maraş GSK
+SUMMARY:⚽ Geçitkale GSK Devre Arası 0–3 Maraş GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25500\n📍 Geçitk
  ale Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/
  25500
@@ -1468,24 +1468,24 @@ STATUS:CONFIRMED
 LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK İlk Yarı 0–3 Ma
- raş GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK Devre Arası 0–3 
+ Maraş GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK İlk Yar
- ı 0–3 Maraş GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK Devre Ar
+ ası 0–3 Maraş GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25502@ktff-takvim
-DTSTAMP:20261107T124540Z
-SEQUENCE:4
+DTSTAMP:20261107T130109Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ Düzkaya KOSK İlk Yarı 1–0 Yeniboğaziçi DSK
+SUMMARY:⚽ Düzkaya KOSK Devre Arası 1–0 Yeniboğaziçi DSK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25502\n📍 Çatalk
  öy Nihat Bağcıer Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
  ktff.org/maclar/25502
@@ -1495,25 +1495,25 @@ STATUS:CONFIRMED
 LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK İlk Yarı 1–0 Yen
- iboğaziçi DSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK Devre Arası 1–0 Y
+ eniboğaziçi DSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK İlk Yar
- ı 1–0 Yeniboğaziçi DSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK Devre Ara
+ sı 1–0 Yeniboğaziçi DSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25503@ktff-takvim
-DTSTAMP:20261107T121545Z
-SEQUENCE:3
+DTSTAMP:20261107T130109Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:⚽ M. Hacıali Yılmazköy SK İlk Yarı 0–0 DND L. Gençler Bir
- liği SK
+SUMMARY:⚽ M. Hacıali Yılmazköy SK Devre Arası 0–0 DND L. Gençler B
+ irliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25503\n📍 Yılmaz
  köy Mustafa Üçöz Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
  /ktff.org/maclar/25503
@@ -1523,14 +1523,14 @@ STATUS:CONFIRMED
 LOCATION:Yılmazköy Mustafa Üçöz Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK İlk Ya
- rı 0–0 DND L. Gençler Birliği SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK Devre A
+ rası 0–0 DND L. Gençler Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
-  SK İlk Yarı 0–0 DND L. Gençler Birliği SK
+  SK Devre Arası 0–0 DND L. Gençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
