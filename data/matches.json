@@ -3013,13 +3013,13 @@
   "away": "DND L. Gençler Birliği SK",
   "date": "2026-11-07",
   "time": null,
-  "home_score": 0,
-  "away_score": 0,
+  "home_score": 1,
+  "away_score": 1,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261107T131542Z",
+   "stamp": "20261107T134540Z",
    "venue_tries": 1
   }
  },
