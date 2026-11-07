@@ -2960,12 +2960,12 @@
   "date": "2026-11-07",
   "time": null,
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Geçitkale Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261107T121545Z",
+   "stamp": "20261107T123056Z",
    "venue_tries": 1
   }
  },
