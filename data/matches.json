@@ -1011,7 +1011,7 @@
   "match_no": 25383,
   "league": "super-lig",
   "week": 9,
-  "home": "Küçük Kaymaklı TSK Devre Arası",
+  "home": "Küçük Kaymaklı TSK İkinci Yarı",
   "away": "Cihangir GSK",
   "date": "2026-11-07",
   "time": null,
@@ -1019,9 +1019,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261107T130106Z",
+   "stamp": "20261107T131539Z",
    "venue_tries": 1
   }
  },
@@ -1101,7 +1101,7 @@
   "match_no": 25388,
   "league": "super-lig",
   "week": 9,
-  "home": "Karşıyaka SK Devre Arası",
+  "home": "Karşıyaka SK İkinci Yarı",
   "away": "Çetinkaya TSK",
   "date": "2026-11-07",
   "time": null,
@@ -1109,9 +1109,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Karşıyaka Şampiyon Melekler Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261107T130106Z",
+   "stamp": "20261107T131539Z",
    "venue_tries": 1
   }
  },
@@ -2955,17 +2955,17 @@
   "match_no": 25500,
   "league": "1-lig",
   "week": 9,
-  "home": "Geçitkale GSK Devre Arası",
+  "home": "Geçitkale GSK İkinci Yarı",
   "away": "Maraş GSK",
   "date": "2026-11-07",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 3,
   "status": null,
   "venue": "Geçitkale Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261107T130109Z",
+   "stamp": "20261107T131542Z",
    "venue_tries": 1
   }
  },
@@ -2991,7 +2991,7 @@
   "match_no": 25502,
   "league": "1-lig",
   "week": 9,
-  "home": "Düzkaya KOSK Devre Arası",
+  "home": "Düzkaya KOSK İkinci Yarı",
   "away": "Yeniboğaziçi DSK",
   "date": "2026-11-07",
   "time": null,
@@ -2999,9 +2999,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Çatalköy Nihat Bağcıer Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261107T130109Z",
+   "stamp": "20261107T131542Z",
    "venue_tries": 1
   }
  },
@@ -3009,7 +3009,7 @@
   "match_no": 25503,
   "league": "1-lig",
   "week": 9,
-  "home": "M. Hacıali Yılmazköy SK Devre Arası",
+  "home": "M. Hacıali Yılmazköy SK İkinci Yarı",
   "away": "DND L. Gençler Birliği SK",
   "date": "2026-11-07",
   "time": null,
@@ -3017,9 +3017,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261107T130109Z",
+   "stamp": "20261107T131542Z",
    "venue_tries": 1
   }
  },
