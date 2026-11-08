@@ -1087,13 +1087,13 @@
   "away": "Doğan Türk Birliği",
   "date": "2026-11-08",
   "time": null,
-  "home_score": 1,
-  "away_score": 2,
+  "home_score": 2,
+  "away_score": 3,
   "status": null,
   "venue": "Değirmenlik Sadık Cemil Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261108T131538Z",
+   "stamp": "20261108T134539Z",
    "venue_tries": 1
   }
  },
@@ -1124,12 +1124,12 @@
   "date": "2026-11-08",
   "time": null,
   "home_score": 1,
-  "away_score": 5,
+  "away_score": 6,
   "status": null,
   "venue": "Paşaköy Hasan Onalt Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261108T133051Z",
+   "stamp": "20261108T134539Z",
    "venue_tries": 1
   }
  },
@@ -2941,13 +2941,13 @@
   "away": "Gönyeli SK",
   "date": "2026-11-08",
   "time": null,
-  "home_score": 2,
-  "away_score": 2,
+  "home_score": 3,
+  "away_score": 3,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261108T133054Z",
+   "stamp": "20261108T134542Z",
    "venue_tries": 1
   }
  },

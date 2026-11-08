@@ -218,11 +218,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25389@ktff-takvim
-DTSTAMP:20261108T133051Z
-SEQUENCE:8
+DTSTAMP:20261108T134539Z
+SEQUENCE:9
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Mesarya SK İkinci Yarı 1–5 Mağusa Türk Gücü
+SUMMARY:⚽ Mesarya SK İkinci Yarı 1–6 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25389\n📍 Pa
  şaköy Hasan Onalt Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
  ktff.org/maclar/25389
@@ -232,14 +232,14 @@ STATUS:CONFIRMED
 LOCATION:Paşaköy Hasan Onalt Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK İkinci Yarı 1–5 Ma
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK İkinci Yarı 1–6 Ma
  ğusa Türk Gücü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK İkinci Yar
- ı 1–5 Mağusa Türk Gücü
+ ı 1–6 Mağusa Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
