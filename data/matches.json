@@ -1033,13 +1033,13 @@
   "away": "Alsancak Yeşilova SK",
   "date": "2026-11-08",
   "time": null,
-  "home_score": 0,
-  "away_score": 1,
+  "home_score": 2,
+  "away_score": 2,
   "status": null,
   "venue": "Güzelyurt Üner Berkalp Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261108T131538Z",
+   "stamp": "20261108T133051Z",
    "venue_tries": 1
   }
  },
@@ -1070,12 +1070,12 @@
   "date": "2026-11-08",
   "time": null,
   "home_score": 1,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261108T131538Z",
+   "stamp": "20261108T133051Z",
    "venue_tries": 1
   }
  },
@@ -1123,13 +1123,13 @@
   "away": "Mağusa Türk Gücü",
   "date": "2026-11-08",
   "time": null,
-  "home_score": 0,
-  "away_score": 4,
+  "home_score": 1,
+  "away_score": 5,
   "status": null,
   "venue": "Paşaköy Hasan Onalt Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261108T131538Z",
+   "stamp": "20261108T133051Z",
    "venue_tries": 1
   }
  },
@@ -2923,13 +2923,13 @@
   "away": "Çello Dikmen Gücü SK",
   "date": "2026-11-08",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 1,
   "status": null,
   "venue": "Göçmenköy Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261108T131541Z",
+   "stamp": "20261108T133054Z",
    "venue_tries": 1
   }
  },
@@ -2941,13 +2941,13 @@
   "away": "Gönyeli SK",
   "date": "2026-11-08",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 2,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261108T131541Z",
+   "stamp": "20261108T133054Z",
    "venue_tries": 1
   }
  },

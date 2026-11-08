@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25384@ktff-takvim
-DTSTAMP:20261108T131538Z
-SEQUENCE:5
+DTSTAMP:20261108T133051Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Baf Ülkü Yurdu İkinci Yarı 0–1 Alsancak Yeşilova SK
+SUMMARY:⚽ Baf Ülkü Yurdu İkinci Yarı 2–2 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25384\n📍 Gü
  zelyurt Üner Berkalp Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:
  //ktff.org/maclar/25384
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İkinci Yarı 0
- –1 Alsancak Yeşilova SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İkinci Yarı 2
+ –2 Alsancak Yeşilova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu İkinc
- i Yarı 0–1 Alsancak Yeşilova SK
+ i Yarı 2–2 Alsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
