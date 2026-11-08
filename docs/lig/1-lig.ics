@@ -1531,82 +1531,79 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25497@ktff-takvim
-DTSTAMP:20261108T133054Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Göçmenköy İYSK İkinci Yarı 2–1 Çello Dikmen Gücü SK
+DTSTAMP:20261108T140105Z
+SEQUENCE:9
+DTSTART:20261108T120000Z
+DTEND:20261108T135000Z
+SUMMARY:⚽ Göçmenköy İYSK 2–1 Çello Dikmen Gücü SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25497\n📍 Göçme
- nköy Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macla
- r/25497
+ nköy Stadı\n🔗 https://ktff.org/maclar/25497
 URL:https://ktff.org/maclar/25497
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Göçmenköy Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK İkinci Yarı 2
- –1 Çello Dikmen Gücü SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK 2–1 Çello Di
+ kmen Gücü SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK İki
- nci Yarı 2–1 Çello Dikmen Gücü SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK 2–
+ 1 Çello Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25498@ktff-takvim
-DTSTAMP:20261108T134542Z
-SEQUENCE:9
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Türk Ocağı Limasol SK İkinci Yarı 3–3 Gönyeli SK
+DTSTAMP:20261108T140105Z
+SEQUENCE:10
+DTSTART:20261108T120000Z
+DTEND:20261108T135000Z
+SUMMARY:⚽ Türk Ocağı Limasol SK 3–3 Gönyeli SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25498\n📍 Girne 2
- 0 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:
- //ktff.org/maclar/25498
+ 0 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25498
 URL:https://ktff.org/maclar/25498
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK İkinci Y
- arı 3–3 Gönyeli SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK 3–3 Gö
+ nyeli SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
- K İkinci Yarı 3–3 Gönyeli SK
+ K 3–3 Gönyeli SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25501@ktff-takvim
-DTSTAMP:20261108T131541Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Akdoğan SK İkinci Yarı 1–1 Karaoğlanoğlu SK
+DTSTAMP:20261108T140105Z
+SEQUENCE:7
+DTSTART:20261108T120000Z
+DTEND:20261108T135000Z
+SUMMARY:⚽ Akdoğan SK 1–2 Karaoğlanoğlu SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25501\n📍 Akdoğa
- n Özgürlük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
- rg/maclar/25501
+ n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25501
 URL:https://ktff.org/maclar/25501
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İkinci Yarı 1–1 Ka
- raoğlanoğlu SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK 1–2 Karaoğlanoğlu 
+ SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK İkinci Yar
- ı 1–1 Karaoğlanoğlu SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK 1–2 Karao
+ ğlanoğlu SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

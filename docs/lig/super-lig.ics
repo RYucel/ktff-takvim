@@ -1509,110 +1509,105 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25384@ktff-takvim
-DTSTAMP:20261108T133051Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Baf Ülkü Yurdu İkinci Yarı 2–2 Alsancak Yeşilova SK
+DTSTAMP:20261108T140102Z
+SEQUENCE:7
+DTSTART:20261108T120000Z
+DTEND:20261108T135000Z
+SUMMARY:⚽ Baf Ülkü Yurdu 2–2 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25384\n📍 Gü
- zelyurt Üner Berkalp Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:
- //ktff.org/maclar/25384
+ zelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25384
 URL:https://ktff.org/maclar/25384
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İkinci Yarı 2
- –2 Alsancak Yeşilova SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 2–2 Alsancak Ye
+ şilova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu İkinc
- i Yarı 2–2 Alsancak Yeşilova SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu 2–2 
+ Alsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25386@ktff-takvim
-DTSTAMP:20261108T133051Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Dumlupınar TSK İkinci Yarı 1–2 China Bazaar Gençlik Güc
- ü TSK
+DTSTAMP:20261108T140102Z
+SEQUENCE:7
+DTSTART:20261108T120000Z
+DTEND:20261108T135000Z
+SUMMARY:⚽ Dumlupınar TSK 1–4 China Bazaar Gençlik Gücü TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25386\n📍 Gaz
- imağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
-  https://ktff.org/maclar/25386
+ imağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25386
 URL:https://ktff.org/maclar/25386
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İkinci Yarı 1–
- 2 China Bazaar Gençlik Gücü TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 1–4 China Bazaar
+  Gençlik Gücü TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İkinci
-  Yarı 1–2 China Bazaar Gençlik Gücü TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK 1–4 C
+ hina Bazaar Gençlik Gücü TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25387@ktff-takvim
-DTSTAMP:20261108T134539Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Değirmenlik SK İkinci Yarı 2–3 Doğan Türk Birliği
+DTSTAMP:20261108T140102Z
+SEQUENCE:9
+DTSTART:20261108T120000Z
+DTEND:20261108T135000Z
+SUMMARY:⚽ Değirmenlik SK 2–3 Doğan Türk Birliği
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n📍 De
- ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
- s://ktff.org/maclar/25387
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25387
 URL:https://ktff.org/maclar/25387
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İkinci Yarı 2–
- 3 Doğan Türk Birliği
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK 2–3 Doğan Türk
+  Birliği
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İkinci
-  Yarı 2–3 Doğan Türk Birliği
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK 2–3 D
+ oğan Türk Birliği
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25389@ktff-takvim
-DTSTAMP:20261108T134539Z
-SEQUENCE:9
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Mesarya SK İkinci Yarı 1–6 Mağusa Türk Gücü
+DTSTAMP:20261108T140102Z
+SEQUENCE:10
+DTSTART:20261108T120000Z
+DTEND:20261108T135000Z
+SUMMARY:⚽ Mesarya SK 1–6 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25389\n📍 Pa
- şaköy Hasan Onalt Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
- ktff.org/maclar/25389
+ şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25389
 URL:https://ktff.org/maclar/25389
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Paşaköy Hasan Onalt Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK İkinci Yarı 1–6 Ma
- ğusa Türk Gücü
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK 1–6 Mağusa Türk Gü
+ cü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK İkinci Yar
- ı 1–6 Mağusa Türk Gücü
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK 1–6 Mağus
+ a Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
