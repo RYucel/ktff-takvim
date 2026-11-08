@@ -192,27 +192,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25497@ktff-takvim
-DTSTAMP:20261028T070108Z
-SEQUENCE:2
-DTSTART:20261108T120000Z
-DTEND:20261108T135000Z
-SUMMARY:⚽ Göçmenköy İYSK – Çello Dikmen Gücü SK
+DTSTAMP:20261108T120100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:⚽ Göçmenköy İYSK İlk Yarı 0–0 Çello Dikmen Gücü SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25497\n📍 Göçme
- nköy Stadı\n🔗 https://ktff.org/maclar/25497
+ nköy Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macla
+ r/25497
 URL:https://ktff.org/maclar/25497
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Göçmenköy Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK – Çello Dikm
- en Gücü SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK İlk Yarı 0–
+ 0 Çello Dikmen Gücü SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK – 
- Çello Dikmen Gücü SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK İlk
+  Yarı 0–0 Çello Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

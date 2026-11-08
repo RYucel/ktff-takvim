@@ -1508,6 +1508,60 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ktff-25387@ktff-takvim
+DTSTAMP:20261108T120057Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:⚽ Değirmenlik SK İlk Yarı 0–0 Doğan Türk Birliği
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n📍 De
+ ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
+ s://ktff.org/maclar/25387
+URL:https://ktff.org/maclar/25387
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Değirmenlik Sadık Cemil Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İlk Yarı 0–0 D
+ oğan Türk Birliği
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İlk Ya
+ rı 0–0 Doğan Türk Birliği
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25389@ktff-takvim
+DTSTAMP:20261108T120057Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:⚽ Mesarya SK İlk Yarı 0–0 Mağusa Türk Gücü
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25389\n📍 Pa
+ şaköy Hasan Onalt Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
+ ktff.org/maclar/25389
+URL:https://ktff.org/maclar/25389
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Paşaköy Hasan Onalt Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK İlk Yarı 0–0 Mağus
+ a Türk Gücü
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK İlk Yarı 0
+ –0 Mağusa Türk Gücü
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ktff-25384@ktff-takvim
 DTSTAMP:20261028T070105Z
 SEQUENCE:2
@@ -1556,58 +1610,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Chi
  na Bazaar Gençlik Gücü TSK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25387@ktff-takvim
-DTSTAMP:20261028T070105Z
-SEQUENCE:2
-DTSTART:20261108T120000Z
-DTEND:20261108T135000Z
-SUMMARY:⚽ Değirmenlik SK – Doğan Türk Birliği
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n📍 De
- ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25387
-URL:https://ktff.org/maclar/25387
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Değirmenlik Sadık Cemil Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Doğan Türk B
- irliği
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Do
- ğan Türk Birliği
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25389@ktff-takvim
-DTSTAMP:20261028T070105Z
-SEQUENCE:2
-DTSTART:20261108T120000Z
-DTEND:20261108T135000Z
-SUMMARY:⚽ Mesarya SK – Mağusa Türk Gücü
-DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25389\n📍 Pa
- şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25389
-URL:https://ktff.org/maclar/25389
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Paşaköy Hasan Onalt Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – Mağusa Türk Güc
- ü
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – Mağusa 
- Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
