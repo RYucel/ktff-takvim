@@ -191,26 +191,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25501@ktff-takvim
-DTSTAMP:20261028T070108Z
-SEQUENCE:2
-DTSTART:20261108T120000Z
-DTEND:20261108T135000Z
-SUMMARY:⚽ Akdoğan SK – Karaoğlanoğlu SK
+DTSTAMP:20261108T121542Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:⚽ Akdoğan SK İlk Yarı 0–0 Karaoğlanoğlu SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25501\n📍 Akdoğa
- n Özgürlük Stadı\n🔗 https://ktff.org/maclar/25501
+ n Özgürlük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
+ rg/maclar/25501
 URL:https://ktff.org/maclar/25501
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK – Karaoğlanoğlu SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İlk Yarı 0–0 Karao
+ ğlanoğlu SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK – Karaoğ
- lanoğlu SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK İlk Yarı 
+ 0–0 Karaoğlanoğlu SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

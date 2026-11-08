@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25387@ktff-takvim
-DTSTAMP:20261108T120057Z
-SEQUENCE:3
+DTSTAMP:20261108T121539Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Değirmenlik SK İlk Yarı 0–0 Doğan Türk Birliği
+SUMMARY:⚽ Değirmenlik SK İlk Yarı 1–0 Doğan Türk Birliği
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25387\n📍 De
  ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
  s://ktff.org/maclar/25387
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İlk Yarı 0–0 D
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İlk Yarı 1–0 D
  oğan Türk Birliği
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İlk Ya
- rı 0–0 Doğan Türk Birliği
+ rı 1–0 Doğan Türk Birliği
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

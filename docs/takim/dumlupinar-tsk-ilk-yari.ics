@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dumlupınar TSK İlk Yarı Fikstürü
+X-WR-CALDESC:Dumlupınar TSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25386@ktff-takvim
+DTSTAMP:20261108T121539Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:⚽ Dumlupınar TSK İlk Yarı 1–0 China Bazaar Gençlik Gücü T
+ SK
+DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25386\n📍 Gaz
+ imağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
+  https://ktff.org/maclar/25386
+URL:https://ktff.org/maclar/25386
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İlk Yarı 1–0 C
+ hina Bazaar Gençlik Gücü TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İlk Ya
+ rı 1–0 China Bazaar Gençlik Gücü TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
