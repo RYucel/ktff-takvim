@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Akdoğan SK İlk Yarı Fikstürü
-X-WR-CALDESC:Akdoğan SK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Akdoğan SK Devre Arası Fikstürü
+X-WR-CALDESC:Akdoğan SK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25501@ktff-takvim
-DTSTAMP:20261108T124540Z
-SEQUENCE:4
+DTSTAMP:20261108T130105Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Akdoğan SK İlk Yarı 1–0 Karaoğlanoğlu SK
+SUMMARY:⚽ Akdoğan SK Devre Arası 1–1 Karaoğlanoğlu SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25501\n📍 Akdoğa
  n Özgürlük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
  rg/maclar/25501
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İlk Yarı 1–0 Karao
- ğlanoğlu SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK Devre Arası 1–1 Kar
+ aoğlanoğlu SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK İlk Yarı 
- 1–0 Karaoğlanoğlu SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK Devre Aras
+ ı 1–1 Karaoğlanoğlu SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

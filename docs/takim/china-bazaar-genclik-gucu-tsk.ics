@@ -192,12 +192,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25386@ktff-takvim
-DTSTAMP:20261108T121539Z
-SEQUENCE:3
+DTSTAMP:20261108T130102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Dumlupınar TSK İlk Yarı 1–0 China Bazaar Gençlik Gücü T
- SK
+SUMMARY:⚽ Dumlupınar TSK Devre Arası 1–1 China Bazaar Gençlik Gücü
+  TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25386\n📍 Gaz
  imağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25386
@@ -207,14 +207,14 @@ STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İlk Yarı 1–0 C
- hina Bazaar Gençlik Gücü TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK Devre Arası 1–1
+  China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İlk Ya
- rı 1–0 China Bazaar Gençlik Gücü TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK Devre A
+ rası 1–1 China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Göçmenköy İYSK İlk Yarı Fikstürü
-X-WR-CALDESC:Göçmenköy İYSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Göçmenköy İYSK Devre Arası Fikstürü
+X-WR-CALDESC:Göçmenköy İYSK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25497@ktff-takvim
-DTSTAMP:20261108T124540Z
-SEQUENCE:5
+DTSTAMP:20261108T130105Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-SUMMARY:⚽ Göçmenköy İYSK İlk Yarı 1–1 Çello Dikmen Gücü SK
+SUMMARY:⚽ Göçmenköy İYSK Devre Arası 1–1 Çello Dikmen Gücü SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25497\n📍 Göçme
  nköy Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macla
  r/25497
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Göçmenköy Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK İlk Yarı 1–
- 1 Çello Dikmen Gücü SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Göçmenköy İYSK Devre Arası 1
+ –1 Çello Dikmen Gücü SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK İlk
-  Yarı 1–1 Çello Dikmen Gücü SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Göçmenköy İYSK Devr
+ e Arası 1–1 Çello Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
