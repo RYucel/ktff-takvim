@@ -1088,12 +1088,12 @@
   "date": "2026-11-08",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 2,
   "status": null,
   "venue": "Değirmenlik Sadık Cemil Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261108T121539Z",
+   "stamp": "20261108T124537Z",
    "venue_tries": 1
   }
  },
@@ -1124,12 +1124,12 @@
   "date": "2026-11-08",
   "time": null,
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 3,
   "status": null,
   "venue": "Paşaköy Hasan Onalt Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261108T121539Z",
+   "stamp": "20261108T124537Z",
    "venue_tries": 1
   }
  },
@@ -2924,12 +2924,12 @@
   "date": "2026-11-08",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Göçmenköy Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261108T121542Z",
+   "stamp": "20261108T124540Z",
    "venue_tries": 1
   }
  },
@@ -2942,12 +2942,12 @@
   "date": "2026-11-08",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261108T123055Z",
+   "stamp": "20261108T124540Z",
    "venue_tries": 1
   }
  },
@@ -2977,13 +2977,13 @@
   "away": "Karaoğlanoğlu SK",
   "date": "2026-11-08",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Akdoğan Özgürlük Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261108T121542Z",
+   "stamp": "20261108T124540Z",
    "venue_tries": 1
   }
  },
