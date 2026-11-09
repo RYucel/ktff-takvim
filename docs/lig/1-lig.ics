@@ -1609,11 +1609,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25496@ktff-takvim
-DTSTAMP:20261109T180114Z
-SEQUENCE:4
+DTSTAMP:20261109T183126Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:⚽ Lefke TSK Devre Arası 0–0 Lapta Türk Birliği SK
+SUMMARY:⚽ Lefke TSK İkinci Yarı 0–0 Lapta Türk Birliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 9. Hafta\n🔢 Maç No: 25496\n📍 Lefke 1
  6 Ağustos Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/
  maclar/25496
@@ -1623,14 +1623,14 @@ STATUS:CONFIRMED
 LOCATION:Lefke 16 Ağustos Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK Devre Arası 0–0 Lapta
-  Türk Birliği SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK İkinci Yarı 0–0 Lapt
+ a Türk Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK Devre Arası 
- 0–0 Lapta Türk Birliği SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK İkinci Yarı
+  0–0 Lapta Türk Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
