@@ -1047,7 +1047,7 @@
   "match_no": 25385,
   "league": "super-lig",
   "week": 9,
-  "home": "Yenicami AK İlk Yarı",
+  "home": "Yenicami AK Devre Arası",
   "away": "Aslanköy GSD",
   "date": "2026-11-09",
   "time": null,
@@ -1055,9 +1055,9 @@
   "away_score": 1,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261109T174543Z",
+   "stamp": "20261109T180111Z",
    "venue_tries": 1
   }
  },
@@ -2901,7 +2901,7 @@
   "match_no": 25496,
   "league": "1-lig",
   "week": 9,
-  "home": "Lefke TSK İlk Yarı",
+  "home": "Lefke TSK Devre Arası",
   "away": "Lapta Türk Birliği SK",
   "date": "2026-11-09",
   "time": null,
@@ -2909,9 +2909,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Lefke 16 Ağustos Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261109T171547Z",
+   "stamp": "20261109T180114Z",
    "venue_tries": 1
   }
  },
