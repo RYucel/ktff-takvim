@@ -1613,11 +1613,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25385@ktff-takvim
-DTSTAMP:20261109T183123Z
-SEQUENCE:6
+DTSTAMP:20261109T184545Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:⚽ Yenicami AK İkinci Yarı 0–2 Aslanköy GSD
+SUMMARY:⚽ Yenicami AK İkinci Yarı 0–3 Aslanköy GSD
 DESCRIPTION:🏆 AKSA Süper Lig · 9. Hafta\n🔢 Maç No: 25385\n📍 Lef
  koşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.
  org/maclar/25385
@@ -1627,14 +1627,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK İkinci Yarı 0–2 As
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK İkinci Yarı 0–3 As
  lanköy GSD
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK İkinci Yar
- ı 0–2 Aslanköy GSD
+ ı 0–3 Aslanköy GSD
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -1052,12 +1052,12 @@
   "date": "2026-11-09",
   "time": null,
   "home_score": 0,
-  "away_score": 2,
+  "away_score": 3,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261109T183123Z",
+   "stamp": "20261109T184545Z",
    "venue_tries": 1
   }
  },
