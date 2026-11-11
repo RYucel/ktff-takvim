@@ -3155,15 +3155,15 @@
   "week": 11,
   "home": "Lefke TSK",
   "away": "Gönyeli SK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-23",
+  "time": "19:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Lefke 16 Ağustos Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075159Z",
+   "stamp": "20261111T080105Z",
    "venue_tries": 1
   }
  },
@@ -3173,15 +3173,15 @@
   "week": 11,
   "home": "Türk Ocağı Limasol SK",
   "away": "Mormenekşe GBSK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-21",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075159Z",
+   "stamp": "20261111T080105Z",
    "venue_tries": 1
   }
  },
@@ -3192,14 +3192,14 @@
   "home": "Geçitkale GSK",
   "away": "Çello Dikmen Gücü SK",
   "date": "2026-11-22",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Geçitkale Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075200Z",
+   "stamp": "20261111T080105Z",
    "venue_tries": 1
   }
  },
@@ -3209,15 +3209,15 @@
   "week": 11,
   "home": "Akdoğan SK",
   "away": "Lapta Türk Birliği SK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-21",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Akdoğan Özgürlük Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075200Z",
+   "stamp": "20261111T080105Z",
    "venue_tries": 1
   }
  },
