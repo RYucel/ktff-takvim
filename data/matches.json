@@ -1266,14 +1266,14 @@
   "home": "Küçük Kaymaklı TSK",
   "away": "Aslanköy GSD",
   "date": "2026-11-22",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075154Z",
+   "stamp": "20261111T074556Z",
    "venue_tries": 1
   }
  },
@@ -1283,15 +1283,15 @@
   "week": 11,
   "home": "Baf Ülkü Yurdu",
   "away": "China Bazaar Gençlik Gücü TSK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-21",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Güzelyurt Üner Berkalp Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075155Z",
+   "stamp": "20261111T074556Z",
    "venue_tries": 1
   }
  },
@@ -1301,15 +1301,15 @@
   "week": 11,
   "home": "Yenicami AK",
   "away": "Dumlupınar TSK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-20",
+  "time": "19:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075156Z",
+   "stamp": "20261111T074556Z",
    "venue_tries": 1
   }
  },
@@ -1319,15 +1319,15 @@
   "week": 11,
   "home": "Değirmenlik SK",
   "away": "Alsancak Yeşilova SK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-21",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Değirmenlik Sadık Cemil Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075156Z",
+   "stamp": "20261111T074556Z",
    "venue_tries": 1
   }
  },
@@ -1338,14 +1338,14 @@
   "home": "Karşıyaka SK",
   "away": "Cihangir GSK",
   "date": "2026-11-22",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Karşıyaka Şampiyon Melekler Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075157Z",
+   "stamp": "20261111T074556Z",
    "venue_tries": 1
   }
  },
@@ -1356,14 +1356,14 @@
   "home": "Mesarya SK",
   "away": "Doğan Türk Birliği",
   "date": "2026-11-22",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Paşaköy Hasan Onalt Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075158Z",
+   "stamp": "20261111T074556Z",
    "venue_tries": 1
   }
  },
@@ -1373,15 +1373,15 @@
   "week": 11,
   "home": "Esentepe KSKK",
   "away": "Çetinkaya TSK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-21",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Esentepe Erdal Barut Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075158Z",
+   "stamp": "20261111T074556Z",
    "venue_tries": 1
   }
  },
@@ -3228,14 +3228,14 @@
   "home": "Düzkaya KOSK",
   "away": "Maraş GSK",
   "date": "2026-11-22",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Çatalköy Nihat Bağcıer Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075201Z",
+   "stamp": "20261111T074559Z",
    "venue_tries": 1
   }
  },
@@ -3245,15 +3245,15 @@
   "week": 11,
   "home": "M. Hacıali Yılmazköy SK",
   "away": "Karaoğlanoğlu SK",
-  "date": "2026-11-22",
-  "time": "00:00",
+  "date": "2026-11-21",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075202Z",
+   "stamp": "20261111T074559Z",
    "venue_tries": 1
   }
  },
@@ -3264,14 +3264,14 @@
   "home": "Yeniboğaziçi DSK",
   "away": "DND L. Gençler Birliği SK",
   "date": "2026-11-22",
-  "time": "00:00",
+  "time": "14:00",
   "home_score": null,
   "away_score": null,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 1,
+  "rev": 2,
   "extra": {
-   "stamp": "20261026T075202Z",
+   "stamp": "20261111T074559Z",
    "venue_tries": 1
   }
  },
