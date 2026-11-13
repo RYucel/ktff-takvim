@@ -1638,28 +1638,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25395@ktff-takvim
-DTSTAMP:20261113T183100Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:⚽ Çetinkaya TSK İkinci Yarı 4–2 Mesarya SK
+DTSTAMP:20261113T190106Z
+SEQUENCE:9
+DTSTART:20261113T170000Z
+DTEND:20261113T185000Z
+SUMMARY:⚽ Çetinkaya TSK 4–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25395\n📍 Le
- fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
- .org/maclar/25395
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25395
 URL:https://ktff.org/maclar/25395
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İkinci Yarı 4–2
-  Mesarya SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK 4–2 Mesarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İkinci 
- Yarı 4–2 Mesarya SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK 4–2 Me
+ sarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

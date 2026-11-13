@@ -1227,17 +1227,17 @@
   "match_no": 25395,
   "league": "super-lig",
   "week": 10,
-  "home": "Çetinkaya TSK İkinci Yarı",
+  "home": "Çetinkaya TSK",
   "away": "Mesarya SK",
   "date": "2026-11-13",
-  "time": null,
+  "time": "19:00",
   "home_score": 4,
   "away_score": 2,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261113T183100Z",
+   "stamp": "20261113T190106Z",
    "venue_tries": 1
   }
  },
