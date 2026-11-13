@@ -1231,13 +1231,13 @@
   "away": "Mesarya SK",
   "date": "2026-11-13",
   "time": null,
-  "home_score": 2,
+  "home_score": 4,
   "away_score": 2,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261113T181544Z",
+   "stamp": "20261113T183100Z",
    "venue_tries": 1
   }
  },
