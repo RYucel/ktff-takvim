@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Çetinkaya TSK İlk Yarı Fikstürü
-X-WR-CALDESC:Çetinkaya TSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Çetinkaya TSK İkinci Yarı Fikstürü
+X-WR-CALDESC:Çetinkaya TSK İkinci Yarı maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25395@ktff-takvim
-DTSTAMP:20261113T174601Z
-SEQUENCE:5
+DTSTAMP:20261113T180106Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:⚽ Çetinkaya TSK İlk Yarı 2–0 Mesarya SK
+SUMMARY:⚽ Çetinkaya TSK İkinci Yarı 2–0 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25395\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
  .org/maclar/25395
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İlk Yarı 2–0 Me
- sarya SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İkinci Yarı 2–0
+  Mesarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İlk Yar
- ı 2–0 Mesarya SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İkinci 
+ Yarı 2–0 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
