@@ -1232,12 +1232,12 @@
   "date": "2026-11-13",
   "time": null,
   "home_score": 2,
-  "away_score": 0,
+  "away_score": 2,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261113T180106Z",
+   "stamp": "20261113T181544Z",
    "venue_tries": 1
   }
  },
