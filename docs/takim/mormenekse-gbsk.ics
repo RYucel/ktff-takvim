@@ -216,11 +216,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25507@ktff-takvim
-DTSTAMP:20261114T121541Z
-SEQUENCE:3
+DTSTAMP:20261114T130104Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ DND L. Gençler Birliği SK İlk Yarı 1–0 Mormenekşe GBSK
+SUMMARY:⚽ DND L. Gençler Birliği SK Devre Arası 1–0 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25507\n📍 İskel
  e Cumhuriyet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
  g/maclar/25507
@@ -230,14 +230,14 @@ STATUS:CONFIRMED
 LOCATION:İskele Cumhuriyet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK İlk Y
- arı 1–0 Mormenekşe GBSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK Devre 
+ Arası 1–0 Mormenekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
- i SK İlk Yarı 1–0 Mormenekşe GBSK
+ i SK Devre Arası 1–0 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -3,18 +3,19 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Yeniboğaziçi DSK İlk Yarı Fikstürü
-X-WR-CALDESC:Yeniboğaziçi DSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Yeniboğaziçi DSK Devre Arası Fikstürü
+X-WR-CALDESC:Yeniboğaziçi DSK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25511@ktff-takvim
-DTSTAMP:20261114T124545Z
-SEQUENCE:4
+DTSTAMP:20261114T130104Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Yeniboğaziçi DSK İlk Yarı 1–0 M. Hacıali Yılmazköy SK
+SUMMARY:⚽ Yeniboğaziçi DSK Devre Arası 1–0 M. Hacıali Yılmazköy S
+ K
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25511
@@ -24,14 +25,14 @@ STATUS:CONFIRMED
 LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İlk Yarı 1–
- 0 M. Hacıali Yılmazköy SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK Devre Arası 1
+ –0 M. Hacıali Yılmazköy SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İlk
-  Yarı 1–0 M. Hacıali Yılmazköy SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK Devr
+ e Arası 1–0 M. Hacıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

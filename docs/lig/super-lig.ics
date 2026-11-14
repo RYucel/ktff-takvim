@@ -1663,11 +1663,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25390@ktff-takvim
-DTSTAMP:20261114T124542Z
-SEQUENCE:5
+DTSTAMP:20261114T130101Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Alsancak Yeşilova SK İlk Yarı 1–1 Küçük Kaymaklı TSK
+SUMMARY:⚽ Alsancak Yeşilova SK Devre Arası 1–1 Küçük Kaymaklı TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25390\n📍 Al
  sancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25390
@@ -1677,24 +1677,24 @@ STATUS:CONFIRMED
 LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İlk Yarı 1
- –1 Küçük Kaymaklı TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK Devre Arası
+  1–1 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- İlk Yarı 1–1 Küçük Kaymaklı TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK D
+ evre Arası 1–1 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25392@ktff-takvim
-DTSTAMP:20261114T124542Z
-SEQUENCE:5
+DTSTAMP:20261114T130101Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İlk Yarı 2–1 Yenicami AK
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK Devre Arası 2–2 Yenicami AK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25392\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
  .org/maclar/25392
@@ -1704,24 +1704,24 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
- İlk Yarı 2–1 Yenicami AK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK D
+ evre Arası 2–2 Yenicami AK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
- ücü TSK İlk Yarı 2–1 Yenicami AK
+ ücü TSK Devre Arası 2–2 Yenicami AK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25393@ktff-takvim
-DTSTAMP:20261114T121538Z
-SEQUENCE:4
+DTSTAMP:20261114T130101Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Cihangir GSK İlk Yarı 1–0 Değirmenlik SK
+SUMMARY:⚽ Cihangir GSK Devre Arası 1–0 Değirmenlik SK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25393\n📍 Ci
  hangir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macl
  ar/25393
@@ -1731,14 +1731,14 @@ STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İlk Yarı 1–0 Değ
- irmenlik SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK Devre Arası 1–0 De
+ ğirmenlik SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İlk Yarı
-  1–0 Değirmenlik SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK Devre Aras
+ ı 1–0 Değirmenlik SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

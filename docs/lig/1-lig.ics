@@ -1635,11 +1635,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25504@ktff-takvim
-DTSTAMP:20261114T124545Z
-SEQUENCE:6
+DTSTAMP:20261114T130104Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Çello Dikmen Gücü SK İlk Yarı 1–3 Lefke TSK
+SUMMARY:⚽ Çello Dikmen Gücü SK Devre Arası 1–3 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25504\n📍 Dikmen
   Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
  /ktff.org/maclar/25504
@@ -1649,24 +1649,24 @@ STATUS:CONFIRMED
 LOCATION:Dikmen Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İlk Yarı
-  1–3 Lefke TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK Devre Aras
+ ı 1–3 Lefke TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
-  İlk Yarı 1–3 Lefke TSK
+  Devre Arası 1–3 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25505@ktff-takvim
-DTSTAMP:20261114T121541Z
-SEQUENCE:3
+DTSTAMP:20261114T130104Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Gönyeli SK İlk Yarı 0–0 Göçmenköy İYSK
+SUMMARY:⚽ Gönyeli SK Devre Arası 0–0 Göçmenköy İYSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25505\n📍 Gönye
  li Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/2
  5505
@@ -1676,24 +1676,24 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İlk Yarı 0–0 Göç
- menköy İYSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK Devre Arası 0–0 Gö
+ çmenköy İYSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İlk Yarı 
- 0–0 Göçmenköy İYSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK Devre Aras
+ ı 0–0 Göçmenköy İYSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25507@ktff-takvim
-DTSTAMP:20261114T121541Z
-SEQUENCE:3
+DTSTAMP:20261114T130104Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ DND L. Gençler Birliği SK İlk Yarı 1–0 Mormenekşe GBSK
+SUMMARY:⚽ DND L. Gençler Birliği SK Devre Arası 1–0 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25507\n📍 İskel
  e Cumhuriyet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
  g/maclar/25507
@@ -1703,24 +1703,25 @@ STATUS:CONFIRMED
 LOCATION:İskele Cumhuriyet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK İlk Y
- arı 1–0 Mormenekşe GBSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK Devre 
+ Arası 1–0 Mormenekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
- i SK İlk Yarı 1–0 Mormenekşe GBSK
+ i SK Devre Arası 1–0 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25511@ktff-takvim
-DTSTAMP:20261114T124545Z
-SEQUENCE:4
+DTSTAMP:20261114T130104Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Yeniboğaziçi DSK İlk Yarı 1–0 M. Hacıali Yılmazköy SK
+SUMMARY:⚽ Yeniboğaziçi DSK Devre Arası 1–0 M. Hacıali Yılmazköy S
+ K
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25511
@@ -1730,14 +1731,14 @@ STATUS:CONFIRMED
 LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İlk Yarı 1–
- 0 M. Hacıali Yılmazköy SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK Devre Arası 1
+ –0 M. Hacıali Yılmazköy SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İlk
-  Yarı 1–0 M. Hacıali Yılmazköy SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK Devr
+ e Arası 1–0 M. Hacıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
