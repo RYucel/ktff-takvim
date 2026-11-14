@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gönyeli SK İlk Yarı Fikstürü
+X-WR-CALDESC:Gönyeli SK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25505@ktff-takvim
+DTSTAMP:20261114T121541Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:⚽ Gönyeli SK İlk Yarı 0–0 Göçmenköy İYSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25505\n📍 Gönye
+ li Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/2
+ 5505
+URL:https://ktff.org/maclar/25505
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gönyeli Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İlk Yarı 0–0 Göç
+ menköy İYSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İlk Yarı 
+ 0–0 Göçmenköy İYSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
