@@ -1635,27 +1635,55 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25504@ktff-takvim
-DTSTAMP:20261028T083842Z
-SEQUENCE:2
-DTSTART:20261114T120000Z
-DTEND:20261114T135000Z
-SUMMARY:⚽ Çello Dikmen Gücü SK – Lefke TSK
+DTSTAMP:20261114T120102Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:⚽ Çello Dikmen Gücü SK İlk Yarı 0–0 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25504\n📍 Dikmen
-  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25504
+  Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
+ /ktff.org/maclar/25504
 URL:https://ktff.org/maclar/25504
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Dikmen Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK – Lefke 
- TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İlk Yarı
+  0–0 Lefke TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
-  – Lefke TSK
+  İlk Yarı 0–0 Lefke TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25511@ktff-takvim
+DTSTAMP:20261114T120102Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:⚽ Yeniboğaziçi DSK İlk Yarı 0–0 M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
+  https://ktff.org/maclar/25511
+URL:https://ktff.org/maclar/25511
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İlk Yarı 0–
+ 0 M. Hacıali Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İlk
+  Yarı 0–0 M. Hacıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1707,32 +1735,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
  i SK – Mormenekşe GBSK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25511@ktff-takvim
-DTSTAMP:20261028T083842Z
-SEQUENCE:2
-DTSTART:20261114T120000Z
-DTEND:20261114T135000Z
-SUMMARY:⚽ Yeniboğaziçi DSK – M. Hacıali Yılmazköy SK
-DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
- ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25511
-URL:https://ktff.org/maclar/25511
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK – M. Hacıali
-  Yılmazköy SK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK – 
- M. Hacıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

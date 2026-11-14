@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:China Bazaar Gençlik Gücü TSK İlk Yarı Fikstürü
+X-WR-CALDESC:China Bazaar Gençlik Gücü TSK İlk Yarı maçları. Kaynak:
+  ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25392@ktff-takvim
+DTSTAMP:20261114T120059Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İlk Yarı 0–0 Yenicami AK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25392\n📍 Le
+ fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
+ .org/maclar/25392
+URL:https://ktff.org/maclar/25392
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lefkoşa Atatürk Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
+ İlk Yarı 0–0 Yenicami AK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
+ ücü TSK İlk Yarı 0–0 Yenicami AK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
