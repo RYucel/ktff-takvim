@@ -1142,12 +1142,12 @@
   "date": "2026-11-14",
   "time": null,
   "home_score": 1,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261114T131541Z",
+   "stamp": "20261114T134541Z",
    "venue_tries": 1
   }
  },
