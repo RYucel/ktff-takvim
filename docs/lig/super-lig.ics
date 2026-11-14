@@ -1663,11 +1663,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25390@ktff-takvim
-DTSTAMP:20261114T121538Z
-SEQUENCE:3
+DTSTAMP:20261114T123058Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Alsancak Yeşilova SK İlk Yarı 0–0 Küçük Kaymaklı TSK
+SUMMARY:⚽ Alsancak Yeşilova SK İlk Yarı 0–1 Küçük Kaymaklı TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25390\n📍 Al
  sancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25390
@@ -1678,23 +1678,23 @@ LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İlk Yarı 0
- –0 Küçük Kaymaklı TSK
+ –1 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- İlk Yarı 0–0 Küçük Kaymaklı TSK
+ İlk Yarı 0–1 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25392@ktff-takvim
-DTSTAMP:20261114T120059Z
-SEQUENCE:3
+DTSTAMP:20261114T123058Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İlk Yarı 0–0 Yenicami AK
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İlk Yarı 0–1 Yenicami AK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25392\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
  .org/maclar/25392
@@ -1705,13 +1705,13 @@ LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
- İlk Yarı 0–0 Yenicami AK
+ İlk Yarı 0–1 Yenicami AK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
- ücü TSK İlk Yarı 0–0 Yenicami AK
+ ücü TSK İlk Yarı 0–1 Yenicami AK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

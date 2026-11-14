@@ -1142,12 +1142,12 @@
   "date": "2026-11-14",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261114T121538Z",
+   "stamp": "20261114T123058Z",
    "venue_tries": 1
   }
  },
@@ -1178,12 +1178,12 @@
   "date": "2026-11-14",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261114T120059Z",
+   "stamp": "20261114T123058Z",
    "venue_tries": 1
   }
  },
@@ -3032,12 +3032,12 @@
   "date": "2026-11-14",
   "time": null,
   "home_score": 0,
-  "away_score": 2,
+  "away_score": 3,
   "status": null,
   "venue": "Dikmen Dr. Fazıl Küçük Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261114T121541Z",
+   "stamp": "20261114T123101Z",
    "venue_tries": 1
   }
  },
