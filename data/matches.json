@@ -1178,12 +1178,12 @@
   "date": "2026-11-14",
   "time": null,
   "home_score": 2,
-  "away_score": 2,
+  "away_score": 3,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261114T131541Z",
+   "stamp": "20261114T133055Z",
    "venue_tries": 1
   }
  },
@@ -3031,13 +3031,13 @@
   "away": "Lefke TSK",
   "date": "2026-11-14",
   "time": null,
-  "home_score": 1,
-  "away_score": 3,
+  "home_score": 2,
+  "away_score": 4,
   "status": null,
   "venue": "Dikmen Dr. Fazıl Küçük Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261114T131544Z",
+   "stamp": "20261114T133058Z",
    "venue_tries": 1
   }
  },
@@ -3049,13 +3049,13 @@
   "away": "Göçmenköy İYSK",
   "date": "2026-11-14",
   "time": null,
-  "home_score": 0,
-  "away_score": 0,
+  "home_score": 1,
+  "away_score": 1,
   "status": null,
   "venue": "Gönyeli Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261114T131544Z",
+   "stamp": "20261114T133058Z",
    "venue_tries": 1
   }
  },
@@ -3140,12 +3140,12 @@
   "date": "2026-11-14",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261114T131544Z",
+   "stamp": "20261114T133058Z",
    "venue_tries": 1
   }
  },

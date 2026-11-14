@@ -1691,11 +1691,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25392@ktff-takvim
-DTSTAMP:20261114T131541Z
-SEQUENCE:7
+DTSTAMP:20261114T133055Z
+SEQUENCE:8
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İkinci Yarı 2–2 Yenicami A
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İkinci Yarı 2–3 Yenicami A
  K
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25392\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
@@ -1707,13 +1707,13 @@ LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
- İkinci Yarı 2–2 Yenicami AK
+ İkinci Yarı 2–3 Yenicami AK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
- ücü TSK İkinci Yarı 2–2 Yenicami AK
+ ücü TSK İkinci Yarı 2–3 Yenicami AK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

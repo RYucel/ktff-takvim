@@ -1635,11 +1635,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25504@ktff-takvim
-DTSTAMP:20261114T131544Z
-SEQUENCE:8
+DTSTAMP:20261114T133058Z
+SEQUENCE:9
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Çello Dikmen Gücü SK İkinci Yarı 1–3 Lefke TSK
+SUMMARY:⚽ Çello Dikmen Gücü SK İkinci Yarı 2–4 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25504\n📍 Dikmen
   Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
  /ktff.org/maclar/25504
@@ -1650,23 +1650,23 @@ LOCATION:Dikmen Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İkinci Ya
- rı 1–3 Lefke TSK
+ rı 2–4 Lefke TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
-  İkinci Yarı 1–3 Lefke TSK
+  İkinci Yarı 2–4 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25505@ktff-takvim
-DTSTAMP:20261114T131544Z
-SEQUENCE:5
+DTSTAMP:20261114T133058Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Gönyeli SK İkinci Yarı 0–0 Göçmenköy İYSK
+SUMMARY:⚽ Gönyeli SK İkinci Yarı 1–1 Göçmenköy İYSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25505\n📍 Gönye
  li Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/2
  5505
@@ -1676,14 +1676,14 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 0–0 G
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 1–1 G
  öçmenköy İYSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İkinci Yar
- ı 0–0 Göçmenköy İYSK
+ ı 1–1 Göçmenköy İYSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
@@ -1717,11 +1717,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25511@ktff-takvim
-DTSTAMP:20261114T131544Z
-SEQUENCE:6
+DTSTAMP:20261114T133058Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 1–0 M. Hacıali Yılmazköy 
+SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 1–1 M. Hacıali Yılmazköy 
  SK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
@@ -1733,13 +1733,13 @@ LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 1
- –0 M. Hacıali Yılmazköy SK
+ –1 M. Hacıali Yılmazköy SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İki
- nci Yarı 1–0 M. Hacıali Yılmazköy SK
+ nci Yarı 1–1 M. Hacıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

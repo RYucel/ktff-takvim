@@ -244,11 +244,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25505@ktff-takvim
-DTSTAMP:20261114T131544Z
-SEQUENCE:5
+DTSTAMP:20261114T133058Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Gönyeli SK İkinci Yarı 0–0 Göçmenköy İYSK
+SUMMARY:⚽ Gönyeli SK İkinci Yarı 1–1 Göçmenköy İYSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25505\n📍 Gönye
  li Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/2
  5505
@@ -258,14 +258,14 @@ STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 0–0 G
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 1–1 G
  öçmenköy İYSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İkinci Yar
- ı 0–0 Göçmenköy İYSK
+ ı 1–1 Göçmenköy İYSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
