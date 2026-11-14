@@ -3,18 +3,20 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Alsancak Yeşilova SK Devre Arası Fikstürü
-X-WR-CALDESC:Alsancak Yeşilova SK Devre Arası maçları. Kaynak: ktff.org
+X-WR-CALNAME:Alsancak Yeşilova SK İkinci Yarı Fikstürü
+X-WR-CALDESC:Alsancak Yeşilova SK İkinci Yarı maçları. Kaynak: ktff.or
+ g
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25390@ktff-takvim
-DTSTAMP:20261114T130101Z
-SEQUENCE:6
+DTSTAMP:20261114T131541Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Alsancak Yeşilova SK Devre Arası 1–1 Küçük Kaymaklı TSK
+SUMMARY:⚽ Alsancak Yeşilova SK İkinci Yarı 1–1 Küçük Kaymaklı TS
+ K
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25390\n📍 Al
  sancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25390
@@ -24,14 +26,14 @@ STATUS:CONFIRMED
 LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK Devre Arası
-  1–1 Küçük Kaymaklı TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İkinci Yar
+ ı 1–1 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK D
- evre Arası 1–1 Küçük Kaymaklı TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ İkinci Yarı 1–1 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

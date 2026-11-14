@@ -217,11 +217,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25393@ktff-takvim
-DTSTAMP:20261114T130101Z
-SEQUENCE:5
+DTSTAMP:20261114T131541Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Cihangir GSK Devre Arası 1–0 Değirmenlik SK
+SUMMARY:⚽ Cihangir GSK İkinci Yarı 1–0 Değirmenlik SK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25393\n📍 Ci
  hangir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macl
  ar/25393
@@ -231,14 +231,14 @@ STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK Devre Arası 1–0 De
- ğirmenlik SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 1–0 D
+ eğirmenlik SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK Devre Aras
- ı 1–0 Değirmenlik SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İkinci Ya
+ rı 1–0 Değirmenlik SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
