@@ -216,6 +216,32 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ktff-25511@ktff-takvim
+DTSTAMP:20261114T140102Z
+SEQUENCE:8
+DTSTART:20261114T120000Z
+DTEND:20261114T135000Z
+SUMMARY:⚽ Yeniboğaziçi DSK 2–1 M. Hacıali Yılmazköy SK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25511
+URL:https://ktff.org/maclar/25511
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK 2–1 M. Hacıa
+ li Yılmazköy SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK 2–
+ 1 M. Hacıali Yılmazköy SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ktff-25519@ktff-takvim
 DTSTAMP:20261111T074559Z
 SEQUENCE:2

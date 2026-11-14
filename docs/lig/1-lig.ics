@@ -1635,111 +1635,105 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25504@ktff-takvim
-DTSTAMP:20261114T133058Z
-SEQUENCE:9
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Çello Dikmen Gücü SK İkinci Yarı 2–4 Lefke TSK
+DTSTAMP:20261114T140102Z
+SEQUENCE:10
+DTSTART:20261114T120000Z
+DTEND:20261114T135000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK 2–5 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25504\n📍 Dikmen
-  Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
- /ktff.org/maclar/25504
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25504
 URL:https://ktff.org/maclar/25504
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Dikmen Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İkinci Ya
- rı 2–4 Lefke TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK 2–5 Lefk
+ e TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
-  İkinci Yarı 2–4 Lefke TSK
+  2–5 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25505@ktff-takvim
-DTSTAMP:20261114T133058Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Gönyeli SK İkinci Yarı 1–1 Göçmenköy İYSK
+DTSTAMP:20261114T140102Z
+SEQUENCE:7
+DTSTART:20261114T120000Z
+DTEND:20261114T135000Z
+SUMMARY:⚽ Gönyeli SK 2–2 Göçmenköy İYSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25505\n📍 Gönye
- li Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar/2
- 5505
+ li Stadı\n🔗 https://ktff.org/maclar/25505
 URL:https://ktff.org/maclar/25505
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gönyeli Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK İkinci Yarı 1–1 G
- öçmenköy İYSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Gönyeli SK 2–2 Göçmenköy İY
+ SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK İkinci Yar
- ı 1–1 Göçmenköy İYSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Gönyeli SK 2–2 Göç
+ menköy İYSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25507@ktff-takvim
-DTSTAMP:20261114T131544Z
-SEQUENCE:5
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ DND L. Gençler Birliği SK İkinci Yarı 1–0 Mormenekşe GBS
- K
+DTSTAMP:20261114T140102Z
+SEQUENCE:6
+DTSTART:20261114T120000Z
+DTEND:20261114T135000Z
+SUMMARY:⚽ DND L. Gençler Birliği SK 1–0 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25507\n📍 İskel
- e Cumhuriyet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
- g/maclar/25507
+ e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25507
 URL:https://ktff.org/maclar/25507
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:İskele Cumhuriyet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK İkinc
- i Yarı 1–0 Mormenekşe GBSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK 1–0 
+ Mormenekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
- i SK İkinci Yarı 1–0 Mormenekşe GBSK
+ i SK 1–0 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25511@ktff-takvim
-DTSTAMP:20261114T133058Z
-SEQUENCE:7
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 1–1 M. Hacıali Yılmazköy 
- SK
+DTSTAMP:20261114T140102Z
+SEQUENCE:8
+DTSTART:20261114T120000Z
+DTEND:20261114T135000Z
+SUMMARY:⚽ Yeniboğaziçi DSK 2–1 M. Hacıali Yılmazköy SK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25511\n📍 Yenibo
- ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
-  https://ktff.org/maclar/25511
+ ğaziçi Osman Ergün Mehmet Stadı\n🔗 https://ktff.org/maclar/25511
 URL:https://ktff.org/maclar/25511
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 1
- –1 M. Hacıali Yılmazköy SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK 2–1 M. Hacıa
+ li Yılmazköy SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İki
- nci Yarı 1–1 M. Hacıali Yılmazköy SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK 2–
+ 1 M. Hacıali Yılmazköy SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

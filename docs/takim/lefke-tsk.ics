@@ -238,28 +238,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25504@ktff-takvim
-DTSTAMP:20261114T133058Z
-SEQUENCE:9
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:⚽ Çello Dikmen Gücü SK İkinci Yarı 2–4 Lefke TSK
+DTSTAMP:20261114T140102Z
+SEQUENCE:10
+DTSTART:20261114T120000Z
+DTEND:20261114T135000Z
+SUMMARY:⚽ Çello Dikmen Gücü SK 2–5 Lefke TSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25504\n📍 Dikmen
-  Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
- /ktff.org/maclar/25504
+  Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25504
 URL:https://ktff.org/maclar/25504
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Dikmen Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK İkinci Ya
- rı 2–4 Lefke TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çello Dikmen Gücü SK 2–5 Lefk
+ e TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çello Dikmen Gücü SK
-  İkinci Yarı 2–4 Lefke TSK
+  2–5 Lefke TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

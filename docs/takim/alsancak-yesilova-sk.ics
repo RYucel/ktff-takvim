@@ -217,6 +217,32 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ktff-25390@ktff-takvim
+DTSTAMP:20261114T140059Z
+SEQUENCE:9
+DTSTART:20261114T120000Z
+DTEND:20261114T135000Z
+SUMMARY:⚽ Alsancak Yeşilova SK 1–2 Küçük Kaymaklı TSK
+DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25390\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25390
+URL:https://ktff.org/maclar/25390
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK 1–2 Küç
+ ük Kaymaklı TSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 1
+ –2 Küçük Kaymaklı TSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ktff-25400@ktff-takvim
 DTSTAMP:20261111T074556Z
 SEQUENCE:2
