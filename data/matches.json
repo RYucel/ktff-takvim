@@ -1159,13 +1159,13 @@
   "away": "Baf Ülkü Yurdu",
   "date": "2026-11-15",
   "time": null,
-  "home_score": 2,
+  "home_score": 3,
   "away_score": 0,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261115T121544Z",
+   "stamp": "20261115T124544Z",
    "venue_tries": 1
   }
  },
@@ -1249,13 +1249,13 @@
   "away": "Esentepe KSKK",
   "date": "2026-11-15",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261115T121544Z",
+   "stamp": "20261115T124544Z",
    "venue_tries": 1
   }
  },
@@ -3104,12 +3104,12 @@
   "date": "2026-11-15",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261115T123058Z",
+   "stamp": "20261115T124546Z",
    "venue_tries": 1
   }
  },

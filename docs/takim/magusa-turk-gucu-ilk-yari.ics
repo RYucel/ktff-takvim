@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25396@ktff-takvim
-DTSTAMP:20261115T121544Z
-SEQUENCE:3
+DTSTAMP:20261115T124544Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:⚽ Mağusa Türk Gücü İlk Yarı 1–0 Esentepe KSKK
+SUMMARY:⚽ Mağusa Türk Gücü İlk Yarı 2–0 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25396\n📍 Ga
  zimağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25396
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü İlk Yarı 1
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü İlk Yarı 2
  –0 Esentepe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü İ
- lk Yarı 1–0 Esentepe KSKK
+ lk Yarı 2–0 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
