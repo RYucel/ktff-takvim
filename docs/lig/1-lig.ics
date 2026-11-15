@@ -1739,11 +1739,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25508@ktff-takvim
-DTSTAMP:20261115T131546Z
-SEQUENCE:5
+DTSTAMP:20261115T133055Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:⚽ Lapta Türk Birliği SK İkinci Yarı 4–1 Geçitkale GSK
+SUMMARY:⚽ Lapta Türk Birliği SK İkinci Yarı 5–1 Geçitkale GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25508\n📍 Lapta 
  Şht. Şevket Kadir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
  ktff.org/maclar/25508
@@ -1754,23 +1754,23 @@ LOCATION:Lapta Şht. Şevket Kadir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK İkinci Ya
- rı 4–1 Geçitkale GSK
+ rı 5–1 Geçitkale GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  İkinci Yarı 4–1 Geçitkale GSK
+  İkinci Yarı 5–1 Geçitkale GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25509@ktff-takvim
-DTSTAMP:20261115T131546Z
-SEQUENCE:7
+DTSTAMP:20261115T133055Z
+SEQUENCE:8
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:⚽ Maraş GSK İkinci Yarı 1–3 Akdoğan SK
+SUMMARY:⚽ Maraş GSK İkinci Yarı 3–3 Akdoğan SK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25509\n📍 Maraş
   Necip Halil Kartal Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
  ktff.org/maclar/25509
@@ -1780,14 +1780,14 @@ STATUS:CONFIRMED
 LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İkinci Yarı 1–3 Akd
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İkinci Yarı 3–3 Akd
  oğan SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İkinci Yar
- ı 1–3 Akdoğan SK
+ ı 3–3 Akdoğan SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
