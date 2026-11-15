@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25510@ktff-takvim
-DTSTAMP:20261115T130103Z
-SEQUENCE:4
+DTSTAMP:20261115T131546Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:⚽ Karaoğlanoğlu SK İkinci Yarı 0–0 Düzkaya KOSK
+SUMMARY:⚽ Karaoğlanoğlu SK İkinci Yarı 1–0 Düzkaya KOSK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25510\n📍 Karao
  ğlanoğlu Orhan Dural Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https
  ://ktff.org/maclar/25510
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Karaoğlanoğlu Orhan Dural Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK İkinci Yarı 0
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karaoğlanoğlu SK İkinci Yarı 1
  –0 Düzkaya KOSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK İki
- nci Yarı 0–0 Düzkaya KOSK
+ nci Yarı 1–0 Düzkaya KOSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -1155,17 +1155,17 @@
   "match_no": 25391,
   "league": "super-lig",
   "week": 10,
-  "home": "Aslanköy GSD Devre Arası",
+  "home": "Aslanköy GSD İkinci Yarı",
   "away": "Baf Ülkü Yurdu",
   "date": "2026-11-15",
   "time": null,
-  "home_score": 3,
+  "home_score": 4,
   "away_score": 0,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261115T130100Z",
+   "stamp": "20261115T131543Z",
    "venue_tries": 1
   }
  },
@@ -1245,7 +1245,7 @@
   "match_no": 25396,
   "league": "super-lig",
   "week": 10,
-  "home": "Mağusa Türk Gücü Devre Arası",
+  "home": "Mağusa Türk Gücü İkinci Yarı",
   "away": "Esentepe KSKK",
   "date": "2026-11-15",
   "time": null,
@@ -1253,9 +1253,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261115T130100Z",
+   "stamp": "20261115T131543Z",
    "venue_tries": 1
   }
  },
@@ -3081,17 +3081,17 @@
   "match_no": 25508,
   "league": "1-lig",
   "week": 10,
-  "home": "Lapta Türk Birliği SK Devre Arası",
+  "home": "Lapta Türk Birliği SK İkinci Yarı",
   "away": "Geçitkale GSK",
   "date": "2026-11-15",
   "time": null,
-  "home_score": 2,
+  "home_score": 4,
   "away_score": 1,
   "status": null,
   "venue": "Lapta Şht. Şevket Kadir Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261115T130103Z",
+   "stamp": "20261115T131546Z",
    "venue_tries": 1
   }
  },
@@ -3099,17 +3099,17 @@
   "match_no": 25509,
   "league": "1-lig",
   "week": 10,
-  "home": "Maraş GSK Devre Arası",
+  "home": "Maraş GSK İkinci Yarı",
   "away": "Akdoğan SK",
   "date": "2026-11-15",
   "time": null,
   "home_score": 1,
-  "away_score": 1,
+  "away_score": 3,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261115T130103Z",
+   "stamp": "20261115T131546Z",
    "venue_tries": 1
   }
  },
@@ -3121,13 +3121,13 @@
   "away": "Düzkaya KOSK",
   "date": "2026-11-15",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Karaoğlanoğlu Orhan Dural Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261115T130103Z",
+   "stamp": "20261115T131546Z",
    "venue_tries": 1
   }
  },
