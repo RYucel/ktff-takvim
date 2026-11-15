@@ -1740,52 +1740,55 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25391@ktff-takvim
-DTSTAMP:20261028T083832Z
-SEQUENCE:2
-DTSTART:20261115T120000Z
-DTEND:20261115T135000Z
-SUMMARY:⚽ Aslanköy GSD – Baf Ülkü Yurdu
+DTSTAMP:20261115T121544Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:⚽ Aslanköy GSD İlk Yarı 2–0 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25391\n📍 Ga
- ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25391
+ ziköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
+ rg/maclar/25391
 URL:https://ktff.org/maclar/25391
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Baf Ülkü Yurdu
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İlk Yarı 2–0 Baf
+  Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Baf 
- Ülkü Yurdu
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İlk Yar
+ ı 2–0 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25396@ktff-takvim
-DTSTAMP:20261028T083832Z
-SEQUENCE:2
-DTSTART:20261115T120000Z
-DTEND:20261115T135000Z
-SUMMARY:⚽ Mağusa Türk Gücü – Esentepe KSKK
+DTSTAMP:20261115T121544Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:⚽ Mağusa Türk Gücü İlk Yarı 1–0 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25396\n📍 Ga
- zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25396
+ zimağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n
+ 🔗 https://ktff.org/maclar/25396
 URL:https://ktff.org/maclar/25396
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü – Esentepe 
- KSKK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mağusa Türk Gücü İlk Yarı 1
+ –0 Esentepe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü 
- – Esentepe KSKK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mağusa Türk Gücü İ
+ lk Yarı 1–0 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

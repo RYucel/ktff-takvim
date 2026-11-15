@@ -1738,6 +1738,33 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ktff-25508@ktff-takvim
+DTSTAMP:20261115T121547Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:⚽ Lapta Türk Birliği SK İlk Yarı 2–0 Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25508\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
+ ktff.org/maclar/25508
+URL:https://ktff.org/maclar/25508
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK İlk Yarı
+  2–0 Geçitkale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  İlk Yarı 2–0 Geçitkale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ktff-25509@ktff-takvim
 DTSTAMP:20261115T120102Z
 SEQUENCE:3
@@ -1788,32 +1815,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karaoğlanoğlu SK İlk
   Yarı 0–0 Düzkaya KOSK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25508@ktff-takvim
-DTSTAMP:20261028T083842Z
-SEQUENCE:2
-DTSTART:20261115T120000Z
-DTEND:20261115T135000Z
-SUMMARY:⚽ Lapta Türk Birliği SK – Geçitkale GSK
-DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25508\n📍 Lapta 
- Şht. Şevket Kadir Stadı\n🔗 https://ktff.org/maclar/25508
-URL:https://ktff.org/maclar/25508
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Lapta Şht. Şevket Kadir Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK – Geçit
- kale GSK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
-  – Geçitkale GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

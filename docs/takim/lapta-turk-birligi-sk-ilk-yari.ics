@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lapta Türk Birliği SK İlk Yarı Fikstürü
+X-WR-CALDESC:Lapta Türk Birliği SK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25508@ktff-takvim
+DTSTAMP:20261115T121547Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:⚽ Lapta Türk Birliği SK İlk Yarı 2–0 Geçitkale GSK
+DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25508\n📍 Lapta 
+ Şht. Şevket Kadir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
+ ktff.org/maclar/25508
+URL:https://ktff.org/maclar/25508
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Lapta Şht. Şevket Kadir Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lapta Türk Birliği SK İlk Yarı
+  2–0 Geçitkale GSK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lapta Türk Birliği SK
+  İlk Yarı 2–0 Geçitkale GSK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
