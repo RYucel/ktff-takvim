@@ -1155,7 +1155,7 @@
   "match_no": 25391,
   "league": "super-lig",
   "week": 10,
-  "home": "Aslanköy GSD İlk Yarı",
+  "home": "Aslanköy GSD Devre Arası",
   "away": "Baf Ülkü Yurdu",
   "date": "2026-11-15",
   "time": null,
@@ -1163,9 +1163,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261115T124544Z",
+   "stamp": "20261115T130100Z",
    "venue_tries": 1
   }
  },
@@ -1245,7 +1245,7 @@
   "match_no": 25396,
   "league": "super-lig",
   "week": 10,
-  "home": "Mağusa Türk Gücü İlk Yarı",
+  "home": "Mağusa Türk Gücü Devre Arası",
   "away": "Esentepe KSKK",
   "date": "2026-11-15",
   "time": null,
@@ -1253,9 +1253,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261115T124544Z",
+   "stamp": "20261115T130100Z",
    "venue_tries": 1
   }
  },
@@ -3081,17 +3081,17 @@
   "match_no": 25508,
   "league": "1-lig",
   "week": 10,
-  "home": "Lapta Türk Birliği SK İlk Yarı",
+  "home": "Lapta Türk Birliği SK Devre Arası",
   "away": "Geçitkale GSK",
   "date": "2026-11-15",
   "time": null,
   "home_score": 2,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Lapta Şht. Şevket Kadir Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261115T121547Z",
+   "stamp": "20261115T130103Z",
    "venue_tries": 1
   }
  },
@@ -3099,7 +3099,7 @@
   "match_no": 25509,
   "league": "1-lig",
   "week": 10,
-  "home": "Maraş GSK İlk Yarı",
+  "home": "Maraş GSK Devre Arası",
   "away": "Akdoğan SK",
   "date": "2026-11-15",
   "time": null,
@@ -3107,9 +3107,9 @@
   "away_score": 1,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261115T124546Z",
+   "stamp": "20261115T130103Z",
    "venue_tries": 1
   }
  },
@@ -3117,7 +3117,7 @@
   "match_no": 25510,
   "league": "1-lig",
   "week": 10,
-  "home": "Karaoğlanoğlu SK İlk Yarı",
+  "home": "Karaoğlanoğlu SK İkinci Yarı",
   "away": "Düzkaya KOSK",
   "date": "2026-11-15",
   "time": null,
@@ -3125,9 +3125,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Karaoğlanoğlu Orhan Dural Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261115T120102Z",
+   "stamp": "20261115T130103Z",
    "venue_tries": 1
   }
  },

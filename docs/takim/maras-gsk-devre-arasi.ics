@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Maraş GSK İlk Yarı Fikstürü
-X-WR-CALDESC:Maraş GSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Maraş GSK Devre Arası Fikstürü
+X-WR-CALDESC:Maraş GSK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25509@ktff-takvim
-DTSTAMP:20261115T124546Z
-SEQUENCE:5
+DTSTAMP:20261115T130103Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:⚽ Maraş GSK İlk Yarı 1–1 Akdoğan SK
+SUMMARY:⚽ Maraş GSK Devre Arası 1–1 Akdoğan SK
 DESCRIPTION:🏆 AKSA 1. Lig · 10. Hafta\n🔢 Maç No: 25509\n📍 Maraş
   Necip Halil Kartal Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
  ktff.org/maclar/25509
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Maraş Necip Halil Kartal Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK İlk Yarı 1–1 Akdoğ
- an SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Maraş GSK Devre Arası 1–1 Akdo
+ ğan SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK İlk Yarı 1
- –1 Akdoğan SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Maraş GSK Devre Arası
+  1–1 Akdoğan SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
