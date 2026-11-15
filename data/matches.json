@@ -1159,13 +1159,13 @@
   "away": "Baf Ülkü Yurdu",
   "date": "2026-11-15",
   "time": null,
-  "home_score": 6,
+  "home_score": 8,
   "away_score": 1,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261115T133052Z",
+   "stamp": "20261115T134539Z",
    "venue_tries": 1
   }
  },
@@ -3103,13 +3103,13 @@
   "away": "Akdoğan SK",
   "date": "2026-11-15",
   "time": null,
-  "home_score": 3,
+  "home_score": 4,
   "away_score": 3,
   "status": null,
   "venue": "Maraş Necip Halil Kartal Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261115T133055Z",
+   "stamp": "20261115T134542Z",
    "venue_tries": 1
   }
  },

@@ -1740,11 +1740,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25391@ktff-takvim
-DTSTAMP:20261115T133052Z
-SEQUENCE:7
+DTSTAMP:20261115T134539Z
+SEQUENCE:8
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:⚽ Aslanköy GSD İkinci Yarı 6–1 Baf Ülkü Yurdu
+SUMMARY:⚽ Aslanköy GSD İkinci Yarı 8–1 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25391\n📍 Ga
  ziköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
  rg/maclar/25391
@@ -1754,14 +1754,14 @@ STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İkinci Yarı 6–1 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İkinci Yarı 8–1 
  Baf Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İkinci Y
- arı 6–1 Baf Ülkü Yurdu
+ arı 8–1 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
