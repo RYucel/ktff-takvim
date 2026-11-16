@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25394@ktff-takvim
-DTSTAMP:20261116T171549Z
-SEQUENCE:3
+DTSTAMP:20261116T174544Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 0–0 Karşıyaka SK
+SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 1–1 Karşıyaka SK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25394\n📍 Gi
  rne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
  ttps://ktff.org/maclar/25394
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 0
- –0 Karşıyaka SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 1
+ –1 Karşıyaka SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İlk Yarı 0–0 Karşıyaka SK
+ İlk Yarı 1–1 Karşıyaka SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -1213,13 +1213,13 @@
   "away": "Karşıyaka SK",
   "date": "2026-11-16",
   "time": null,
-  "home_score": 0,
-  "away_score": 0,
+  "home_score": 1,
+  "away_score": 1,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261116T171549Z",
+   "stamp": "20261116T174544Z",
    "venue_tries": 1
   }
  },
