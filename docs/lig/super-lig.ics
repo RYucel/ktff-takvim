@@ -1792,28 +1792,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25394@ktff-takvim
-DTSTAMP:20261116T181552Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:⚽ Doğan Türk Birliği İkinci Yarı 3–1 Karşıyaka SK
+DTSTAMP:20261116T190113Z
+SEQUENCE:7
+DTSTART:20261116T170000Z
+DTEND:20261116T185000Z
+SUMMARY:⚽ Doğan Türk Birliği 3–2 Karşıyaka SK
 DESCRIPTION:🏆 AKSA Süper Lig · 10. Hafta\n🔢 Maç No: 25394\n📍 Gi
- rne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
- ttps://ktff.org/maclar/25394
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25394
 URL:https://ktff.org/maclar/25394
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İkinci Yar
- ı 3–1 Karşıyaka SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği 3–2 Karş
+ ıyaka SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İkinci Yarı 3–1 Karşıyaka SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 3
+ –2 Karşıyaka SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
