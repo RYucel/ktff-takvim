@@ -1209,17 +1209,17 @@
   "match_no": 25394,
   "league": "super-lig",
   "week": 10,
-  "home": "Doğan Türk Birliği Devre Arası",
+  "home": "Doğan Türk Birliği İkinci Yarı",
   "away": "Karşıyaka SK",
   "date": "2026-11-16",
   "time": null,
-  "home_score": 1,
+  "home_score": 3,
   "away_score": 1,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261116T180109Z",
+   "stamp": "20261116T181552Z",
    "venue_tries": 1
   }
  },
