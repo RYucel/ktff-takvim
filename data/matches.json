@@ -1299,17 +1299,17 @@
   "match_no": 25399,
   "league": "super-lig",
   "week": 11,
-  "home": "Yenicami AK İkinci Yarı",
+  "home": "Yenicami AK",
   "away": "Dumlupınar TSK",
   "date": "2026-11-20",
-  "time": null,
+  "time": "19:00",
   "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261120T181549Z",
+   "stamp": "20261120T190105Z",
    "venue_tries": 1
   }
  },
