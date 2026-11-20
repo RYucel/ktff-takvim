@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Yenicami AK Devre Arası Fikstürü
-X-WR-CALDESC:Yenicami AK Devre Arası maçları. Kaynak: ktff.org
+X-WR-CALNAME:Yenicami AK İkinci Yarı Fikstürü
+X-WR-CALDESC:Yenicami AK İkinci Yarı maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25399@ktff-takvim
-DTSTAMP:20261120T180111Z
-SEQUENCE:5
+DTSTAMP:20261120T181549Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:⚽ Yenicami AK Devre Arası 1–0 Dumlupınar TSK
+SUMMARY:⚽ Yenicami AK İkinci Yarı 1–0 Dumlupınar TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25399\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
  .org/maclar/25399
@@ -24,13 +24,13 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK Devre Arası 1–0 Dum
- lupınar TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK İkinci Yarı 1–0 Du
+ mlupınar TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK Devre Aras
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK İkinci Yar
  ı 1–0 Dumlupınar TSK
 TRIGGER:-PT15M
 END:VALARM
