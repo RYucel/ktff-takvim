@@ -1303,13 +1303,13 @@
   "away": "Dumlupınar TSK",
   "date": "2026-11-20",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261120T170105Z",
+   "stamp": "20261120T173057Z",
    "venue_tries": 1
   }
  },
