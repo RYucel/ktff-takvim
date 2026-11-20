@@ -1818,11 +1818,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25399@ktff-takvim
-DTSTAMP:20261120T173057Z
-SEQUENCE:4
+DTSTAMP:20261120T180111Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:⚽ Yenicami AK İlk Yarı 1–0 Dumlupınar TSK
+SUMMARY:⚽ Yenicami AK Devre Arası 1–0 Dumlupınar TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25399\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
  .org/maclar/25399
@@ -1832,14 +1832,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK İlk Yarı 1–0 Dumlu
- pınar TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yenicami AK Devre Arası 1–0 Dum
+ lupınar TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK İlk Yarı 
- 1–0 Dumlupınar TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yenicami AK Devre Aras
+ ı 1–0 Dumlupınar TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
