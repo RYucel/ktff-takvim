@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25400@ktff-takvim
-DTSTAMP:20261121T130102Z
-SEQUENCE:5
+DTSTAMP:20261121T134550Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Değirmenlik SK İkinci Yarı 1–1 Alsancak Yeşilova SK
+SUMMARY:⚽ Değirmenlik SK İkinci Yarı 1–2 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25400\n📍 De
  ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
  s://ktff.org/maclar/25400
@@ -25,13 +25,13 @@ LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İkinci Yarı 1–
- 1 Alsancak Yeşilova SK
+ 2 Alsancak Yeşilova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İkinci
-  Yarı 1–1 Alsancak Yeşilova SK
+  Yarı 1–2 Alsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
