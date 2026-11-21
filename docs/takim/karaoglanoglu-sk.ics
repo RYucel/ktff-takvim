@@ -243,29 +243,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25518@ktff-takvim
-DTSTAMP:20261121T133058Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ M. Hacıali Yılmazköy SK İkinci Yarı 0–1 Karaoğlanoğlu 
- SK
+DTSTAMP:20261121T140107Z
+SEQUENCE:7
+DTSTART:20261121T120000Z
+DTEND:20261121T135000Z
+SUMMARY:⚽ M. Hacıali Yılmazköy SK 1–1 Karaoğlanoğlu SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25518\n📍 Yılma
- zköy Mustafa Üçöz Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:
- //ktff.org/maclar/25518
+ zköy Mustafa Üçöz Stadı\n🔗 https://ktff.org/maclar/25518
 URL:https://ktff.org/maclar/25518
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Yılmazköy Mustafa Üçöz Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK İkinci
-  Yarı 0–1 Karaoğlanoğlu SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ M. Hacıali Yılmazköy SK 1–1 K
+ araoğlanoğlu SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ M. Hacıali Yılmazköy
-  SK İkinci Yarı 0–1 Karaoğlanoğlu SK
+  SK 1–1 Karaoğlanoğlu SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

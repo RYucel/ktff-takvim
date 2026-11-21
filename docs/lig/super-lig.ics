@@ -1843,83 +1843,78 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25398@ktff-takvim
-DTSTAMP:20261121T134550Z
-SEQUENCE:9
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Baf Ülkü Yurdu İkinci Yarı 0–6 China Bazaar Gençlik Güc
- ü TSK
+DTSTAMP:20261121T140104Z
+SEQUENCE:10
+DTSTART:20261121T120000Z
+DTEND:20261121T135000Z
+SUMMARY:⚽ Baf Ülkü Yurdu 0–6 China Bazaar Gençlik Gücü TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25398\n📍 G
- üzelyurt Üner Berkalp Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
- s://ktff.org/maclar/25398
+ üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25398
 URL:https://ktff.org/maclar/25398
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İkinci Yarı 0
- –6 China Bazaar Gençlik Gücü TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu 0–6 China Bazaa
+ r Gençlik Gücü TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu İkinc
- i Yarı 0–6 China Bazaar Gençlik Gücü TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu 0–6 
+ China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25400@ktff-takvim
-DTSTAMP:20261121T134550Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Değirmenlik SK İkinci Yarı 1–2 Alsancak Yeşilova SK
+DTSTAMP:20261121T140104Z
+SEQUENCE:7
+DTSTART:20261121T120000Z
+DTEND:20261121T135000Z
+SUMMARY:⚽ Değirmenlik SK 1–2 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25400\n📍 De
- ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
- s://ktff.org/maclar/25400
+ ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25400
 URL:https://ktff.org/maclar/25400
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İkinci Yarı 1–
- 2 Alsancak Yeşilova SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK 1–2 Alsancak Ye
+ şilova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İkinci
-  Yarı 1–2 Alsancak Yeşilova SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK 1–2 A
+ lsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25403@ktff-takvim
-DTSTAMP:20261121T133055Z
-SEQUENCE:6
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Esentepe KSKK İkinci Yarı 1–1 Çetinkaya TSK
+DTSTAMP:20261121T140104Z
+SEQUENCE:7
+DTSTART:20261121T120000Z
+DTEND:20261121T135000Z
+SUMMARY:⚽ Esentepe KSKK 1–1 Çetinkaya TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25403\n📍 Es
- entepe Erdal Barut Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://k
- tff.org/maclar/25403
+ entepe Erdal Barut Stadı\n🔗 https://ktff.org/maclar/25403
 URL:https://ktff.org/maclar/25403
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Esentepe Erdal Barut Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İkinci Yarı 1–1 
- Çetinkaya TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK 1–1 Çetinkaya TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İkinci Y
- arı 1–1 Çetinkaya TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK 1–1 Çe
+ tinkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

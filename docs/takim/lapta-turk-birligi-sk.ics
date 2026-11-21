@@ -244,28 +244,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25516@ktff-takvim
-DTSTAMP:20261121T134553Z
-SEQUENCE:9
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Akdoğan SK İkinci Yarı 0–7 Lapta Türk Birliği SK
+DTSTAMP:20261121T140107Z
+SEQUENCE:10
+DTSTART:20261121T120000Z
+DTEND:20261121T135000Z
+SUMMARY:⚽ Akdoğan SK 0–7 Lapta Türk Birliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25516\n📍 Akdoğ
- an Özgürlük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.
- org/maclar/25516
+ an Özgürlük Stadı\n🔗 https://ktff.org/maclar/25516
 URL:https://ktff.org/maclar/25516
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İkinci Yarı 0–7 La
- pta Türk Birliği SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK 0–7 Lapta Türk Birl
+ iği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK İkinci Yar
- ı 0–7 Lapta Türk Birliği SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK 0–7 Lapta
+  Türk Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
