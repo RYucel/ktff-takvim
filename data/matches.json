@@ -1371,17 +1371,17 @@
   "match_no": 25403,
   "league": "super-lig",
   "week": 11,
-  "home": "Esentepe KSKK",
+  "home": "Esentepe KSKK İlk Yarı",
   "away": "Çetinkaya TSK",
   "date": "2026-11-21",
-  "time": "14:00",
-  "home_score": null,
-  "away_score": null,
+  "time": null,
+  "home_score": 0,
+  "away_score": 0,
   "status": null,
   "venue": "Esentepe Erdal Barut Stadı",
-  "rev": 2,
+  "rev": 3,
   "extra": {
-   "stamp": "20261111T074556Z",
+   "stamp": "20261121T121559Z",
    "venue_tries": 1
   }
  },
@@ -3212,12 +3212,12 @@
   "date": "2026-11-21",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Akdoğan Özgürlük Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261121T120117Z",
+   "stamp": "20261121T121602Z",
    "venue_tries": 1
   }
  },
