@@ -242,27 +242,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25514@ktff-takvim
-DTSTAMP:20261111T080105Z
-SEQUENCE:2
-DTSTART:20261121T120000Z
-DTEND:20261121T135000Z
-SUMMARY:⚽ Türk Ocağı Limasol SK – Mormenekşe GBSK
+DTSTAMP:20261121T120117Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:⚽ Türk Ocağı Limasol SK İlk Yarı 0–0 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25514\n📍 Girne 
- 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25514
+ 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https
+ ://ktff.org/maclar/25514
 URL:https://ktff.org/maclar/25514
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK – Morme
- nekşe GBSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK İlk Yar
+ ı 0–0 Mormenekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
- K – Mormenekşe GBSK
+ K İlk Yarı 0–0 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

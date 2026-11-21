@@ -1843,53 +1843,56 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25398@ktff-takvim
-DTSTAMP:20261111T074556Z
-SEQUENCE:2
-DTSTART:20261121T120000Z
-DTEND:20261121T135000Z
-SUMMARY:⚽ Baf Ülkü Yurdu – China Bazaar Gençlik Gücü TSK
+DTSTAMP:20261121T120114Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:⚽ Baf Ülkü Yurdu İlk Yarı 0–0 China Bazaar Gençlik Gücü 
+ TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25398\n📍 G
- üzelyurt Üner Berkalp Stadı\n🔗 https://ktff.org/maclar/25398
+ üzelyurt Üner Berkalp Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
+ s://ktff.org/maclar/25398
 URL:https://ktff.org/maclar/25398
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu – China Bazaar 
- Gençlik Gücü TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İlk Yarı 0–0 
+ China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu – Ch
- ina Bazaar Gençlik Gücü TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu İlk Y
+ arı 0–0 China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25400@ktff-takvim
-DTSTAMP:20261111T074556Z
-SEQUENCE:2
-DTSTART:20261121T120000Z
-DTEND:20261121T135000Z
-SUMMARY:⚽ Değirmenlik SK – Alsancak Yeşilova SK
+DTSTAMP:20261121T120114Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:⚽ Değirmenlik SK İlk Yarı 0–0 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25400\n📍 De
- ğirmenlik Sadık Cemil Stadı\n🔗 https://ktff.org/maclar/25400
+ ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
+ s://ktff.org/maclar/25400
 URL:https://ktff.org/maclar/25400
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK – Alsancak Yeşi
- lova SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İlk Yarı 0–0 A
+ lsancak Yeşilova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK – Als
- ancak Yeşilova SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İlk Ya
+ rı 0–0 Alsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
