@@ -1286,12 +1286,12 @@
   "date": "2026-11-21",
   "time": null,
   "home_score": 0,
-  "away_score": 2,
+  "away_score": 4,
   "status": null,
   "venue": "Güzelyurt Üner Berkalp Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261121T131544Z",
+   "stamp": "20261121T133055Z",
    "venue_tries": 1
   }
  },
@@ -1376,12 +1376,12 @@
   "date": "2026-11-21",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Esentepe Erdal Barut Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261121T131544Z",
+   "stamp": "20261121T133055Z",
    "venue_tries": 1
   }
  },
@@ -3248,12 +3248,12 @@
   "date": "2026-11-21",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261121T131547Z",
+   "stamp": "20261121T133058Z",
    "venue_tries": 1
   }
  },
