@@ -1281,7 +1281,7 @@
   "match_no": 25398,
   "league": "super-lig",
   "week": 11,
-  "home": "Baf Ülkü Yurdu İlk Yarı",
+  "home": "Baf Ülkü Yurdu Devre Arası",
   "away": "China Bazaar Gençlik Gücü TSK",
   "date": "2026-11-21",
   "time": null,
@@ -1289,9 +1289,9 @@
   "away_score": 2,
   "status": null,
   "venue": "Güzelyurt Üner Berkalp Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261121T124543Z",
+   "stamp": "20261121T130102Z",
    "venue_tries": 1
   }
  },
@@ -1317,17 +1317,17 @@
   "match_no": 25400,
   "league": "super-lig",
   "week": 11,
-  "home": "Değirmenlik SK İlk Yarı",
+  "home": "Değirmenlik SK İkinci Yarı",
   "away": "Alsancak Yeşilova SK",
   "date": "2026-11-21",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Değirmenlik Sadık Cemil Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261121T123058Z",
+   "stamp": "20261121T130102Z",
    "venue_tries": 1
   }
  },
@@ -1371,7 +1371,7 @@
   "match_no": 25403,
   "league": "super-lig",
   "week": 11,
-  "home": "Esentepe KSKK İlk Yarı",
+  "home": "Esentepe KSKK Devre Arası",
   "away": "Çetinkaya TSK",
   "date": "2026-11-21",
   "time": null,
@@ -1379,9 +1379,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Esentepe Erdal Barut Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261121T121559Z",
+   "stamp": "20261121T130102Z",
    "venue_tries": 1
   }
  },
@@ -3171,7 +3171,7 @@
   "match_no": 25514,
   "league": "1-lig",
   "week": 11,
-  "home": "Türk Ocağı Limasol SK İlk Yarı",
+  "home": "Türk Ocağı Limasol SK İkinci Yarı",
   "away": "Mormenekşe GBSK",
   "date": "2026-11-21",
   "time": null,
@@ -3179,9 +3179,9 @@
   "away_score": 1,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261121T124546Z",
+   "stamp": "20261121T130105Z",
    "venue_tries": 1
   }
  },
@@ -3207,7 +3207,7 @@
   "match_no": 25516,
   "league": "1-lig",
   "week": 11,
-  "home": "Akdoğan SK İlk Yarı",
+  "home": "Akdoğan SK İkinci Yarı",
   "away": "Lapta Türk Birliği SK",
   "date": "2026-11-21",
   "time": null,
@@ -3215,9 +3215,9 @@
   "away_score": 4,
   "status": null,
   "venue": "Akdoğan Özgürlük Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261121T124546Z",
+   "stamp": "20261121T130105Z",
    "venue_tries": 1
   }
  },
@@ -3243,7 +3243,7 @@
   "match_no": 25518,
   "league": "1-lig",
   "week": 11,
-  "home": "M. Hacıali Yılmazköy SK İlk Yarı",
+  "home": "M. Hacıali Yılmazköy SK Devre Arası",
   "away": "Karaoğlanoğlu SK",
   "date": "2026-11-21",
   "time": null,
@@ -3251,9 +3251,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Yılmazköy Mustafa Üçöz Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261121T120117Z",
+   "stamp": "20261121T130105Z",
    "venue_tries": 1
   }
  },

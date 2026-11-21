@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Akdoğan SK İlk Yarı Fikstürü
-X-WR-CALDESC:Akdoğan SK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Akdoğan SK İkinci Yarı Fikstürü
+X-WR-CALDESC:Akdoğan SK İkinci Yarı maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25516@ktff-takvim
-DTSTAMP:20261121T124546Z
-SEQUENCE:6
+DTSTAMP:20261121T130105Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Akdoğan SK İlk Yarı 0–4 Lapta Türk Birliği SK
+SUMMARY:⚽ Akdoğan SK İkinci Yarı 0–4 Lapta Türk Birliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25516\n📍 Akdoğ
  an Özgürlük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.
  org/maclar/25516
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İlk Yarı 0–4 Lapta
-  Türk Birliği SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İkinci Yarı 0–4 La
+ pta Türk Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK İlk Yarı 
- 0–4 Lapta Türk Birliği SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK İkinci Yar
+ ı 0–4 Lapta Türk Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

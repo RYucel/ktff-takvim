@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Değirmenlik SK İlk Yarı Fikstürü
-X-WR-CALDESC:Değirmenlik SK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Değirmenlik SK İkinci Yarı Fikstürü
+X-WR-CALDESC:Değirmenlik SK İkinci Yarı maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25400@ktff-takvim
-DTSTAMP:20261121T123058Z
-SEQUENCE:4
+DTSTAMP:20261121T130102Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Değirmenlik SK İlk Yarı 1–0 Alsancak Yeşilova SK
+SUMMARY:⚽ Değirmenlik SK İkinci Yarı 1–1 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25400\n📍 De
  ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
  s://ktff.org/maclar/25400
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İlk Yarı 1–0 A
- lsancak Yeşilova SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İkinci Yarı 1–
+ 1 Alsancak Yeşilova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İlk Ya
- rı 1–0 Alsancak Yeşilova SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İkinci
+  Yarı 1–1 Alsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
