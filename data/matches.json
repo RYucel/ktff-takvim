@@ -1286,12 +1286,12 @@
   "date": "2026-11-21",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Güzelyurt Üner Berkalp Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261121T120114Z",
+   "stamp": "20261121T123058Z",
    "venue_tries": 1
   }
  },
@@ -1321,13 +1321,13 @@
   "away": "Alsancak Yeşilova SK",
   "date": "2026-11-21",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 0,
   "status": null,
   "venue": "Değirmenlik Sadık Cemil Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261121T120114Z",
+   "stamp": "20261121T123058Z",
    "venue_tries": 1
   }
  },
@@ -3175,13 +3175,13 @@
   "away": "Mormenekşe GBSK",
   "date": "2026-11-21",
   "time": null,
-  "home_score": 0,
+  "home_score": 2,
   "away_score": 0,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261121T120117Z",
+   "stamp": "20261121T123101Z",
    "venue_tries": 1
   }
  },
@@ -3212,12 +3212,12 @@
   "date": "2026-11-21",
   "time": null,
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 3,
   "status": null,
   "venue": "Akdoğan Özgürlük Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261121T121602Z",
+   "stamp": "20261121T123101Z",
    "venue_tries": 1
   }
  },

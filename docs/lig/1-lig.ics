@@ -1816,11 +1816,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25514@ktff-takvim
-DTSTAMP:20261121T120117Z
-SEQUENCE:3
+DTSTAMP:20261121T123101Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Türk Ocağı Limasol SK İlk Yarı 0–0 Mormenekşe GBSK
+SUMMARY:⚽ Türk Ocağı Limasol SK İlk Yarı 2–0 Mormenekşe GBSK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25514\n📍 Girne 
  20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https
  ://ktff.org/maclar/25514
@@ -1831,23 +1831,23 @@ LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Türk Ocağı Limasol SK İlk Yar
- ı 0–0 Mormenekşe GBSK
+ ı 2–0 Mormenekşe GBSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Türk Ocağı Limasol S
- K İlk Yarı 0–0 Mormenekşe GBSK
+ K İlk Yarı 2–0 Mormenekşe GBSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25516@ktff-takvim
-DTSTAMP:20261121T121602Z
-SEQUENCE:4
+DTSTAMP:20261121T123101Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Akdoğan SK İlk Yarı 0–1 Lapta Türk Birliği SK
+SUMMARY:⚽ Akdoğan SK İlk Yarı 0–3 Lapta Türk Birliği SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25516\n📍 Akdoğ
  an Özgürlük Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.
  org/maclar/25516
@@ -1857,14 +1857,14 @@ STATUS:CONFIRMED
 LOCATION:Akdoğan Özgürlük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İlk Yarı 0–1 Lapta
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Akdoğan SK İlk Yarı 0–3 Lapta
   Türk Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Akdoğan SK İlk Yarı 
- 0–1 Lapta Türk Birliği SK
+ 0–3 Lapta Türk Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

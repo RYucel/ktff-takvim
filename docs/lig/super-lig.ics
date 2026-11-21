@@ -1843,11 +1843,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25398@ktff-takvim
-DTSTAMP:20261121T120114Z
-SEQUENCE:3
+DTSTAMP:20261121T123058Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Baf Ülkü Yurdu İlk Yarı 0–0 China Bazaar Gençlik Gücü 
+SUMMARY:⚽ Baf Ülkü Yurdu İlk Yarı 0–1 China Bazaar Gençlik Gücü 
  TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25398\n📍 G
  üzelyurt Üner Berkalp Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
@@ -1858,24 +1858,24 @@ STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İlk Yarı 0–0 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İlk Yarı 0–1 
  China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu İlk Y
- arı 0–0 China Bazaar Gençlik Gücü TSK
+ arı 0–1 China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25400@ktff-takvim
-DTSTAMP:20261121T120114Z
-SEQUENCE:3
+DTSTAMP:20261121T123058Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Değirmenlik SK İlk Yarı 0–0 Alsancak Yeşilova SK
+SUMMARY:⚽ Değirmenlik SK İlk Yarı 1–0 Alsancak Yeşilova SK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25400\n📍 De
  ğirmenlik Sadık Cemil Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
  s://ktff.org/maclar/25400
@@ -1885,14 +1885,14 @@ STATUS:CONFIRMED
 LOCATION:Değirmenlik Sadık Cemil Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İlk Yarı 0–0 A
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Değirmenlik SK İlk Yarı 1–0 A
  lsancak Yeşilova SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Değirmenlik SK İlk Ya
- rı 0–0 Alsancak Yeşilova SK
+ rı 1–0 Alsancak Yeşilova SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
