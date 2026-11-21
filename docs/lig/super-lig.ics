@@ -1843,11 +1843,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25398@ktff-takvim
-DTSTAMP:20261121T123058Z
-SEQUENCE:4
+DTSTAMP:20261121T124543Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Baf Ülkü Yurdu İlk Yarı 0–1 China Bazaar Gençlik Gücü 
+SUMMARY:⚽ Baf Ülkü Yurdu İlk Yarı 0–2 China Bazaar Gençlik Gücü 
  TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25398\n📍 G
  üzelyurt Üner Berkalp Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 http
@@ -1858,14 +1858,14 @@ STATUS:CONFIRMED
 LOCATION:Güzelyurt Üner Berkalp Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İlk Yarı 0–1 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Baf Ülkü Yurdu İlk Yarı 0–2 
  China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Baf Ülkü Yurdu İlk Y
- arı 0–1 China Bazaar Gençlik Gücü TSK
+ arı 0–2 China Bazaar Gençlik Gücü TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
