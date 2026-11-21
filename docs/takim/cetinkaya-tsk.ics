@@ -268,11 +268,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25403@ktff-takvim
-DTSTAMP:20261121T130102Z
-SEQUENCE:4
+DTSTAMP:20261121T131544Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:⚽ Esentepe KSKK Devre Arası 0–0 Çetinkaya TSK
+SUMMARY:⚽ Esentepe KSKK İkinci Yarı 1–0 Çetinkaya TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25403\n📍 Es
  entepe Erdal Barut Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://k
  tff.org/maclar/25403
@@ -282,14 +282,14 @@ STATUS:CONFIRMED
 LOCATION:Esentepe Erdal Barut Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK Devre Arası 0–0 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Esentepe KSKK İkinci Yarı 1–0 
  Çetinkaya TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK Devre Ara
- sı 0–0 Çetinkaya TSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Esentepe KSKK İkinci Y
+ arı 1–0 Çetinkaya TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
