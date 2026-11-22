@@ -244,11 +244,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25519@ktff-takvim
-DTSTAMP:20261122T131543Z
-SEQUENCE:6
+DTSTAMP:20261122T134543Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 0–2 DND L. Gençler Birliği
+SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 0–3 DND L. Gençler Birliği
   SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25519\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
@@ -260,13 +260,13 @@ LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 0
- –2 DND L. Gençler Birliği SK
+ –3 DND L. Gençler Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İki
- nci Yarı 0–2 DND L. Gençler Birliği SK
+ nci Yarı 0–3 DND L. Gençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
