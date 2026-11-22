@@ -1921,11 +1921,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25517@ktff-takvim
-DTSTAMP:20261122T130108Z
-SEQUENCE:6
+DTSTAMP:20261122T131543Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Düzkaya KOSK İkinci Yarı 0–2 Maraş GSK
+SUMMARY:⚽ Düzkaya KOSK İkinci Yarı 1–2 Maraş GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25517\n📍 Çatal
  köy Nihat Bağcıer Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
  /ktff.org/maclar/25517
@@ -1935,24 +1935,24 @@ STATUS:CONFIRMED
 LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK İkinci Yarı 0–2 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK İkinci Yarı 1–2 
  Maraş GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK İkinci Y
- arı 0–2 Maraş GSK
+ arı 1–2 Maraş GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25519@ktff-takvim
-DTSTAMP:20261122T130108Z
-SEQUENCE:5
+DTSTAMP:20261122T131543Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 0–1 DND L. Gençler Birliği
+SUMMARY:⚽ Yeniboğaziçi DSK İkinci Yarı 0–2 DND L. Gençler Birliği
   SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25519\n📍 Yenibo
  ğaziçi Osman Ergün Mehmet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
@@ -1964,13 +1964,13 @@ LOCATION:Yeniboğaziçi Osman Ergün Mehmet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Yeniboğaziçi DSK İkinci Yarı 0
- –1 DND L. Gençler Birliği SK
+ –2 DND L. Gençler Birliği SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Yeniboğaziçi DSK İki
- nci Yarı 0–1 DND L. Gençler Birliği SK
+ nci Yarı 0–2 DND L. Gençler Birliği SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

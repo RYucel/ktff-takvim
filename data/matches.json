@@ -1263,17 +1263,17 @@
   "match_no": 25397,
   "league": "super-lig",
   "week": 11,
-  "home": "Küçük Kaymaklı TSK Devre Arası",
+  "home": "Küçük Kaymaklı TSK İkinci Yarı",
   "away": "Aslanköy GSD",
   "date": "2026-11-22",
   "time": null,
   "home_score": 1,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261122T130105Z",
+   "stamp": "20261122T131540Z",
    "venue_tries": 1
   }
  },
@@ -1335,17 +1335,17 @@
   "match_no": 25401,
   "league": "super-lig",
   "week": 11,
-  "home": "Karşıyaka SK Devre Arası",
+  "home": "Karşıyaka SK İkinci Yarı",
   "away": "Cihangir GSK",
   "date": "2026-11-22",
   "time": null,
-  "home_score": 3,
+  "home_score": 4,
   "away_score": 1,
   "status": null,
   "venue": "Karşıyaka Şampiyon Melekler Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261122T130105Z",
+   "stamp": "20261122T131540Z",
    "venue_tries": 1
   }
  },
@@ -1353,7 +1353,7 @@
   "match_no": 25402,
   "league": "super-lig",
   "week": 11,
-  "home": "Mesarya SK Devre Arası",
+  "home": "Mesarya SK İkinci Yarı",
   "away": "Doğan Türk Birliği",
   "date": "2026-11-22",
   "time": null,
@@ -1361,9 +1361,9 @@
   "away_score": 2,
   "status": null,
   "venue": "Paşaköy Hasan Onalt Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261122T130105Z",
+   "stamp": "20261122T131540Z",
    "venue_tries": 1
   }
  },
@@ -3229,13 +3229,13 @@
   "away": "Maraş GSK",
   "date": "2026-11-22",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 2,
   "status": null,
   "venue": "Çatalköy Nihat Bağcıer Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261122T130108Z",
+   "stamp": "20261122T131543Z",
    "venue_tries": 1
   }
  },
@@ -3266,12 +3266,12 @@
   "date": "2026-11-22",
   "time": null,
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261122T130108Z",
+   "stamp": "20261122T131543Z",
    "venue_tries": 1
   }
  },

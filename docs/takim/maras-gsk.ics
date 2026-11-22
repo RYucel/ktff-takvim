@@ -239,11 +239,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25517@ktff-takvim
-DTSTAMP:20261122T130108Z
-SEQUENCE:6
+DTSTAMP:20261122T131543Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Düzkaya KOSK İkinci Yarı 0–2 Maraş GSK
+SUMMARY:⚽ Düzkaya KOSK İkinci Yarı 1–2 Maraş GSK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25517\n📍 Çatal
  köy Nihat Bağcıer Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https:/
  /ktff.org/maclar/25517
@@ -253,14 +253,14 @@ STATUS:CONFIRMED
 LOCATION:Çatalköy Nihat Bağcıer Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK İkinci Yarı 0–2 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Düzkaya KOSK İkinci Yarı 1–2 
  Maraş GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Düzkaya KOSK İkinci Y
- arı 0–2 Maraş GSK
+ arı 1–2 Maraş GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
