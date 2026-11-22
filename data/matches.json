@@ -1263,17 +1263,17 @@
   "match_no": 25397,
   "league": "super-lig",
   "week": 11,
-  "home": "Küçük Kaymaklı TSK İkinci Yarı",
+  "home": "Küçük Kaymaklı TSK",
   "away": "Aslanköy GSD",
   "date": "2026-11-22",
-  "time": null,
+  "time": "14:00",
   "home_score": 1,
   "away_score": 4,
   "status": null,
   "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261122T140058Z",
+   "stamp": "20261122T141543Z",
    "venue_tries": 1
   }
  },
