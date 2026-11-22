@@ -1268,12 +1268,12 @@
   "date": "2026-11-22",
   "time": null,
   "home_score": 1,
-  "away_score": 2,
+  "away_score": 3,
   "status": null,
   "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261122T131540Z",
+   "stamp": "20261122T133054Z",
    "venue_tries": 1
   }
  },
@@ -1339,13 +1339,13 @@
   "away": "Cihangir GSK",
   "date": "2026-11-22",
   "time": null,
-  "home_score": 4,
+  "home_score": 5,
   "away_score": 1,
   "status": null,
   "venue": "Karşıyaka Şampiyon Melekler Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261122T131540Z",
+   "stamp": "20261122T133054Z",
    "venue_tries": 1
   }
  },
@@ -1358,12 +1358,12 @@
   "date": "2026-11-22",
   "time": null,
   "home_score": 1,
-  "away_score": 2,
+  "away_score": 4,
   "status": null,
   "venue": "Paşaköy Hasan Onalt Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261122T131540Z",
+   "stamp": "20261122T133054Z",
    "venue_tries": 1
   }
  },

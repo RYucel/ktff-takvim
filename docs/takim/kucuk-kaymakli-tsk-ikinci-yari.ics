@@ -11,11 +11,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25397@ktff-takvim
-DTSTAMP:20261122T131540Z
-SEQUENCE:6
+DTSTAMP:20261122T133054Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Küçük Kaymaklı TSK İkinci Yarı 1–2 Aslanköy GSD
+SUMMARY:⚽ Küçük Kaymaklı TSK İkinci Yarı 1–3 Aslanköy GSD
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25397\n📍 K
  üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n⏰ Saat henüz açıklanmad
  ı.\n🔗 https://ktff.org/maclar/25397
@@ -26,13 +26,13 @@ LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK İkinci Yar
- ı 1–2 Aslanköy GSD
+ ı 1–3 Aslanköy GSD
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
- İkinci Yarı 1–2 Aslanköy GSD
+ İkinci Yarı 1–3 Aslanköy GSD
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
