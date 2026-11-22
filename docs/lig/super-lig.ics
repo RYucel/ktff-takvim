@@ -1920,11 +1920,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25397@ktff-takvim
-DTSTAMP:20261122T121543Z
-SEQUENCE:3
+DTSTAMP:20261122T124542Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Küçük Kaymaklı TSK İlk Yarı 1–0 Aslanköy GSD
+SUMMARY:⚽ Küçük Kaymaklı TSK İlk Yarı 1–1 Aslanköy GSD
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25397\n📍 K
  üçük Kaymaklı Şht. Hüseyin Ruso Stadı\n⏰ Saat henüz açıklanmad
  ı.\n🔗 https://ktff.org/maclar/25397
@@ -1935,23 +1935,23 @@ LOCATION:Küçük Kaymaklı Şht. Hüseyin Ruso Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Küçük Kaymaklı TSK İlk Yarı 
- 1–0 Aslanköy GSD
+ 1–1 Aslanköy GSD
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Küçük Kaymaklı TSK 
- İlk Yarı 1–0 Aslanköy GSD
+ İlk Yarı 1–1 Aslanköy GSD
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25401@ktff-takvim
-DTSTAMP:20261122T121543Z
-SEQUENCE:3
+DTSTAMP:20261122T124542Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Karşıyaka SK İlk Yarı 1–0 Cihangir GSK
+SUMMARY:⚽ Karşıyaka SK İlk Yarı 3–1 Cihangir GSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25401\n📍 Ka
  rşıyaka Şampiyon Melekler Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
   https://ktff.org/maclar/25401
@@ -1961,24 +1961,24 @@ STATUS:CONFIRMED
 LOCATION:Karşıyaka Şampiyon Melekler Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK İlk Yarı 1–0 Ci
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK İlk Yarı 3–1 Ci
  hangir GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK İlk Yar
- ı 1–0 Cihangir GSK
+ ı 3–1 Cihangir GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25402@ktff-takvim
-DTSTAMP:20261122T121543Z
-SEQUENCE:3
+DTSTAMP:20261122T124542Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Mesarya SK İlk Yarı 0–0 Doğan Türk Birliği
+SUMMARY:⚽ Mesarya SK İlk Yarı 2–1 Doğan Türk Birliği
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25402\n📍 Pa
  şaköy Hasan Onalt Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
  ktff.org/maclar/25402
@@ -1988,14 +1988,14 @@ STATUS:CONFIRMED
 LOCATION:Paşaköy Hasan Onalt Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK İlk Yarı 0–0 Doğan
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK İlk Yarı 2–1 Doğan
   Türk Birliği
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK İlk Yarı 0
- –0 Doğan Türk Birliği
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK İlk Yarı 2
+ –1 Doğan Türk Birliği
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

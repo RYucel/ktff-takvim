@@ -1268,12 +1268,12 @@
   "date": "2026-11-22",
   "time": null,
   "home_score": 1,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Küçük Kaymaklı Şht. Hüseyin Ruso Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261122T121543Z",
+   "stamp": "20261122T124542Z",
    "venue_tries": 1
   }
  },
@@ -1339,13 +1339,13 @@
   "away": "Cihangir GSK",
   "date": "2026-11-22",
   "time": null,
-  "home_score": 1,
-  "away_score": 0,
+  "home_score": 3,
+  "away_score": 1,
   "status": null,
   "venue": "Karşıyaka Şampiyon Melekler Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261122T121543Z",
+   "stamp": "20261122T124542Z",
    "venue_tries": 1
   }
  },
@@ -1357,13 +1357,13 @@
   "away": "Doğan Türk Birliği",
   "date": "2026-11-22",
   "time": null,
-  "home_score": 0,
-  "away_score": 0,
+  "home_score": 2,
+  "away_score": 1,
   "status": null,
   "venue": "Paşaköy Hasan Onalt Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261122T121543Z",
+   "stamp": "20261122T124542Z",
    "venue_tries": 1
   }
  },
@@ -3225,17 +3225,17 @@
   "match_no": 25517,
   "league": "1-lig",
   "week": 11,
-  "home": "Düzkaya KOSK İlk Yarı",
+  "home": "Düzkaya KOSK Devre Arası",
   "away": "Maraş GSK",
   "date": "2026-11-22",
   "time": null,
   "home_score": 0,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Çatalköy Nihat Bağcıer Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261122T123055Z",
+   "stamp": "20261122T124545Z",
    "venue_tries": 1
   }
  },
@@ -3261,17 +3261,17 @@
   "match_no": 25519,
   "league": "1-lig",
   "week": 11,
-  "home": "Yeniboğaziçi DSK İlk Yarı",
+  "home": "Yeniboğaziçi DSK Devre Arası",
   "away": "DND L. Gençler Birliği SK",
   "date": "2026-11-22",
   "time": null,
   "home_score": 0,
-  "away_score": 0,
+  "away_score": 1,
   "status": null,
   "venue": "Yeniboğaziçi Osman Ergün Mehmet Stadı",
-  "rev": 3,
+  "rev": 4,
   "extra": {
-   "stamp": "20261122T120110Z",
+   "stamp": "20261122T124545Z",
    "venue_tries": 1
   }
  },
