@@ -270,27 +270,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25402@ktff-takvim
-DTSTAMP:20261111T074556Z
-SEQUENCE:2
-DTSTART:20261122T120000Z
-DTEND:20261122T135000Z
-SUMMARY:⚽ Mesarya SK – Doğan Türk Birliği
+DTSTAMP:20261122T121543Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:⚽ Mesarya SK İlk Yarı 0–0 Doğan Türk Birliği
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25402\n📍 Pa
- şaköy Hasan Onalt Stadı\n🔗 https://ktff.org/maclar/25402
+ şaköy Hasan Onalt Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://
+ ktff.org/maclar/25402
 URL:https://ktff.org/maclar/25402
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Paşaköy Hasan Onalt Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK – Doğan Türk Birli
- ği
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Mesarya SK İlk Yarı 0–0 Doğan
+  Türk Birliği
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK – Doğan T
- ürk Birliği
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Mesarya SK İlk Yarı 0
+ –0 Doğan Türk Birliği
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
