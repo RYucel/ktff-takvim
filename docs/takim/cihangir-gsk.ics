@@ -242,28 +242,26 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25401@ktff-takvim
-DTSTAMP:20261122T133054Z
-SEQUENCE:7
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:⚽ Karşıyaka SK İkinci Yarı 5–1 Cihangir GSK
+DTSTAMP:20261122T140058Z
+SEQUENCE:8
+DTSTART:20261122T120000Z
+DTEND:20261122T135000Z
+SUMMARY:⚽ Karşıyaka SK 5–1 Cihangir GSK
 DESCRIPTION:🏆 AKSA Süper Lig · 11. Hafta\n🔢 Maç No: 25401\n📍 Ka
- rşıyaka Şampiyon Melekler Stadı\n⏰ Saat henüz açıklanmadı.\n🔗
-  https://ktff.org/maclar/25401
+ rşıyaka Şampiyon Melekler Stadı\n🔗 https://ktff.org/maclar/25401
 URL:https://ktff.org/maclar/25401
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Karşıyaka Şampiyon Melekler Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK İkinci Yarı 5–1
-  Cihangir GSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Karşıyaka SK 5–1 Cihangir GSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK İkinci 
- Yarı 5–1 Cihangir GSK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Karşıyaka SK 5–1 Ci
+ hangir GSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
