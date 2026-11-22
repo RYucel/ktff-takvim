@@ -244,27 +244,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25515@ktff-takvim
-DTSTAMP:20261111T080105Z
-SEQUENCE:2
-DTSTART:20261122T120000Z
-DTEND:20261122T135000Z
-SUMMARY:⚽ Geçitkale GSK – Çello Dikmen Gücü SK
+DTSTAMP:20261122T120110Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:⚽ Geçitkale GSK İlk Yarı 0–0 Çello Dikmen Gücü SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25515\n📍 Geçit
- kale Stadı\n🔗 https://ktff.org/maclar/25515
+ kale Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/maclar
+ /25515
 URL:https://ktff.org/maclar/25515
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Geçitkale Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK – Çello Dikmen G
- ücü SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Geçitkale GSK İlk Yarı 0–0 Ç
+ ello Dikmen Gücü SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK – Çel
- lo Dikmen Gücü SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Geçitkale GSK İlk Yar
+ ı 0–0 Çello Dikmen Gücü SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
