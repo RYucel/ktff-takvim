@@ -3158,12 +3158,12 @@
   "date": "2026-11-23",
   "time": null,
   "home_score": 1,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Lefke 16 Ağustos Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261123T183101Z",
+   "stamp": "20261123T184547Z",
    "venue_tries": 1
   }
  },
