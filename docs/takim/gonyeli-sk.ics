@@ -242,11 +242,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25512@ktff-takvim
-DTSTAMP:20261123T170112Z
-SEQUENCE:3
+DTSTAMP:20261123T174559Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:⚽ Lefke TSK İlk Yarı 0–0 Gönyeli SK
+SUMMARY:⚽ Lefke TSK İlk Yarı 0–1 Gönyeli SK
 DESCRIPTION:🏆 AKSA 1. Lig · 11. Hafta\n🔢 Maç No: 25512\n📍 Lefke 
  16 Ağustos Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org
  /maclar/25512
@@ -256,14 +256,14 @@ STATUS:CONFIRMED
 LOCATION:Lefke 16 Ağustos Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK İlk Yarı 0–0 Gönyel
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Lefke TSK İlk Yarı 0–1 Gönyel
  i SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Lefke TSK İlk Yarı 0
- –0 Gönyeli SK
+ –1 Gönyeli SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
