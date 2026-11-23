@@ -3157,13 +3157,13 @@
   "away": "Gönyeli SK",
   "date": "2026-11-23",
   "time": null,
-  "home_score": 0,
+  "home_score": 1,
   "away_score": 1,
   "status": null,
   "venue": "Lefke 16 Ağustos Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261123T180121Z",
+   "stamp": "20261123T183101Z",
    "venue_tries": 1
   }
  },
