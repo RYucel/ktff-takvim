@@ -3153,17 +3153,17 @@
   "match_no": 25512,
   "league": "1-lig",
   "week": 11,
-  "home": "Lefke TSK İkinci Yarı",
+  "home": "Lefke TSK",
   "away": "Gönyeli SK",
   "date": "2026-11-23",
-  "time": null,
+  "time": "19:00",
   "home_score": 1,
   "away_score": 2,
   "status": null,
   "venue": "Lefke 16 Ağustos Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261123T184547Z",
+   "stamp": "20261123T190105Z",
    "venue_tries": 1
   }
  },
