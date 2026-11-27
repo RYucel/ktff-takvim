@@ -1998,11 +1998,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25404@ktff-takvim
-DTSTAMP:20261127T171544Z
-SEQUENCE:4
+DTSTAMP:20261127T173056Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İlk Yarı 1–0 Küçük Kaym
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İlk Yarı 2–0 Küçük Kaym
  aklı TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25404\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
@@ -2014,13 +2014,13 @@ LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
- İlk Yarı 1–0 Küçük Kaymaklı TSK
+ İlk Yarı 2–0 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
- ücü TSK İlk Yarı 1–0 Küçük Kaymaklı TSK
+ ücü TSK İlk Yarı 2–0 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
