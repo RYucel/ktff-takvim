@@ -3,20 +3,20 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:DND L. Gençler Birliği SK Devre Arası Fikstürü
-X-WR-CALDESC:DND L. Gençler Birliği SK Devre Arası maçları. Kaynak: kt
- ff.org
+X-WR-CALNAME:DND L. Gençler Birliği SK İkinci Yarı Fikstürü
+X-WR-CALDESC:DND L. Gençler Birliği SK İkinci Yarı maçları. Kaynak: k
+ tff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25522@ktff-takvim
-DTSTAMP:20261127T180110Z
-SEQUENCE:5
+DTSTAMP:20261127T181553Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:⚽ DND L. Gençler Birliği SK Devre Arası 1–0 Türk Ocağı Li
- masol SK
+SUMMARY:⚽ DND L. Gençler Birliği SK İkinci Yarı 1–0 Türk Ocağı L
+ imasol SK
 DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25522\n📍 İskel
  e Cumhuriyet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
  g/maclar/25522
@@ -26,14 +26,14 @@ STATUS:CONFIRMED
 LOCATION:İskele Cumhuriyet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK Devre 
- Arası 1–0 Türk Ocağı Limasol SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK İkinc
+ i Yarı 1–0 Türk Ocağı Limasol SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
- i SK Devre Arası 1–0 Türk Ocağı Limasol SK
+ i SK İkinci Yarı 1–0 Türk Ocağı Limasol SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
