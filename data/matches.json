@@ -1389,7 +1389,7 @@
   "match_no": 25404,
   "league": "super-lig",
   "week": 12,
-  "home": "China Bazaar Gençlik Gücü TSK İlk Yarı",
+  "home": "China Bazaar Gençlik Gücü TSK Devre Arası",
   "away": "Küçük Kaymaklı TSK",
   "date": "2026-11-27",
   "time": null,
@@ -1397,9 +1397,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261127T173056Z",
+   "stamp": "20261127T180108Z",
    "venue_tries": 1
   }
  },
@@ -3297,7 +3297,7 @@
   "match_no": 25522,
   "league": "1-lig",
   "week": 12,
-  "home": "DND L. Gençler Birliği SK İlk Yarı",
+  "home": "DND L. Gençler Birliği SK Devre Arası",
   "away": "Türk Ocağı Limasol SK",
   "date": "2026-11-27",
   "time": null,
@@ -3305,9 +3305,9 @@
   "away_score": 0,
   "status": null,
   "venue": "İskele Cumhuriyet Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261127T171547Z",
+   "stamp": "20261127T180110Z",
    "venue_tries": 1
   }
  },
