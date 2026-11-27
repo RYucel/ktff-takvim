@@ -3301,13 +3301,13 @@
   "away": "Türk Ocağı Limasol SK",
   "date": "2026-11-27",
   "time": null,
-  "home_score": 2,
+  "home_score": 3,
   "away_score": 1,
   "status": null,
   "venue": "İskele Cumhuriyet Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261127T183102Z",
+   "stamp": "20261127T184546Z",
    "venue_tries": 1
   }
  },
