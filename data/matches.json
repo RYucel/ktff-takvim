@@ -3297,17 +3297,17 @@
   "match_no": 25522,
   "league": "1-lig",
   "week": 12,
-  "home": "DND L. Gençler Birliği SK İkinci Yarı",
+  "home": "DND L. Gençler Birliği SK",
   "away": "Türk Ocağı Limasol SK",
   "date": "2026-11-27",
-  "time": null,
+  "time": "19:00",
   "home_score": 3,
   "away_score": 1,
   "status": null,
   "venue": "İskele Cumhuriyet Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261127T184546Z",
+   "stamp": "20261127T191549Z",
    "venue_tries": 1
   }
  },
