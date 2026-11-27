@@ -1998,29 +1998,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25404@ktff-takvim
-DTSTAMP:20261127T181550Z
-SEQUENCE:7
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:⚽ China Bazaar Gençlik Gücü TSK İkinci Yarı 3–0 Küçük K
- aymaklı TSK
+DTSTAMP:20261127T190103Z
+SEQUENCE:8
+DTSTART:20261127T170000Z
+DTEND:20261127T185000Z
+SUMMARY:⚽ China Bazaar Gençlik Gücü TSK 3–0 Küçük Kaymaklı TSK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25404\n📍 Le
- fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
- .org/maclar/25404
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25404
 URL:https://ktff.org/maclar/25404
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 
- İkinci Yarı 3–0 Küçük Kaymaklı TSK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ China Bazaar Gençlik Gücü TSK 3
+ –0 Küçük Kaymaklı TSK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ China Bazaar Gençlik G
- ücü TSK İkinci Yarı 3–0 Küçük Kaymaklı TSK
+ ücü TSK 3–0 Küçük Kaymaklı TSK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
