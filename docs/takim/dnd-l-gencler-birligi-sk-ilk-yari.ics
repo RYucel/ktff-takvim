@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ktff-takvim//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DND L. Gençler Birliği SK İlk Yarı Fikstürü
+X-WR-CALDESC:DND L. Gençler Birliği SK İlk Yarı maçları. Kaynak: ktff
+ .org
+X-WR-TIMEZONE:Europe/Nicosia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ktff-25522@ktff-takvim
+DTSTAMP:20261127T170107Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:⚽ DND L. Gençler Birliği SK İlk Yarı 0–0 Türk Ocağı Lima
+ sol SK
+DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25522\n📍 İskel
+ e Cumhuriyet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
+ g/maclar/25522
+URL:https://ktff.org/maclar/25522
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:İskele Cumhuriyet Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK İlk Y
+ arı 0–0 Türk Ocağı Limasol SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
+ i SK İlk Yarı 0–0 Türk Ocağı Limasol SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

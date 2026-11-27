@@ -270,27 +270,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25522@ktff-takvim
-DTSTAMP:20261120T110107Z
-SEQUENCE:2
-DTSTART:20261127T170000Z
-DTEND:20261127T185000Z
-SUMMARY:⚽ DND L. Gençler Birliği SK – Türk Ocağı Limasol SK
+DTSTAMP:20261127T170107Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:⚽ DND L. Gençler Birliği SK İlk Yarı 0–0 Türk Ocağı Lima
+ sol SK
 DESCRIPTION:🏆 AKSA 1. Lig · 12. Hafta\n🔢 Maç No: 25522\n📍 İskel
- e Cumhuriyet Stadı\n🔗 https://ktff.org/maclar/25522
+ e Cumhuriyet Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.or
+ g/maclar/25522
 URL:https://ktff.org/maclar/25522
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:İskele Cumhuriyet Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK – T
- ürk Ocağı Limasol SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ DND L. Gençler Birliği SK İlk Y
+ arı 0–0 Türk Ocağı Limasol SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ DND L. Gençler Birliğ
- i SK – Türk Ocağı Limasol SK
+ i SK İlk Yarı 0–0 Türk Ocağı Limasol SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
