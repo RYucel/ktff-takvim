@@ -267,11 +267,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25409@ktff-takvim
-DTSTAMP:20261128T121554Z
-SEQUENCE:4
+DTSTAMP:20261128T123054Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 0–1 Esentepe KSKK
+SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 1–1 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25409\n📍 Gi
  rne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
  ttps://ktff.org/maclar/25409
@@ -281,14 +281,14 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 0
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 1
  –1 Esentepe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İlk Yarı 0–1 Esentepe KSKK
+ İlk Yarı 1–1 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

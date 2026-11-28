@@ -2132,11 +2132,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25409@ktff-takvim
-DTSTAMP:20261128T121554Z
-SEQUENCE:4
+DTSTAMP:20261128T123054Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 0–1 Esentepe KSKK
+SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 1–1 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25409\n📍 Gi
  rne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
  ttps://ktff.org/maclar/25409
@@ -2146,24 +2146,24 @@ STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 0
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 1
  –1 Esentepe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İlk Yarı 0–1 Esentepe KSKK
+ İlk Yarı 1–1 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25410@ktff-takvim
-DTSTAMP:20261128T121554Z
-SEQUENCE:3
+DTSTAMP:20261128T123054Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Çetinkaya TSK İlk Yarı 0–0 Mağusa Türk Gücü
+SUMMARY:⚽ Çetinkaya TSK İlk Yarı 1–1 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25410\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
  .org/maclar/25410
@@ -2173,14 +2173,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İlk Yarı 0–0 Ma
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İlk Yarı 1–1 Ma
  ğusa Türk Gücü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İlk Yar
- ı 0–0 Mağusa Türk Gücü
+ ı 1–1 Mağusa Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
