@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25406@ktff-takvim
-DTSTAMP:20261128T121554Z
-SEQUENCE:3
+DTSTAMP:20261128T124542Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Aslanköy GSD İlk Yarı 0–0 Değirmenlik SK
+SUMMARY:⚽ Aslanköy GSD İlk Yarı 1–0 Değirmenlik SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
  ziköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
  rg/maclar/25406
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İlk Yarı 0–0 De
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İlk Yarı 1–0 De
  ğirmenlik SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İlk Yar
- ı 0–0 Değirmenlik SK
+ ı 1–0 Değirmenlik SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
