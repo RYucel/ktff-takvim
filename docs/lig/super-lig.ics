@@ -2023,60 +2023,6 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ktff-25405@ktff-takvim
-DTSTAMP:20261128T134545Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Dumlupınar TSK İkinci Yarı 8–0 Baf Ülkü Yurdu
-DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
- zimağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n
- 🔗 https://ktff.org/maclar/25405
-URL:https://ktff.org/maclar/25405
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İkinci Yarı 8–
- 0 Baf Ülkü Yurdu
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İkinci
-  Yarı 8–0 Baf Ülkü Yurdu
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25406@ktff-takvim
-DTSTAMP:20261128T134545Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Aslanköy GSD İkinci Yarı 3–0 Değirmenlik SK
-DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
- ziköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
- rg/maclar/25406
-URL:https://ktff.org/maclar/25406
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Gaziköy Şenol Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İkinci Yarı 3–0 
- Değirmenlik SK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İkinci Y
- arı 3–0 Değirmenlik SK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ktff-25407@ktff-takvim
 DTSTAMP:20261128T134545Z
 SEQUENCE:8
@@ -2104,83 +2050,131 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ktff-25405@ktff-takvim
+DTSTAMP:20261128T140109Z
+SEQUENCE:9
+DTSTART:20261128T120000Z
+DTEND:20261128T135000Z
+SUMMARY:⚽ Dumlupınar TSK 8–0 Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25405
+URL:https://ktff.org/maclar/25405
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK 8–0 Baf Ülkü Y
+ urdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK 8–0 B
+ af Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25406@ktff-takvim
+DTSTAMP:20261128T140109Z
+SEQUENCE:9
+DTSTART:20261128T120000Z
+DTEND:20261128T135000Z
+SUMMARY:⚽ Aslanköy GSD 4–0 Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
+ ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25406
+URL:https://ktff.org/maclar/25406
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD 4–0 Değirmenlik S
+ K
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD 4–0 De
+ ğirmenlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ktff-25408@ktff-takvim
-DTSTAMP:20261128T134545Z
-SEQUENCE:7
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Cihangir GSK İkinci Yarı 2–2 Mesarya SK
+DTSTAMP:20261128T140109Z
+SEQUENCE:8
+DTSTART:20261128T120000Z
+DTEND:20261128T135000Z
+SUMMARY:⚽ Cihangir GSK 2–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25408\n📍 Ci
- hangir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macl
- ar/25408
+ hangir Stadı\n🔗 https://ktff.org/maclar/25408
 URL:https://ktff.org/maclar/25408
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 2–2 M
- esarya SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK 2–2 Mesarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İkinci Ya
- rı 2–2 Mesarya SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK 2–2 Mesa
+ rya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25409@ktff-takvim
-DTSTAMP:20261128T134545Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Doğan Türk Birliği İkinci Yarı 3–1 Esentepe KSKK
+DTSTAMP:20261128T140109Z
+SEQUENCE:9
+DTSTART:20261128T120000Z
+DTEND:20261128T135000Z
+SUMMARY:⚽ Doğan Türk Birliği 4–1 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25409\n📍 Gi
- rne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
- ttps://ktff.org/maclar/25409
+ rne 20 Temmuz Mete Adanır Stadı\n🔗 https://ktff.org/maclar/25409
 URL:https://ktff.org/maclar/25409
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İkinci Yar
- ı 3–1 Esentepe KSKK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği 4–1 Esente
+ pe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İkinci Yarı 3–1 Esentepe KSKK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 4
+ –1 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25410@ktff-takvim
-DTSTAMP:20261128T134545Z
-SEQUENCE:8
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Çetinkaya TSK İkinci Yarı 2–3 Mağusa Türk Gücü
+DTSTAMP:20261128T140109Z
+SEQUENCE:9
+DTSTART:20261128T120000Z
+DTEND:20261128T135000Z
+SUMMARY:⚽ Çetinkaya TSK 2–3 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25410\n📍 Le
- fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
- .org/maclar/25410
+ fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25410
 URL:https://ktff.org/maclar/25410
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İkinci Yarı 2–3
-  Mağusa Türk Gücü
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK 2–3 Mağusa Türk
+  Gücü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İkinci 
- Yarı 2–3 Mağusa Türk Gücü
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK 2–3 Ma
+ ğusa Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
