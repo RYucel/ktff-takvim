@@ -2023,6 +2023,87 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ktff-25405@ktff-takvim
+DTSTAMP:20261128T121554Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:⚽ Dumlupınar TSK İlk Yarı 1–0 Baf Ülkü Yurdu
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
+ zimağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n
+ 🔗 https://ktff.org/maclar/25405
+URL:https://ktff.org/maclar/25405
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İlk Yarı 1–0 B
+ af Ülkü Yurdu
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İlk Ya
+ rı 1–0 Baf Ülkü Yurdu
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25406@ktff-takvim
+DTSTAMP:20261128T121554Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:⚽ Aslanköy GSD İlk Yarı 0–0 Değirmenlik SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
+ ziköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
+ rg/maclar/25406
+URL:https://ktff.org/maclar/25406
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Gaziköy Şenol Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İlk Yarı 0–0 De
+ ğirmenlik SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İlk Yar
+ ı 0–0 Değirmenlik SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ktff-25407@ktff-takvim
+DTSTAMP:20261128T121554Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:⚽ Alsancak Yeşilova SK İlk Yarı 0–0 Karşıyaka SK
+DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25407\n📍 Al
+ sancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
+ 🔗 https://ktff.org/maclar/25407
+URL:https://ktff.org/maclar/25407
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İlk Yarı 0
+ –0 Karşıyaka SK
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
+ İlk Yarı 0–0 Karşıyaka SK
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ktff-25408@ktff-takvim
 DTSTAMP:20261128T120111Z
 SEQUENCE:3
@@ -2051,11 +2132,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25409@ktff-takvim
-DTSTAMP:20261128T120111Z
-SEQUENCE:3
+DTSTAMP:20261128T121554Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 0–0 Esentepe KSKK
+SUMMARY:⚽ Doğan Türk Birliği İlk Yarı 0–1 Esentepe KSKK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25409\n📍 Gi
  rne 20 Temmuz Mete Adanır Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 h
  ttps://ktff.org/maclar/25409
@@ -2066,116 +2147,40 @@ LOCATION:Girne 20 Temmuz Mete Adanır Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Doğan Türk Birliği İlk Yarı 0
- –0 Esentepe KSKK
+ –1 Esentepe KSKK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Doğan Türk Birliği 
- İlk Yarı 0–0 Esentepe KSKK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25405@ktff-takvim
-DTSTAMP:20261120T110104Z
-SEQUENCE:2
-DTSTART:20261128T120000Z
-DTEND:20261128T135000Z
-SUMMARY:⚽ Dumlupınar TSK – Baf Ülkü Yurdu
-DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
- zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25405
-URL:https://ktff.org/maclar/25405
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Baf Ülkü Yur
- du
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Baf
-  Ülkü Yurdu
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25406@ktff-takvim
-DTSTAMP:20261120T110104Z
-SEQUENCE:2
-DTSTART:20261128T120000Z
-DTEND:20261128T135000Z
-SUMMARY:⚽ Aslanköy GSD – Değirmenlik SK
-DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
- ziköy Şenol Stadı\n🔗 https://ktff.org/maclar/25406
-URL:https://ktff.org/maclar/25406
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Gaziköy Şenol Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD – Değirmenlik SK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD – Deği
- rmenlik SK
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ktff-25407@ktff-takvim
-DTSTAMP:20261120T110104Z
-SEQUENCE:2
-DTSTART:20261128T120000Z
-DTEND:20261128T135000Z
-SUMMARY:⚽ Alsancak Yeşilova SK – Karşıyaka SK
-DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25407\n📍 Al
- sancak Mustafa Hidayet Çağlar Stadı\n🔗 https://ktff.org/maclar/25407
-URL:https://ktff.org/maclar/25407
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK – Karşıy
- aka SK
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- – Karşıyaka SK
+ İlk Yarı 0–1 Esentepe KSKK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25410@ktff-takvim
-DTSTAMP:20261120T110104Z
-SEQUENCE:2
-DTSTART:20261128T120000Z
-DTEND:20261128T135000Z
-SUMMARY:⚽ Çetinkaya TSK – Mağusa Türk Gücü
+DTSTAMP:20261128T121554Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:⚽ Çetinkaya TSK İlk Yarı 0–0 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25410\n📍 Le
- fkoşa Atatürk Stadı\n🔗 https://ktff.org/maclar/25410
+ fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
+ .org/maclar/25410
 URL:https://ktff.org/maclar/25410
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK – Mağusa Türk G
- ücü
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İlk Yarı 0–0 Ma
+ ğusa Türk Gücü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK – Mağ
- usa Türk Gücü
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İlk Yar
+ ı 0–0 Mağusa Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

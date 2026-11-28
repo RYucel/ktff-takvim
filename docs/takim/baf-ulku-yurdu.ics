@@ -295,27 +295,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25405@ktff-takvim
-DTSTAMP:20261120T110104Z
-SEQUENCE:2
-DTSTART:20261128T120000Z
-DTEND:20261128T135000Z
-SUMMARY:⚽ Dumlupınar TSK – Baf Ülkü Yurdu
+DTSTAMP:20261128T121554Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:⚽ Dumlupınar TSK İlk Yarı 1–0 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
- zimağusa Dr. Fazıl Küçük Stadı\n🔗 https://ktff.org/maclar/25405
+ zimağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n
+ 🔗 https://ktff.org/maclar/25405
 URL:https://ktff.org/maclar/25405
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK – Baf Ülkü Yur
- du
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İlk Yarı 1–0 B
+ af Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK – Baf
-  Ülkü Yurdu
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İlk Ya
+ rı 1–0 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
