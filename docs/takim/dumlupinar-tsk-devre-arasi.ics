@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Dumlupınar TSK İlk Yarı Fikstürü
-X-WR-CALDESC:Dumlupınar TSK İlk Yarı maçları. Kaynak: ktff.org
+X-WR-CALNAME:Dumlupınar TSK Devre Arası Fikstürü
+X-WR-CALDESC:Dumlupınar TSK Devre Arası maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25405@ktff-takvim
-DTSTAMP:20261128T124542Z
-SEQUENCE:4
+DTSTAMP:20261128T130113Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Dumlupınar TSK İlk Yarı 3–0 Baf Ülkü Yurdu
+SUMMARY:⚽ Dumlupınar TSK Devre Arası 4–0 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
  zimağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25405
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İlk Yarı 3–0 B
- af Ülkü Yurdu
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK Devre Arası 4–0
+  Baf Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İlk Ya
- rı 3–0 Baf Ülkü Yurdu
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK Devre A
+ rası 4–0 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
