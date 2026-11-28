@@ -1443,17 +1443,17 @@
   "match_no": 25407,
   "league": "super-lig",
   "week": 12,
-  "home": "Alsancak Yeşilova SK İkinci Yarı",
+  "home": "Alsancak Yeşilova SK",
   "away": "Karşıyaka SK",
   "date": "2026-11-28",
-  "time": null,
+  "time": "14:00",
   "home_score": 2,
-  "away_score": 1,
+  "away_score": 2,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 8,
+  "rev": 9,
   "extra": {
-   "stamp": "20261128T134545Z",
+   "stamp": "20261128T141543Z",
    "venue_tries": 1
   }
  },
