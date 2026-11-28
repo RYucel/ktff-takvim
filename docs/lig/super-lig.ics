@@ -2024,11 +2024,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25405@ktff-takvim
-DTSTAMP:20261128T131542Z
-SEQUENCE:6
+DTSTAMP:20261128T133055Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Dumlupınar TSK İkinci Yarı 4–0 Baf Ülkü Yurdu
+SUMMARY:⚽ Dumlupınar TSK İkinci Yarı 6–0 Baf Ülkü Yurdu
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25405\n📍 Ga
  zimağusa Dr. Fazıl Küçük Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25405
@@ -2038,24 +2038,24 @@ STATUS:CONFIRMED
 LOCATION:Gazimağusa Dr. Fazıl Küçük Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İkinci Yarı 4–
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Dumlupınar TSK İkinci Yarı 6–
  0 Baf Ülkü Yurdu
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Dumlupınar TSK İkinci
-  Yarı 4–0 Baf Ülkü Yurdu
+  Yarı 6–0 Baf Ülkü Yurdu
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25406@ktff-takvim
-DTSTAMP:20261128T131542Z
-SEQUENCE:6
+DTSTAMP:20261128T133055Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Aslanköy GSD İkinci Yarı 1–0 Değirmenlik SK
+SUMMARY:⚽ Aslanköy GSD İkinci Yarı 2–0 Değirmenlik SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25406\n📍 Ga
  ziköy Şenol Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.o
  rg/maclar/25406
@@ -2065,24 +2065,24 @@ STATUS:CONFIRMED
 LOCATION:Gaziköy Şenol Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İkinci Yarı 1–0 
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Aslanköy GSD İkinci Yarı 2–0 
  Değirmenlik SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Aslanköy GSD İkinci Y
- arı 1–0 Değirmenlik SK
+ arı 2–0 Değirmenlik SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25407@ktff-takvim
-DTSTAMP:20261128T131542Z
-SEQUENCE:6
+DTSTAMP:20261128T133055Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Alsancak Yeşilova SK İkinci Yarı 1–0 Karşıyaka SK
+SUMMARY:⚽ Alsancak Yeşilova SK İkinci Yarı 1–1 Karşıyaka SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25407\n📍 Al
  sancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25407
@@ -2093,23 +2093,23 @@ LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İkinci Yar
- ı 1–0 Karşıyaka SK
+ ı 1–1 Karşıyaka SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- İkinci Yarı 1–0 Karşıyaka SK
+ İkinci Yarı 1–1 Karşıyaka SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25408@ktff-takvim
-DTSTAMP:20261128T131542Z
-SEQUENCE:5
+DTSTAMP:20261128T133055Z
+SEQUENCE:6
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Cihangir GSK İkinci Yarı 0–0 Mesarya SK
+SUMMARY:⚽ Cihangir GSK İkinci Yarı 1–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25408\n📍 Ci
  hangir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macl
  ar/25408
@@ -2119,14 +2119,14 @@ STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 0–0 M
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 1–2 M
  esarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İkinci Ya
- rı 0–0 Mesarya SK
+ rı 1–2 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
