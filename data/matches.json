@@ -1407,7 +1407,7 @@
   "match_no": 25405,
   "league": "super-lig",
   "week": 12,
-  "home": "Dumlupınar TSK Devre Arası",
+  "home": "Dumlupınar TSK İkinci Yarı",
   "away": "Baf Ülkü Yurdu",
   "date": "2026-11-28",
   "time": null,
@@ -1415,9 +1415,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261128T130113Z",
+   "stamp": "20261128T131542Z",
    "venue_tries": 1
   }
  },
@@ -1425,7 +1425,7 @@
   "match_no": 25406,
   "league": "super-lig",
   "week": 12,
-  "home": "Aslanköy GSD Devre Arası",
+  "home": "Aslanköy GSD İkinci Yarı",
   "away": "Değirmenlik SK",
   "date": "2026-11-28",
   "time": null,
@@ -1433,9 +1433,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261128T130113Z",
+   "stamp": "20261128T131542Z",
    "venue_tries": 1
   }
  },
@@ -1443,7 +1443,7 @@
   "match_no": 25407,
   "league": "super-lig",
   "week": 12,
-  "home": "Alsancak Yeşilova SK Devre Arası",
+  "home": "Alsancak Yeşilova SK İkinci Yarı",
   "away": "Karşıyaka SK",
   "date": "2026-11-28",
   "time": null,
@@ -1451,9 +1451,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 5,
+  "rev": 6,
   "extra": {
-   "stamp": "20261128T130113Z",
+   "stamp": "20261128T131542Z",
    "venue_tries": 1
   }
  },
@@ -1461,7 +1461,7 @@
   "match_no": 25408,
   "league": "super-lig",
   "week": 12,
-  "home": "Cihangir GSK Devre Arası",
+  "home": "Cihangir GSK İkinci Yarı",
   "away": "Mesarya SK",
   "date": "2026-11-28",
   "time": null,
@@ -1469,9 +1469,9 @@
   "away_score": 0,
   "status": null,
   "venue": "Cihangir Stadı",
-  "rev": 4,
+  "rev": 5,
   "extra": {
-   "stamp": "20261128T130113Z",
+   "stamp": "20261128T131542Z",
    "venue_tries": 1
   }
  },
@@ -1479,17 +1479,17 @@
   "match_no": 25409,
   "league": "super-lig",
   "week": 12,
-  "home": "Doğan Türk Birliği Devre Arası",
+  "home": "Doğan Türk Birliği İkinci Yarı",
   "away": "Esentepe KSKK",
   "date": "2026-11-28",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 1,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261128T130113Z",
+   "stamp": "20261128T131542Z",
    "venue_tries": 1
   }
  },
@@ -1497,17 +1497,17 @@
   "match_no": 25410,
   "league": "super-lig",
   "week": 12,
-  "home": "Çetinkaya TSK Devre Arası",
+  "home": "Çetinkaya TSK İkinci Yarı",
   "away": "Mağusa Türk Gücü",
   "date": "2026-11-28",
   "time": null,
   "home_score": 1,
-  "away_score": 2,
+  "away_score": 3,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261128T130113Z",
+   "stamp": "20261128T131542Z",
    "venue_tries": 1
   }
  },

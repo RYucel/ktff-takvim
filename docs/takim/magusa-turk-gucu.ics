@@ -270,11 +270,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25410@ktff-takvim
-DTSTAMP:20261128T130113Z
-SEQUENCE:6
+DTSTAMP:20261128T131542Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Çetinkaya TSK Devre Arası 1–2 Mağusa Türk Gücü
+SUMMARY:⚽ Çetinkaya TSK İkinci Yarı 1–3 Mağusa Türk Gücü
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25410\n📍 Le
  fkoşa Atatürk Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff
  .org/maclar/25410
@@ -284,14 +284,14 @@ STATUS:CONFIRMED
 LOCATION:Lefkoşa Atatürk Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK Devre Arası 1–2 
- Mağusa Türk Gücü
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Çetinkaya TSK İkinci Yarı 1–3
+  Mağusa Türk Gücü
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK Devre Ar
- ası 1–2 Mağusa Türk Gücü
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Çetinkaya TSK İkinci 
+ Yarı 1–3 Mağusa Türk Gücü
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

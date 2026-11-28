@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//ktff-takvim//TR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Cihangir GSK Devre Arası Fikstürü
-X-WR-CALDESC:Cihangir GSK Devre Arası maçları. Kaynak: ktff.org
+X-WR-CALNAME:Cihangir GSK İkinci Yarı Fikstürü
+X-WR-CALDESC:Cihangir GSK İkinci Yarı maçları. Kaynak: ktff.org
 X-WR-TIMEZONE:Europe/Nicosia
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25408@ktff-takvim
-DTSTAMP:20261128T130113Z
-SEQUENCE:4
+DTSTAMP:20261128T131542Z
+SEQUENCE:5
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Cihangir GSK Devre Arası 0–0 Mesarya SK
+SUMMARY:⚽ Cihangir GSK İkinci Yarı 0–0 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25408\n📍 Ci
  hangir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macl
  ar/25408
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK Devre Arası 0–0 Me
- sarya SK
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 0–0 M
+ esarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK Devre Aras
- ı 0–0 Mesarya SK
+DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İkinci Ya
+ rı 0–0 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
