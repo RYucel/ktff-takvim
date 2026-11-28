@@ -10,11 +10,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:ktff-25408@ktff-takvim
-DTSTAMP:20261128T133055Z
-SEQUENCE:6
+DTSTAMP:20261128T134545Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Cihangir GSK İkinci Yarı 1–2 Mesarya SK
+SUMMARY:⚽ Cihangir GSK İkinci Yarı 2–2 Mesarya SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25408\n📍 Ci
  hangir Stadı\n⏰ Saat henüz açıklanmadı.\n🔗 https://ktff.org/macl
  ar/25408
@@ -24,14 +24,14 @@ STATUS:CONFIRMED
 LOCATION:Cihangir Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 1–2 M
+DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Cihangir GSK İkinci Yarı 2–2 M
  esarya SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Cihangir GSK İkinci Ya
- rı 1–2 Mesarya SK
+ rı 2–2 Mesarya SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

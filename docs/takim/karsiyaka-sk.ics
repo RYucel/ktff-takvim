@@ -267,11 +267,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ktff-25407@ktff-takvim
-DTSTAMP:20261128T133055Z
-SEQUENCE:7
+DTSTAMP:20261128T134545Z
+SEQUENCE:8
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:⚽ Alsancak Yeşilova SK İkinci Yarı 1–1 Karşıyaka SK
+SUMMARY:⚽ Alsancak Yeşilova SK İkinci Yarı 2–1 Karşıyaka SK
 DESCRIPTION:🏆 AKSA Süper Lig · 12. Hafta\n🔢 Maç No: 25407\n📍 Al
  sancak Mustafa Hidayet Çağlar Stadı\n⏰ Saat henüz açıklanmadı.\n
  🔗 https://ktff.org/maclar/25407
@@ -282,13 +282,13 @@ LOCATION:Alsancak Mustafa Hidayet Çağlar Stadı
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚽ Maç Hatırlatması: ⚽ Alsancak Yeşilova SK İkinci Yar
- ı 1–1 Karşıyaka SK
+ ı 2–1 Karşıyaka SK
 TRIGGER:-PT2H
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⏱️ Maç 15 dk sonra başlıyor! ⚽ Alsancak Yeşilova SK 
- İkinci Yarı 1–1 Karşıyaka SK
+ İkinci Yarı 2–1 Karşıyaka SK
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

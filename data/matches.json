@@ -1411,13 +1411,13 @@
   "away": "Baf Ülkü Yurdu",
   "date": "2026-11-28",
   "time": null,
-  "home_score": 6,
+  "home_score": 8,
   "away_score": 0,
   "status": null,
   "venue": "Gazimağusa Dr. Fazıl Küçük Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261128T133055Z",
+   "stamp": "20261128T134545Z",
    "venue_tries": 1
   }
  },
@@ -1429,13 +1429,13 @@
   "away": "Değirmenlik SK",
   "date": "2026-11-28",
   "time": null,
-  "home_score": 2,
+  "home_score": 3,
   "away_score": 0,
   "status": null,
   "venue": "Gaziköy Şenol Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261128T133055Z",
+   "stamp": "20261128T134545Z",
    "venue_tries": 1
   }
  },
@@ -1447,13 +1447,13 @@
   "away": "Karşıyaka SK",
   "date": "2026-11-28",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 1,
   "status": null,
   "venue": "Alsancak Mustafa Hidayet Çağlar Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261128T133055Z",
+   "stamp": "20261128T134545Z",
    "venue_tries": 1
   }
  },
@@ -1465,13 +1465,13 @@
   "away": "Mesarya SK",
   "date": "2026-11-28",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 2,
   "status": null,
   "venue": "Cihangir Stadı",
-  "rev": 6,
+  "rev": 7,
   "extra": {
-   "stamp": "20261128T133055Z",
+   "stamp": "20261128T134545Z",
    "venue_tries": 1
   }
  },
@@ -1483,13 +1483,13 @@
   "away": "Esentepe KSKK",
   "date": "2026-11-28",
   "time": null,
-  "home_score": 2,
+  "home_score": 3,
   "away_score": 1,
   "status": null,
   "venue": "Girne 20 Temmuz Mete Adanır Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261128T131542Z",
+   "stamp": "20261128T134545Z",
    "venue_tries": 1
   }
  },
@@ -1501,13 +1501,13 @@
   "away": "Mağusa Türk Gücü",
   "date": "2026-11-28",
   "time": null,
-  "home_score": 1,
+  "home_score": 2,
   "away_score": 3,
   "status": null,
   "venue": "Lefkoşa Atatürk Stadı",
-  "rev": 7,
+  "rev": 8,
   "extra": {
-   "stamp": "20261128T131542Z",
+   "stamp": "20261128T134545Z",
    "venue_tries": 1
   }
  },
